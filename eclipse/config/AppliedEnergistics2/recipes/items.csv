@@ -1,0 +1,1283 @@
+Mod:Item:MetaData, Localized Name
+minecraft:stone, Камень
+minecraft:grass, Блок травы
+minecraft:dirt:0, Земля
+minecraft:dirt:2, Подзол
+minecraft:cobblestone, Булыжник
+minecraft:planks:0, Дубовые доски
+minecraft:planks:1, Еловые доски
+minecraft:planks:2, Берёзовые доски
+minecraft:planks:3, Доски из тропического дерева
+minecraft:planks:4, Доски из акации
+minecraft:planks:5, Доски из тёмного дуба
+minecraft:sapling:0, Саженец дуба
+minecraft:sapling:1, Саженец ели
+minecraft:sapling:2, Саженец берёзы
+minecraft:sapling:3, Саженец тропического дерева
+minecraft:sapling:4, Саженец акации
+minecraft:sapling:5, Саженец тёмного дуба
+minecraft:bedrock, Бедрок
+minecraft:flowing_water, Вода
+minecraft:water, Вода
+minecraft:flowing_lava, Лава
+minecraft:lava, Лава
+minecraft:sand:0, Песок
+minecraft:sand:1, Красный песок
+minecraft:gravel, Гравий
+minecraft:gold_ore, Золотая руда
+minecraft:iron_ore, Железная руда
+minecraft:coal_ore, Уголь
+minecraft:log:0, Дуб
+minecraft:log:1, Ель
+minecraft:log:2, Берёза
+minecraft:log:3, Тропическое дерево
+minecraft:leaves:0, Дубовые листья
+minecraft:leaves:1, Хвоя
+minecraft:leaves:2, Берёзовые листья
+minecraft:leaves:3, Листья тропического дерева
+minecraft:sponge, Губка
+minecraft:glass, Стекло
+minecraft:lapis_ore, Лазуритовая руда
+minecraft:lapis_block, Блок лазурита
+minecraft:dispenser, Раздатчик
+minecraft:sandstone:0, Песчаник
+minecraft:sandstone:1, Резной песчаник
+minecraft:sandstone:2, Гладкий песчаник
+minecraft:noteblock, Нотный блок
+minecraft:golden_rail, Энергорельсы
+minecraft:detector_rail, Рельсы с датчиком
+minecraft:sticky_piston, Липкий поршень
+minecraft:web, Паутина
+minecraft:tallgrass:1, Высокая трава
+minecraft:tallgrass:2, Папоротник
+minecraft:deadbush, Мертвый куст
+minecraft:piston, Поршень
+minecraft:wool:0, Шерсть
+minecraft:wool:1, Оранжевая шерсть
+minecraft:wool:2, Пурпурная шерсть
+minecraft:wool:3, Голубая шерсть
+minecraft:wool:4, Желтая шерсть
+minecraft:wool:5, Лаймовая шерсть
+minecraft:wool:6, Розовая шерсть
+minecraft:wool:7, Серая шерсть
+minecraft:wool:8, Светло-серая шерсть
+minecraft:wool:9, Бирюзовая шерсть
+minecraft:wool:10, Фиолетовая шерсть
+minecraft:wool:11, Синяя шерсть
+minecraft:wool:12, Коричневая шерсть
+minecraft:wool:13, Зеленая шерсть
+minecraft:wool:14, Красная шерсть
+minecraft:wool:15, Черная шерсть
+minecraft:yellow_flower:0, Одуванчик
+minecraft:red_flower:0, Мак
+minecraft:red_flower:1, Синяя орхидея
+minecraft:red_flower:2, Лук
+minecraft:red_flower:3, Голубой василек
+minecraft:red_flower:4, Красный тюльпан
+minecraft:red_flower:5, Оранжевый тюльпан
+minecraft:red_flower:6, Белый тюльпан
+minecraft:red_flower:7, Розовый тюльпан
+minecraft:red_flower:8, Ромашка
+minecraft:brown_mushroom, Гриб
+minecraft:red_mushroom, Гриб
+minecraft:gold_block, Золотой блок
+minecraft:iron_block, Железный блок
+minecraft:stone_slab:0, Каменная плита
+minecraft:stone_slab:1, Плита из песчаника
+minecraft:stone_slab:3, Плита из булыжника
+minecraft:stone_slab:4, Кирпичная плита
+minecraft:stone_slab:5, Плита из каменных кирпичей
+minecraft:stone_slab:6, Плита из адского кирпича
+minecraft:stone_slab:7, Кварцевая плита
+minecraft:brick_block, Кирпичи
+minecraft:tnt, Динамит
+minecraft:bookshelf, Книжная полка
+minecraft:mossy_cobblestone, Замшелый булыжник
+minecraft:obsidian, Обсидиан
+minecraft:torch, Факел
+minecraft:fire, Огонь
+minecraft:mob_spawner:0, Рассадник монстров
+minecraft:oak_stairs, Дубовые ступеньки
+minecraft:chest, Сундук
+minecraft:diamond_ore, Алмазная руда
+minecraft:diamond_block, Алмазный блок
+minecraft:crafting_table, Верстак
+minecraft:farmland, Пашня
+minecraft:furnace, Печь
+minecraft:lit_furnace, Печь
+minecraft:ladder, Лестница
+minecraft:rail, Рельсы
+minecraft:stone_stairs, Ступеньки из булыжника
+minecraft:lever, Рычаг
+minecraft:stone_pressure_plate, Нажимная плита
+minecraft:wooden_pressure_plate, Нажимная плита
+minecraft:redstone_ore, Красная руда
+minecraft:redstone_torch, Красный факел
+minecraft:stone_button, Кнопка
+minecraft:snow_layer:0, Снег
+minecraft:ice, Лёд
+minecraft:snow, Снег
+minecraft:cactus, Кактус
+minecraft:clay, Глина
+minecraft:jukebox, Проигрыватель
+minecraft:fence, Забор
+minecraft:pumpkin, Тыква
+minecraft:netherrack, Адский камень
+minecraft:soul_sand, Песок душ
+minecraft:glowstone, Светящийся камень
+minecraft:portal, Портал
+minecraft:lit_pumpkin, Светильник Джека
+minecraft:stained_glass:0, Белое стекло
+minecraft:stained_glass:1, Оранжевое стекло
+minecraft:stained_glass:2, Пурпурное стекло
+minecraft:stained_glass:3, Голубое стекло
+minecraft:stained_glass:4, Жёлтое стекло
+minecraft:stained_glass:5, Лаймовое стекло
+minecraft:stained_glass:6, Розовое стекло
+minecraft:stained_glass:7, Серое стекло
+minecraft:stained_glass:8, Светло-серое стекло
+minecraft:stained_glass:9, Бирюзовое стекло
+minecraft:stained_glass:10, Фиолетовое стекло
+minecraft:stained_glass:11, Синее стекло
+minecraft:stained_glass:12, Коричневое стекло
+minecraft:stained_glass:13, Зелёное стекло
+minecraft:stained_glass:14, Красное стекло
+minecraft:stained_glass:15, Чёрное стекло
+minecraft:trapdoor, Люк
+minecraft:monster_egg:0, Камень с монстрами
+minecraft:monster_egg:1, Булыжник с монстрами
+minecraft:monster_egg:2, Каменный кирпич с монстрами
+minecraft:monster_egg:3, Замшелый каменный кирпич с монстрами
+minecraft:monster_egg:4, Потрескавшийся каменный кирпич с монстрами
+minecraft:monster_egg:5, Резной каменный кирпич с монстрами
+minecraft:stonebrick:0, Каменные кирпичи
+minecraft:stonebrick:1, Замшелые каменные кирпичи
+minecraft:stonebrick:2, Потресканные каменные кирпичи
+minecraft:stonebrick:3, Резные каменные кирпичи
+minecraft:brown_mushroom_block, Гриб
+minecraft:red_mushroom_block, Гриб
+minecraft:iron_bars, Железные прутья
+minecraft:glass_pane, Стеклянная панель
+minecraft:melon_block, Арбуз
+minecraft:vine, Лоза
+minecraft:fence_gate, Калитка
+minecraft:brick_stairs, Кирпичные ступеньки
+minecraft:stone_brick_stairs, Ступеньки из каменного кирпича
+minecraft:mycelium, Мицелий
+minecraft:waterlily, Кувшинка
+minecraft:nether_brick, Адские кирпичи
+minecraft:nether_brick_fence, Адский забор
+minecraft:nether_brick_stairs, Адские ступеньки
+minecraft:enchanting_table, Стол зачарований
+minecraft:end_portal, tile.null.name
+minecraft:end_portal_frame, Портал в Энд
+minecraft:end_stone, Эндерняк
+minecraft:dragon_egg, Яйцо дракона
+minecraft:redstone_lamp, Лампа
+minecraft:wooden_slab:0, Дубовая плита
+minecraft:wooden_slab:1, Еловая панель
+minecraft:wooden_slab:2, Берёзовая плита
+minecraft:wooden_slab:3, Плита из тропического дерева
+minecraft:wooden_slab:4, Плита из акации
+minecraft:wooden_slab:5, Плита из тёмного дуба
+minecraft:cocoa, Какао
+minecraft:sandstone_stairs, Ступеньки из песчаника
+minecraft:emerald_ore, Изумрудная руда
+minecraft:ender_chest, Сундук Эндера
+minecraft:tripwire_hook, Крюк
+minecraft:emerald_block, Изумрудный блок
+minecraft:spruce_stairs, Еловые ступеньки
+minecraft:birch_stairs, Березовые ступеньки
+minecraft:jungle_stairs, Ступеньки из тропической древесины
+minecraft:command_block, Командный блок
+minecraft:beacon, Маяк
+minecraft:cobblestone_wall:0, Каменная ограда
+minecraft:cobblestone_wall:1, Ограда из замшелого булыжника
+minecraft:carrots, Морковь
+minecraft:potatoes, Картофель
+minecraft:wooden_button, Кнопка
+minecraft:anvil:0, Наковальня
+minecraft:anvil:1, Повреждённая наковальня
+minecraft:anvil:2, Сильно повреждённая наковальня
+minecraft:trapped_chest, Сундук-ловушка
+minecraft:light_weighted_pressure_plate, Утяжелённая нажимная пластина (Лёгкая)
+minecraft:heavy_weighted_pressure_plate, Утяжелённая нажимная пластина (Тяжёлая)
+minecraft:daylight_detector, Датчик дневного света
+minecraft:redstone_block, Блок красного камня
+minecraft:quartz_ore, Кварцевая руда
+minecraft:hopper, Воронка
+minecraft:quartz_block:0, Кварцевый блок
+minecraft:quartz_block:1, Резной кварцевый блок
+minecraft:quartz_block:2, Кварцевая колонна
+minecraft:quartz_stairs, Кварцевые ступеньки
+minecraft:activator_rail, Активирующие рельсы
+minecraft:dropper, Выбрасыватель
+minecraft:stained_hardened_clay:0, Белая обожжённая глина
+minecraft:stained_hardened_clay:1, Оранжевая обожжённая глина
+minecraft:stained_hardened_clay:2, Пурпурная обожжённая глина
+minecraft:stained_hardened_clay:3, Голубая обожжённая глина
+minecraft:stained_hardened_clay:4, Жёлтая обожжённая глина
+minecraft:stained_hardened_clay:5, Лаймовая обожжённая глина
+minecraft:stained_hardened_clay:6, Розовая обожжённая глина
+minecraft:stained_hardened_clay:7, Серая обожжённая глина
+minecraft:stained_hardened_clay:8, Светло-серая обожжённая глина
+minecraft:stained_hardened_clay:9, Бирюзовая обожжённая глина
+minecraft:stained_hardened_clay:10, Фиолетовая обожжённая глина
+minecraft:stained_hardened_clay:11, Синяя обожжённая глина
+minecraft:stained_hardened_clay:12, Коричневая обожжённая глина
+minecraft:stained_hardened_clay:13, Зелёная обожжённая глина
+minecraft:stained_hardened_clay:14, Красная обожжённая глина
+minecraft:stained_hardened_clay:15, Чёрная обожжённая глина
+minecraft:stained_glass_pane:0, Белая стеклянная панель
+minecraft:stained_glass_pane:1, Оранжевая стеклянная панель
+minecraft:stained_glass_pane:2, Пурпурная стеклянная панель
+minecraft:stained_glass_pane:3, Голубая стеклянная панель
+minecraft:stained_glass_pane:4, Жёлтая стеклянная панель
+minecraft:stained_glass_pane:5, Лаймовая стеклянная панель
+minecraft:stained_glass_pane:6, Розовая стеклянная панель
+minecraft:stained_glass_pane:7, Серая стеклянная панель
+minecraft:stained_glass_pane:8, Светло-серая стеклянная панель
+minecraft:stained_glass_pane:9, Бирюзовая стеклянная панель
+minecraft:stained_glass_pane:10, Фиолетовая стеклянная панель
+minecraft:stained_glass_pane:11, Синяя стеклянная панель
+minecraft:stained_glass_pane:12, Коричневая стеклянная панель
+minecraft:stained_glass_pane:13, Зелёная стеклянная панель
+minecraft:stained_glass_pane:14, Красная стеклянная панель
+minecraft:stained_glass_pane:15, Чёрная стеклянная панель
+minecraft:leaves2:0, Листья акации
+minecraft:leaves2:1, Листья тёмного дуба
+minecraft:log2:0, Древесина акации
+minecraft:log2:1, Древесина тёмного дуба
+minecraft:acacia_stairs, Ступеньки из древесины акации
+minecraft:dark_oak_stairs, Ступеньки из тёмного дуба
+cobblermod:cobbler_tier_1, Генератор булыжника 1 уровня
+cobblermod:cobbler_tier_2, Генератор булыжника 2 уровня
+cobblermod:cobbler_tier_3, Генератор булыжника 3 уровня
+cobblermod:cobbler_tier_4, Генератор булыжника 4 уровня
+cobblermod:cobbler_tier_5, Генератор булыжника 5 уровня
+minecraft:hay_block, Сноп сена
+minecraft:carpet:0, Ковёр
+minecraft:carpet:1, Оранжевый ковёр
+minecraft:carpet:2, Пурпурный ковёр
+minecraft:carpet:3, Голубой ковёр
+minecraft:carpet:4, Жёлтый ковёр
+minecraft:carpet:5, Лаймовый ковёр
+minecraft:carpet:6, Розовый ковёр
+minecraft:carpet:7, Серый ковёр
+minecraft:carpet:8, Светло-серый ковёр
+minecraft:carpet:9, Бирюзовый ковёр
+minecraft:carpet:10, Фиолетовый ковёр
+minecraft:carpet:11, Синий ковёр
+minecraft:carpet:12, Коричневый ковёр
+minecraft:carpet:13, Зелёный ковёр
+minecraft:carpet:14, Красный ковёр
+minecraft:carpet:15, Чёрный ковёр
+minecraft:hardened_clay, Обожжёная глина
+minecraft:coal_block, Угольный блок
+minecraft:packed_ice, Плотный лёд
+minecraft:double_plant:0, Подсолнух
+minecraft:double_plant:1, Сирень
+minecraft:double_plant:2, Двойная высокая трава
+minecraft:double_plant:3, Раскидистый папоротник
+minecraft:double_plant:4, Розовый куст
+minecraft:double_plant:5, Пион
+cobblermod:cobbler_tier_super, Максимальный Генератор булыжника
+cobblermod:creative_cobbler, Творческий Генератор булыжника
+appliedenergistics2:tile.OreQuartz, Руда истинного кварца
+appliedenergistics2:tile.OreQuartzCharged, Заряженная руда истинного кварца
+appliedenergistics2:tile.BlockMatrixFrame, Каркас матрицы
+appliedenergistics2:tile.BlockQuartz, Блок истинного кварца
+appliedenergistics2:tile.BlockQuartzPillar, Колонна истинного кварца
+appliedenergistics2:tile.BlockQuartzChiseled, Резной блок истинного кварца
+appliedenergistics2:tile.BlockQuartzGlass, Кварцевое стекло
+appliedenergistics2:tile.BlockQuartzLamp, Энергичное кварцевое стекло
+appliedenergistics2:tile.BlockQuartzTorch, Светильник из заряженного кварца
+appliedenergistics2:tile.BlockFluix, Изменчивый блок
+appliedenergistics2:tile.BlockSkyStone:0, Небесный камень
+appliedenergistics2:tile.BlockSkyStone:1, Блок небесного камня
+appliedenergistics2:tile.BlockSkyStone:2, Кирпич небесного камня
+appliedenergistics2:tile.BlockSkyStone:3, Малый кирпич небесного камня
+appliedenergistics2:tile.BlockSkyChest:0, Сундук из небесного камня
+appliedenergistics2:tile.BlockSkyChest:1, Сундук из блока небесного камня
+appliedenergistics2:tile.BlockSkyCompass, Метеоритный компас
+appliedenergistics2:tile.BlockGrinder, Кварцевый дробитель
+appliedenergistics2:tile.BlockCrank, Деревянная рукоятка
+appliedenergistics2:tile.BlockInscriber, Высекатель
+appliedenergistics2:tile.BlockWireless, МЭ беспроводная точка доступа
+appliedenergistics2:tile.BlockCharger, Зарядник
+appliedenergistics2:tile.BlockTinyTNT, Маленький динамит
+appliedenergistics2:tile.BlockSecurity, МЭ терминал безопасности
+appliedenergistics2:tile.BlockQuantumRing, МЭ квантовое кольцо
+appliedenergistics2:tile.BlockQuantumLinkChamber, МЭ камера квантовой связи
+appliedenergistics2:tile.BlockSpatialPylon, Пространственный пилон
+appliedenergistics2:tile.BlockSpatialIOPort, Пространственный порт ввода\вывода
+appliedenergistics2:tile.BlockCableBus, AE2 кабель и/или шина
+appliedenergistics2:tile.BlockController, МЭ контроллер
+appliedenergistics2:tile.BlockDrive, МЭ накопитель
+appliedenergistics2:tile.BlockChest, МЭ сундук
+appliedenergistics2:tile.BlockInterface, МЭ интерфейс
+appliedenergistics2:tile.BlockCellWorkbench, Верстак для ячеек
+appliedenergistics2:tile.BlockIOPort, МЭ порт ввода\вывода
+appliedenergistics2:tile.BlockCondenser, Конденсатор материи
+appliedenergistics2:tile.BlockEnergyAcceptor, Приёмщик энергии
+appliedenergistics2:tile.BlockVibrationChamber, Вибрационная камера
+appliedenergistics2:tile.BlockQuartzGrowthAccelerator, Ускоритель роста кристаллов
+appliedenergistics2:tile.BlockEnergyCell, Энергетическая ячейка
+appliedenergistics2:tile.BlockDenseEnergyCell, Плотная энергетическая ячейка
+appliedenergistics2:tile.BlockCreativeEnergyCell, Творческая энергетическая ячейка
+appliedenergistics2:tile.BlockCraftingUnit:0, Блок создания
+appliedenergistics2:tile.BlockCraftingUnit:1, Блок обработки создания
+appliedenergistics2:tile.BlockCraftingStorage:0, 1К хранилище создания
+appliedenergistics2:tile.BlockCraftingStorage:1, 4К хранилище создания
+appliedenergistics2:tile.BlockCraftingStorage:2, 16К хранилище создания
+appliedenergistics2:tile.BlockCraftingStorage:3, 64К хранилище создания
+appliedenergistics2:tile.BlockCraftingMonitor:0, Монитор создания
+appliedenergistics2:tile.BlockMolecularAssembler, Молекулярный сборщик
+appliedenergistics2:tile.BlockLightDetector, Светильник обнаружения света
+appliedenergistics2:tile.BlockPaint, tile.appliedenergistics2.BlockPaint.name
+appliedenergistics2:tile.SkyStoneStairBlock, Ступеньки из небесного камня
+appliedenergistics2:tile.SkyStoneBlockStairBlock, Ступеньки из блока небесного камня
+appliedenergistics2:tile.SkyStoneBrickStairBlock, Ступеньки из кирпича небесного камня
+appliedenergistics2:tile.SkyStoneSmallBrickStairBlock, Ступеньки из малого кирпича небесного камня
+appliedenergistics2:tile.FluixStairBlock, Изменчивые ступеньки
+appliedenergistics2:tile.QuartzStairBlock, Ступеньки из истинного кварца
+appliedenergistics2:tile.ChiseledQuartzStairBlock, Ступеньки из резного истинного кварца
+appliedenergistics2:tile.QuartzPillarStairBlock, Ступеньки из колонны истинного кварца
+appliedenergistics2:tile.SkyStoneSlabBlock:0, Sky Stone Slabs
+appliedenergistics2:tile.SkyStoneSlabBlock.double:0, Sky Stone Slabs
+appliedenergistics2:tile.SkyStoneBlockSlabBlock:0, Sky Stone Block Slabs
+appliedenergistics2:tile.SkyStoneBlockSlabBlock.double:0, Sky Stone Block Slabs
+appliedenergistics2:tile.SkyStoneBrickSlabBlock:0, Sky Stone Brick Slabs
+appliedenergistics2:tile.SkyStoneBrickSlabBlock.double:0, Sky Stone Brick Slabs
+appliedenergistics2:tile.SkyStoneSmallBrickSlabBlock:0, Sky Stone Small Brick Slabs
+appliedenergistics2:tile.SkyStoneSmallBrickSlabBlock.double:0, Sky Stone Small Brick Slabs
+appliedenergistics2:tile.FluixSlabBlock:0, Fluix Slabs
+appliedenergistics2:tile.FluixSlabBlock.double:0, Fluix Slabs
+appliedenergistics2:tile.QuartzSlabBlock:0, Certus Quartz Slabs
+appliedenergistics2:tile.QuartzSlabBlock.double:0, Certus Quartz Slabs
+appliedenergistics2:tile.ChiseledQuartzSlabBlock:0, Chiseled Certus Quartz Slabs
+appliedenergistics2:tile.ChiseledQuartzSlabBlock.double:0, Chiseled Certus Quartz Slabs
+appliedenergistics2:tile.QuartzPillarSlabBlock:0, Certus Quartz Pillar Slabs
+appliedenergistics2:tile.QuartzPillarSlabBlock.double:0, Certus Quartz Pillar Slabs
+ThermalFoundation:Ore:0, Медная руда
+ThermalFoundation:Ore:1, Оловянная руда
+ThermalFoundation:Ore:2, Серебряная руда
+ThermalFoundation:Ore:3, Свинцовая руда
+ThermalFoundation:Ore:4, Никелевая руда
+ThermalFoundation:Ore:5, Платиновая руда
+ThermalFoundation:Ore:6, Мифриловая руда
+ThermalFoundation:Storage:0, Медный блок
+ThermalFoundation:Storage:1, Оловянный блок
+ThermalFoundation:Storage:2, Серебряный блок
+ThermalFoundation:Storage:3, Свинцовый блок
+ThermalFoundation:Storage:4, Никелевый блок
+ThermalFoundation:Storage:5, Платиновый блок
+ThermalFoundation:Storage:6, Мифриловый блок
+ThermalFoundation:Storage:7, Электрумовый блок
+ThermalFoundation:Storage:8, Инваровый блок
+ThermalFoundation:Storage:9, Бронзовый блок
+ThermalFoundation:Storage:10, Синаловый блок
+ThermalFoundation:Storage:11, Ламиумовый блок
+ThermalFoundation:Storage:12, Блок эндериума
+ThermalFoundation:FluidRedstone, Дестабилизированный красный камень
+ThermalFoundation:FluidGlowstone, Заряженный светящийся камень
+ThermalFoundation:FluidEnder, Резонирующий эндериум
+ThermalFoundation:FluidPyrotheum, Пылающий пиротеум
+ThermalFoundation:FluidCryotheum, Ледяной криотеум
+ThermalFoundation:FluidAerotheum, Невесомый аэротеум
+ThermalFoundation:FluidPetrotheum, Тектонический петротеум
+ThermalFoundation:FluidMana, Изначальная мана
+minecraft:iron_shovel, Железная лопата
+minecraft:iron_pickaxe, Железная кирка
+minecraft:iron_axe, Железный топор
+minecraft:flint_and_steel, Огниво
+minecraft:apple, Яблоко
+minecraft:bow, Лук
+minecraft:arrow, Стрела
+minecraft:coal:0, Уголь
+minecraft:coal:1, Древесный уголь
+minecraft:diamond, Алмаз
+minecraft:iron_ingot, Железный слиток
+minecraft:gold_ingot, Золотой слиток
+minecraft:iron_sword, Железный меч
+minecraft:wooden_sword, Деревянный меч
+minecraft:wooden_shovel, Деревянная лопата
+minecraft:wooden_pickaxe, Деревянная кирка
+minecraft:wooden_axe, Деревянный топор
+minecraft:stone_sword, Каменный меч
+minecraft:stone_shovel, Каменная лопата
+minecraft:stone_pickaxe, Каменная кирка
+minecraft:stone_axe, Каменный топор
+minecraft:diamond_sword, Алмазный меч
+minecraft:diamond_shovel, Алмазная лопата
+minecraft:diamond_pickaxe, Алмазная кирка
+minecraft:diamond_axe, Алмазный топор
+minecraft:stick, Палка
+minecraft:bowl, Миска
+minecraft:mushroom_stew, Тушеные грибы
+minecraft:golden_sword, Золотой меч
+minecraft:golden_shovel, Золотая лопата
+minecraft:golden_pickaxe, Золотая кирка
+minecraft:golden_axe, Золотой топор
+minecraft:string, Нить
+minecraft:feather, Перо
+minecraft:gunpowder, Порох
+minecraft:wooden_hoe, Деревянная мотыга
+minecraft:stone_hoe, Каменная мотыга
+minecraft:iron_hoe, Железная мотыга
+minecraft:diamond_hoe, Алмазная мотыга
+minecraft:golden_hoe, Золотая мотыга
+minecraft:wheat_seeds, Семена пшеницы
+minecraft:wheat, Пшеница
+minecraft:bread, Хлеб
+minecraft:leather_helmet, Кожаный шлем
+minecraft:leather_chestplate, Кожаная куртка
+minecraft:leather_leggings, Кожаные штаны
+minecraft:leather_boots, Кожаные ботинки
+minecraft:chainmail_helmet, Койф
+minecraft:chainmail_chestplate, Кольчуга
+minecraft:chainmail_leggings, Кольчужные поножи
+minecraft:chainmail_boots, Кольчужные ботинки
+minecraft:iron_helmet, Железный шлем
+minecraft:iron_chestplate, Железный нагрудник
+minecraft:iron_leggings, Железные поножи
+minecraft:iron_boots, Железные ботинки
+minecraft:diamond_helmet, Алмазный шлем
+minecraft:diamond_chestplate, Алмазный нагрудник
+minecraft:diamond_leggings, Алмазные поножи
+minecraft:diamond_boots, Алмазные ботинки
+minecraft:golden_helmet, Золотой шлем
+minecraft:golden_chestplate, Золотой нагрудник
+minecraft:golden_leggings, Золотые поножи
+minecraft:golden_boots, Золотые ботинки
+minecraft:flint, Кремень
+minecraft:porkchop, Сырая свинина
+minecraft:cooked_porkchop, Жареная свинина
+minecraft:painting, Картина
+minecraft:golden_apple:0, Золотое яблоко
+minecraft:golden_apple:1, Золотое яблоко
+minecraft:sign, Табличка
+minecraft:wooden_door, Деревянная дверь
+minecraft:bucket, Ведро
+minecraft:water_bucket, Ведро воды
+minecraft:lava_bucket, Ведро лавы
+minecraft:minecart, Вагонетка
+minecraft:saddle, Седло
+minecraft:iron_door, Железная дверь
+minecraft:redstone, Красная пыль
+minecraft:snowball, Снежок
+minecraft:boat, Лодка
+minecraft:leather, Кожа
+minecraft:milk_bucket, Молоко
+minecraft:brick, Кирпич
+minecraft:clay_ball, Глина
+minecraft:reeds, Сахарный тростник
+minecraft:paper, Бумага
+minecraft:book, Книга
+minecraft:slime_ball, Сгусток слизи
+minecraft:chest_minecart, Грузовая вагонетка
+minecraft:furnace_minecart, Самоходная вагонетка
+minecraft:egg, Яйцо
+minecraft:compass, Компас
+minecraft:fishing_rod, Удочка
+minecraft:clock, Часы
+minecraft:glowstone_dust, Светящаяся пыль
+minecraft:fish:0, Сырая рыба
+minecraft:fish:1, Сырой лосось
+minecraft:fish:2, Рыба-клоун
+minecraft:fish:3, Рыба фугу
+minecraft:cooked_fished:0, Приготовленная рыба
+minecraft:cooked_fished:1, Приготовленный лосось
+minecraft:dye:0, Чернильный мешок
+minecraft:dye:1, Красный краситель
+minecraft:dye:2, Зеленый краситель
+minecraft:dye:3, Какао-бобы
+minecraft:dye:4, Лазурит
+minecraft:dye:5, Фиолетовый краситель
+minecraft:dye:6, Бирюзовый краситель
+minecraft:dye:7, Светло-серый краситель
+minecraft:dye:8, Серый краситель
+minecraft:dye:9, Розовый краситель
+minecraft:dye:10, Лаймовый краситель
+minecraft:dye:11, Желтый краситель
+minecraft:dye:12, Голубой краситель
+minecraft:dye:13, Пурпурный краситель
+minecraft:dye:14, Оранжевый краситель
+minecraft:dye:15, Костная мука
+minecraft:bone, Кость
+minecraft:sugar, Сахар
+minecraft:cake, Торт
+minecraft:bed, Кровать
+minecraft:repeater, Повторитель
+minecraft:cookie, Печенье
+minecraft:filled_map:0, Карта
+minecraft:shears, Ножницы
+minecraft:melon, Арбуз
+minecraft:pumpkin_seeds, Семена тыквы
+minecraft:melon_seeds, Семена арбуза
+minecraft:beef, Сырая говядина
+minecraft:cooked_beef, Стейк
+minecraft:chicken, Курятина
+minecraft:cooked_chicken, Жареная курица
+minecraft:rotten_flesh, Гнилая плоть
+minecraft:ender_pearl, Жемчуг Эндера
+minecraft:blaze_rod, Стержень ифрита
+minecraft:ghast_tear, Слеза Гаста
+minecraft:gold_nugget, Золотой самородок
+minecraft:nether_wart, Адский нарост
+minecraft:potion:0, Пузырёк воды
+minecraft:potion:8193, Зелье регенерации
+minecraft:potion:8225, Зелье регенерации
+minecraft:potion:8257, Зелье регенерации
+minecraft:potion:16385, Взрывное Зелье регенерации
+minecraft:potion:16417, Взрывное Зелье регенерации
+minecraft:potion:16449, Взрывное Зелье регенерации
+minecraft:potion:8194, Зелье стремительности
+minecraft:potion:8226, Зелье стремительности
+minecraft:potion:8258, Зелье стремительности
+minecraft:potion:16386, Взрывное Зелье стремительности
+minecraft:potion:16418, Взрывное Зелье стремительности
+minecraft:potion:16450, Взрывное Зелье стремительности
+minecraft:potion:8227, Зелье огнестойкости
+minecraft:potion:8259, Зелье огнестойкости
+minecraft:potion:16419, Взрывное Зелье огнестойкости
+minecraft:potion:16451, Взрывное Зелье огнестойкости
+minecraft:potion:8196, Зелье отравления
+minecraft:potion:8228, Зелье отравления
+minecraft:potion:8260, Зелье отравления
+minecraft:potion:16388, Взрывное Зелье отравления
+minecraft:potion:16420, Взрывное Зелье отравления
+minecraft:potion:16452, Взрывное Зелье отравления
+minecraft:potion:8261, Лечебное зелье
+minecraft:potion:8229, Лечебное зелье
+minecraft:potion:16453, Взрывное Лечебное зелье
+minecraft:potion:16421, Взрывное Лечебное зелье
+minecraft:potion:8230, Зелье ночного зрения
+minecraft:potion:8262, Зелье ночного зрения
+minecraft:potion:16422, Взрывное Зелье ночного зрения
+minecraft:potion:16454, Взрывное Зелье ночного зрения
+minecraft:potion:8232, Зелье слабости
+minecraft:potion:8264, Зелье слабости
+minecraft:potion:16424, Взрывное Зелье слабости
+minecraft:potion:16456, Взрывное Зелье слабости
+minecraft:potion:8201, Зелье силы
+minecraft:potion:8233, Зелье силы
+minecraft:potion:8265, Зелье силы
+minecraft:potion:16393, Взрывное Зелье силы
+minecraft:potion:16425, Взрывное Зелье силы
+minecraft:potion:16457, Взрывное Зелье силы
+minecraft:potion:8234, Зелье замедления
+minecraft:potion:8266, Зелье замедления
+minecraft:potion:16426, Взрывное Зелье замедления
+minecraft:potion:16458, Взрывное Зелье замедления
+minecraft:potion:8268, Зелье вреда
+minecraft:potion:8236, Зелье вреда
+minecraft:potion:16460, Взрывное Зелье вреда
+minecraft:potion:16428, Взрывное Зелье вреда
+minecraft:potion:8237, Зелье подводного дыхания
+minecraft:potion:8269, Зелье подводного дыхания
+minecraft:potion:16429, Взрывное Зелье подводного дыхания
+minecraft:potion:16461, Взрывное Зелье подводного дыхания
+minecraft:potion:8238, Зелье невидимости
+minecraft:potion:8270, Зелье невидимости
+minecraft:potion:16430, Взрывное Зелье невидимости
+minecraft:potion:16462, Взрывное Зелье невидимости
+minecraft:glass_bottle, Пузырёк
+minecraft:spider_eye, Паучий глаз
+minecraft:fermented_spider_eye, Маринованный паучий глаз
+minecraft:blaze_powder, Огненный порошок
+minecraft:magma_cream, Сгусток магмы
+minecraft:brewing_stand, Варочная стойка
+minecraft:cauldron, Котёл
+minecraft:ender_eye, Око Эндера
+minecraft:speckled_melon, Сверкающий арбуз
+minecraft:spawn_egg:50, Призвать существо - Крипер
+minecraft:spawn_egg:51, Призвать существо - Скелет
+minecraft:spawn_egg:52, Призвать существо - Паук
+minecraft:spawn_egg:54, Призвать существо - Зомби
+minecraft:spawn_egg:55, Призвать существо - Слизень
+minecraft:spawn_egg:56, Призвать существо - Гаст
+minecraft:spawn_egg:57, Призвать существо - Свинозомби
+minecraft:spawn_egg:58, Призвать существо - Эндермен
+minecraft:spawn_egg:59, Призвать существо - Пещерный паук
+minecraft:spawn_egg:60, Призвать существо - Чешуйница
+minecraft:spawn_egg:61, Призвать существо - Ифрит
+minecraft:spawn_egg:62, Призвать существо - Адский слизень
+minecraft:spawn_egg:65, Призвать существо - Летучая мышь
+minecraft:spawn_egg:66, Призвать существо - Ведьма
+minecraft:spawn_egg:90, Призвать существо - Свинья
+minecraft:spawn_egg:91, Призвать существо - Овца
+minecraft:spawn_egg:92, Призвать существо - Корова
+minecraft:spawn_egg:93, Призвать существо - Курица
+minecraft:spawn_egg:94, Призвать существо - Спрут
+minecraft:spawn_egg:95, Призвать существо - Волк
+minecraft:spawn_egg:96, Призвать существо - Мууухомор
+minecraft:spawn_egg:98, Призвать существо - Оцелот
+minecraft:spawn_egg:100, Призвать существо - Лошадь
+minecraft:spawn_egg:120, Призвать существо - Житель
+minecraft:experience_bottle, Пузырёк опыта
+minecraft:fire_charge, Огненный шар
+minecraft:writable_book, Книга и перо
+minecraft:written_book, Завершенная книга
+minecraft:emerald, Изумруд
+minecraft:item_frame, Рамка
+minecraft:flower_pot, Цветочный горшок
+minecraft:carrot, Морковь
+minecraft:potato, Картофель
+minecraft:baked_potato, Печёный картофель
+minecraft:poisonous_potato, Ядовитый картофель
+minecraft:map, Чистая карта
+minecraft:golden_carrot, Золотая морковь
+minecraft:skull:0, Череп
+minecraft:skull:1, Череп Скелета-Иссушителя
+minecraft:skull:2, Голова зомби
+minecraft:skull:3, Голова
+minecraft:skull:4, Голова крипера
+minecraft:carrot_on_a_stick, Удочка с морковью
+minecraft:nether_star, Адская звезда
+minecraft:pumpkin_pie, Тыквенный пирог
+minecraft:fireworks, Фейерверк
+minecraft:firework_charge, Звёздочка
+minecraft:enchanted_book, Зачарованная книга
+minecraft:comparator, Компаратор
+minecraft:netherbrick, Адский кирпич
+minecraft:quartz, Кварц
+minecraft:tnt_minecart, Вагонетка с динамитом
+minecraft:hopper_minecart, Вагонетка с загрузочной воронкой
+ThermalFoundation:FluidSteam, Пар
+ThermalFoundation:FluidCoal, Разжиженный уголь
+minecraft:iron_horse_armor, Железная конская броня
+minecraft:golden_horse_armor, Золотая конская броня
+minecraft:diamond_horse_armor, Алмазная конская броня
+minecraft:lead, Поводок
+minecraft:name_tag, Бирка
+minecraft:command_block_minecart, Вагонетка с командным блоком
+minecraft:record_13, Пластинка
+minecraft:record_cat, Пластинка
+minecraft:record_blocks, Пластинка
+minecraft:record_chirp, Пластинка
+minecraft:record_far, Пластинка
+minecraft:record_mall, Пластинка
+minecraft:record_mellohi, Пластинка
+minecraft:record_stal, Пластинка
+minecraft:record_strad, Пластинка
+minecraft:record_ward, Пластинка
+minecraft:record_11, Пластинка
+minecraft:record_wait, Пластинка
+appliedenergistics2:item.ToolCertusQuartzAxe, Топор из истинного кварца
+appliedenergistics2:item.ToolCertusQuartzHoe, Мотыга из истинного кварца
+appliedenergistics2:item.ToolCertusQuartzSpade, Лопата из истинного кварца
+appliedenergistics2:item.ToolCertusQuartzPickaxe, Кирка из истинного кварца
+appliedenergistics2:item.ToolCertusQuartzSword, Меч из истинного кварца
+appliedenergistics2:item.ToolCertusQuartzWrench, Гаечный ключ из истинного кварца
+appliedenergistics2:item.ToolCertusQuartzCuttingKnife, Нож из истинного кварца
+appliedenergistics2:item.ToolNetherQuartzAxe, Топор из кварца Нижнего мира
+appliedenergistics2:item.ToolNetherQuartzHoe, Мотыга из кварца Нижнего мира
+appliedenergistics2:item.ToolNetherQuartzSpade, Лопата из кварца Нижнего мира
+appliedenergistics2:item.ToolNetherQuartzPickaxe, Кирка из кварца Нижнего мира
+appliedenergistics2:item.ToolNetherQuartzSword, Меч из кварца Нижнего мира
+appliedenergistics2:item.ToolNetherQuartzWrench, Гаечный ключ из кварца Нижнего мира
+appliedenergistics2:item.ToolNetherQuartzCuttingKnife, Нож из кварца Нижнего мира
+appliedenergistics2:item.ToolEntropyManipulator, Манипулятор энтропии
+appliedenergistics2:item.ToolWirelessTerminal, Беспроводной терминал
+appliedenergistics2:item.ToolBiometricCard, Биометрическая карта
+appliedenergistics2:item.ToolChargedStaff, Заряженный посох
+appliedenergistics2:item.ToolMassCannon, Материальная пушка
+appliedenergistics2:item.ToolMemoryCard, Карта памяти
+appliedenergistics2:item.ToolNetworkTool, Сетевой инструмент
+appliedenergistics2:item.ToolPortableCell, Переносная ячейка
+appliedenergistics2:item.ItemCreativeStorageCell, Творческая МЭ ячейка хранения
+appliedenergistics2:item.ItemViewCell, Ячейка представления
+appliedenergistics2:item.ItemBasicStorageCell.1k, 1К МЭ ячейка хранения
+appliedenergistics2:item.ItemBasicStorageCell.4k, 4К МЭ ячейка хранения
+appliedenergistics2:item.ItemBasicStorageCell.16k, 16К МЭ ячейка хранения
+appliedenergistics2:item.ItemBasicStorageCell.64k, 64К МЭ ячейка хранения
+appliedenergistics2:item.ItemSpatialStorageCell.2Cubed, 2³ пространственная ячейка хранения
+appliedenergistics2:item.ItemSpatialStorageCell.16Cubed, 16³ пространственная ячейка хранения
+appliedenergistics2:item.ItemSpatialStorageCell.128Cubed, 128³ пространственная ячейка хранения
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Камень
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Земля
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Подзол
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Булыжник
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Дубовые доски
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Еловые доски
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Берёзовые доски
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Доски из тропического дерева
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Доски из акации
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Доски из тёмного дуба
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Бедрок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Песок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Красный песок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Гравий
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Золотая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Железная руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Уголь
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Дуб
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Ель
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Берёза
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Тропическое дерево
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Губка
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Стекло
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Лазуритовая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок лазурита
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Песчаник
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Резной песчаник
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Гладкий песчаник
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Шерсть
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оранжевая шерсть
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Пурпурная шерсть
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Голубая шерсть
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Желтая шерсть
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Лаймовая шерсть
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Розовая шерсть
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Серая шерсть
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Светло-серая шерсть
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Бирюзовая шерсть
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Фиолетовая шерсть
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Синяя шерсть
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Коричневая шерсть
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Зеленая шерсть
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Красная шерсть
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Черная шерсть
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Золотой блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Железный блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кирпичи
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Динамит
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Книжная полка
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Замшелый булыжник
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Обсидиан
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Алмазная руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Алмазный блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Верстак
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Красная руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Глина
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Адский камень
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Песок душ
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Светящийся камень
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Белое стекло
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оранжевое стекло
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Пурпурное стекло
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Голубое стекло
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Жёлтое стекло
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Лаймовое стекло
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Розовое стекло
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Серое стекло
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Светло-серое стекло
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Бирюзовое стекло
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Фиолетовое стекло
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Синее стекло
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Коричневое стекло
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Зелёное стекло
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Красное стекло
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Чёрное стекло
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Камень с монстрами
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Булыжник с монстрами
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Каменный кирпич с монстрами
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Замшелый каменный кирпич с монстрами
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Потрескавшийся каменный кирпич с монстрами
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Резной каменный кирпич с монстрами
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Каменные кирпичи
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Замшелые каменные кирпичи
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Потресканные каменные кирпичи
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Резные каменные кирпичи
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Гриб
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Гриб
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Арбуз
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Адские кирпичи
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Эндерняк
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Лампа
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Изумрудная руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Изумрудный блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок красного камня
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кварцевая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кварцевый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Резной кварцевый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кварцевая колонна
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Белая обожжённая глина
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оранжевая обожжённая глина
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Пурпурная обожжённая глина
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Голубая обожжённая глина
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Жёлтая обожжённая глина
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Лаймовая обожжённая глина
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Розовая обожжённая глина
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Серая обожжённая глина
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Светло-серая обожжённая глина
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Бирюзовая обожжённая глина
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Фиолетовая обожжённая глина
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Синяя обожжённая глина
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Коричневая обожжённая глина
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Зелёная обожжённая глина
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Красная обожжённая глина
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Чёрная обожжённая глина
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Древесина акации
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Древесина тёмного дуба
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Сноп сена
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Обожжёная глина
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Угольный блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плотный лёд
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок истинного кварца
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Колонна истинного кварца
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Резной блок истинного кварца
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Изменчивый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Небесный камень
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок небесного камня
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кирпич небесного камня
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Малый кирпич небесного камня
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Sky Stone Slabs
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Sky Stone Block Slabs
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Sky Stone Brick Slabs
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Sky Stone Small Brick Slabs
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Fluix Slabs
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Certus Quartz Slabs
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Chiseled Certus Quartz Slabs
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Certus Quartz Pillar Slabs
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Медная руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оловянная руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Серебряная руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Свинцовая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Никелевая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Платиновая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Мифриловая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Медный блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оловянный блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Серебряный блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Свинцовый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Никелевый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Платиновый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Мифриловый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Электрумовый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Инваровый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Бронзовый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Синаловый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Ламиумовый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок эндериума
+appliedenergistics2:item.ItemCrystalSeed:0, Семя истинного кварца
+appliedenergistics2:item.ItemCrystalSeed:600, Семя кварца Нижнего мира
+appliedenergistics2:item.ItemCrystalSeed:1200, Изменчивое семя
+appliedenergistics2:item.ItemCrystalSeed:0, Семя истинного кварца
+appliedenergistics2:item.ItemCrystalSeed:600, Семя кварца Нижнего мира
+appliedenergistics2:item.ItemCrystalSeed:1200, Изменчивое семя
+appliedenergistics2:item.ItemCrystalSeed:0, Семя истинного кварца
+appliedenergistics2:item.ItemCrystalSeed:600, Семя кварца Нижнего мира
+appliedenergistics2:item.ItemCrystalSeed:1200, Изменчивое семя
+appliedenergistics2:item.ItemEncodedPattern, Кодированный шаблон
+appliedenergistics2:item.ToolColorApplicator, Аппликатор цвета
+appliedenergistics2:item.ItemPaintBall:0, Шар с краской - Белый
+appliedenergistics2:item.ItemPaintBall:1, Шар с краской - Оранжевый
+appliedenergistics2:item.ItemPaintBall:2, Шар с краской - Сиреневый
+appliedenergistics2:item.ItemPaintBall:3, Шар с краской - Светло-синий
+appliedenergistics2:item.ItemPaintBall:4, Шар с краской - Жёлтый
+appliedenergistics2:item.ItemPaintBall:5, Шар с краской - Лаймовый
+appliedenergistics2:item.ItemPaintBall:6, Шар с краской - Розовый
+appliedenergistics2:item.ItemPaintBall:7, Шар с краской - Серый
+appliedenergistics2:item.ItemPaintBall:8, Шар с краской - Светло-серый
+appliedenergistics2:item.ItemPaintBall:9, Шар с краской - Бирюзовый
+appliedenergistics2:item.ItemPaintBall:10, Шар с краской - Фиолетовый
+appliedenergistics2:item.ItemPaintBall:11, Шар с краской - Синий
+appliedenergistics2:item.ItemPaintBall:12, Шар с краской - Коричневый
+appliedenergistics2:item.ItemPaintBall:13, Шар с краской - Зелёный
+appliedenergistics2:item.ItemPaintBall:14, Шар с краской - Красный
+appliedenergistics2:item.ItemPaintBall:15, Шар с краской - Чёрный
+appliedenergistics2:item.ItemPaintBall:20, Шар с краской - Люмен Белый
+appliedenergistics2:item.ItemPaintBall:21, Шар с краской - Люмен Оранжевый
+appliedenergistics2:item.ItemPaintBall:22, Шар с краской - Люмен Сиреневый
+appliedenergistics2:item.ItemPaintBall:23, Шар с краской - Люмен Светло-синий
+appliedenergistics2:item.ItemPaintBall:24, Шар с краской - Люмен Жёлтый
+appliedenergistics2:item.ItemPaintBall:25, Шар с краской - Люмен Лаймовый
+appliedenergistics2:item.ItemPaintBall:26, Шар с краской - Люмен Розовый
+appliedenergistics2:item.ItemPaintBall:27, Шар с краской - Люмен Серый
+appliedenergistics2:item.ItemPaintBall:28, Шар с краской - Люмен Светло-серый
+appliedenergistics2:item.ItemPaintBall:29, Шар с краской - Люмен Бирюзовый
+appliedenergistics2:item.ItemPaintBall:30, Шар с краской - Люмен Фиолетовый
+appliedenergistics2:item.ItemPaintBall:31, Шар с краской - Люмен Синий
+appliedenergistics2:item.ItemPaintBall:32, Шар с краской - Люмен Коричневый
+appliedenergistics2:item.ItemPaintBall:33, Шар с краской - Люмен Зелёный
+appliedenergistics2:item.ItemPaintBall:34, Шар с краской - Люмен Красный
+appliedenergistics2:item.ItemPaintBall:35, Шар с краской - Люмен Чёрный
+appliedenergistics2:item.ItemMultiMaterial:28, Продвинутая карта
+appliedenergistics2:item.ItemMultiMaterial:44, Ядро истребления
+appliedenergistics2:item.ItemMultiMaterial:25, Базовая карта
+appliedenergistics2:item.ItemMultiMaterial:52, Пустой шаблон
+appliedenergistics2:item.ItemMultiMaterial:23, Вычислительный процессор
+appliedenergistics2:item.ItemMultiMaterial:13, Вычислительный пресс для высекателя
+appliedenergistics2:item.ItemMultiMaterial:16, Отпечатанный вычислительный контур
+appliedenergistics2:item.ItemMultiMaterial:27, Карта ёмкости
+appliedenergistics2:item.ItemMultiMaterial:53, Карта создания
+appliedenergistics2:item.ItemMultiMaterial:29, Карта нечёткости
+appliedenergistics2:item.ItemMultiMaterial:31, Карта инвертирования
+appliedenergistics2:item.ItemMultiMaterial:26, Карта красного камня
+appliedenergistics2:item.ItemMultiMaterial:30, Карта ускорения
+appliedenergistics2:item.ItemMultiMaterial:34, 128³ пространственный компонент
+appliedenergistics2:item.ItemMultiMaterial:33, 16³ пространственный компонент
+appliedenergistics2:item.ItemMultiMaterial:37, 16К МЭ компонент хранения
+appliedenergistics2:item.ItemMultiMaterial:35, 1К МЭ компонент хранения
+appliedenergistics2:item.ItemMultiMaterial:32, 2³ пространственный компонент
+appliedenergistics2:item.ItemMultiMaterial:36, 4К МЭ компонент хранения
+appliedenergistics2:item.ItemMultiMaterial:38, 64К МЭ компонент хранения
+appliedenergistics2:item.ItemMultiMaterial:0, Кристалл истинного кварца
+appliedenergistics2:item.ItemMultiMaterial:1, Заряженный кристалл истинного кварца
+appliedenergistics2:item.ItemMultiMaterial:2, Пыль истинного кварца
+appliedenergistics2:item.ItemMultiMaterial:39, МЭ корпус ячейки хранения
+appliedenergistics2:item.ItemMultiMaterial:46, Пыль Края
+appliedenergistics2:item.ItemMultiMaterial:24, Инженерный процессор
+appliedenergistics2:item.ItemMultiMaterial:14, Инженерный пресс для высекателя
+appliedenergistics2:item.ItemMultiMaterial:17, Отпечатанный инженерный контур
+appliedenergistics2:item.ItemMultiMaterial:4, Мука
+appliedenergistics2:item.ItemMultiMaterial:7, Изменчивый кристалл
+appliedenergistics2:item.ItemMultiMaterial:8, Изменчивая пыль
+appliedenergistics2:item.ItemMultiMaterial:9, Изменчивая жемчужина
+appliedenergistics2:item.ItemMultiMaterial:43, Ядро формирования
+appliedenergistics2:item.ItemMultiMaterial:22, Логический процессор
+appliedenergistics2:item.ItemMultiMaterial:15, Логический пресс для высекателя
+appliedenergistics2:item.ItemMultiMaterial:18, Отпечатанный логический контур
+appliedenergistics2:item.ItemMultiMaterial:6, Шарик материи
+appliedenergistics2:item.ItemMultiMaterial:21, Именующий пресс для высекателя
+appliedenergistics2:item.ItemMultiMaterial:3, Пыль кварца Нижнего мира
+appliedenergistics2:item.ItemMultiMaterial:10, Чистый кристалл истинного кварца
+appliedenergistics2:item.ItemMultiMaterial:12, Чистый изменчивый кристалл
+appliedenergistics2:item.ItemMultiMaterial:11, Чистый кристалл кварца Нижнего мира
+appliedenergistics2:item.ItemMultiMaterial:48, Квантовая запутанная сингулярность
+appliedenergistics2:item.ItemMultiMaterial:5, Кремний
+appliedenergistics2:item.ItemMultiMaterial:19, Кремниевый пресс для высекателя
+appliedenergistics2:item.ItemMultiMaterial:20, Отпечатанный кремний
+appliedenergistics2:item.ItemMultiMaterial:47, Сингулярность
+appliedenergistics2:item.ItemMultiMaterial:45, Пыль небесного камня
+appliedenergistics2:item.ItemMultiMaterial:41, Беспроводной приёмник
+appliedenergistics2:item.ItemMultiMaterial:42, Беспроводной усилитель
+appliedenergistics2:item.ItemMultiMaterial:40, Деревянная шестерня
+appliedenergistics2:item.ItemMultiPart:300, Плоскость истребления
+appliedenergistics2:item.ItemMultiPart:120, Кабельный якорь
+appliedenergistics2:item.ItemMultiPart:20, МЭ закрытый кабель - Белый
+appliedenergistics2:item.ItemMultiPart:21, МЭ закрытый кабель - Оранжевый
+appliedenergistics2:item.ItemMultiPart:22, МЭ закрытый кабель - Сиреневый
+appliedenergistics2:item.ItemMultiPart:23, МЭ закрытый кабель - Светло-синий
+appliedenergistics2:item.ItemMultiPart:24, МЭ закрытый кабель - Жёлтый
+appliedenergistics2:item.ItemMultiPart:25, МЭ закрытый кабель - Лаймовый
+appliedenergistics2:item.ItemMultiPart:26, МЭ закрытый кабель - Розовый
+appliedenergistics2:item.ItemMultiPart:27, МЭ закрытый кабель - Серый
+appliedenergistics2:item.ItemMultiPart:28, МЭ закрытый кабель - Светло-серый
+appliedenergistics2:item.ItemMultiPart:29, МЭ закрытый кабель - Бирюзовый
+appliedenergistics2:item.ItemMultiPart:30, МЭ закрытый кабель - Фиолетовый
+appliedenergistics2:item.ItemMultiPart:31, МЭ закрытый кабель - Синий
+appliedenergistics2:item.ItemMultiPart:32, МЭ закрытый кабель - Коричневый
+appliedenergistics2:item.ItemMultiPart:33, МЭ закрытый кабель - Зелёный
+appliedenergistics2:item.ItemMultiPart:34, МЭ закрытый кабель - Красный
+appliedenergistics2:item.ItemMultiPart:35, МЭ закрытый кабель - Чёрный
+appliedenergistics2:item.ItemMultiPart:36, МЭ закрытый кабель - Изменчивый
+appliedenergistics2:item.ItemMultiPart:60, МЭ плотный кабель - Белый
+appliedenergistics2:item.ItemMultiPart:61, МЭ плотный кабель - Оранжевый
+appliedenergistics2:item.ItemMultiPart:62, МЭ плотный кабель - Сиреневый
+appliedenergistics2:item.ItemMultiPart:63, МЭ плотный кабель - Светло-синий
+appliedenergistics2:item.ItemMultiPart:64, МЭ плотный кабель - Жёлтый
+appliedenergistics2:item.ItemMultiPart:65, МЭ плотный кабель - Лаймовый
+appliedenergistics2:item.ItemMultiPart:66, МЭ плотный кабель - Розовый
+appliedenergistics2:item.ItemMultiPart:67, МЭ плотный кабель - Серый
+appliedenergistics2:item.ItemMultiPart:68, МЭ плотный кабель - Светло-серый
+appliedenergistics2:item.ItemMultiPart:69, МЭ плотный кабель - Бирюзовый
+appliedenergistics2:item.ItemMultiPart:70, МЭ плотный кабель - Фиолетовый
+appliedenergistics2:item.ItemMultiPart:71, МЭ плотный кабель - Синий
+appliedenergistics2:item.ItemMultiPart:72, МЭ плотный кабель - Коричневый
+appliedenergistics2:item.ItemMultiPart:73, МЭ плотный кабель - Зелёный
+appliedenergistics2:item.ItemMultiPart:74, МЭ плотный кабель - Красный
+appliedenergistics2:item.ItemMultiPart:75, МЭ плотный кабель - Чёрный
+appliedenergistics2:item.ItemMultiPart:76, МЭ плотный кабель - Изменчивый
+appliedenergistics2:item.ItemMultiPart:0, МЭ стеклянный кабель - Белый
+appliedenergistics2:item.ItemMultiPart:1, МЭ стеклянный кабель - Оранжевый
+appliedenergistics2:item.ItemMultiPart:2, МЭ стеклянный кабель - Сиреневый
+appliedenergistics2:item.ItemMultiPart:3, МЭ стеклянный кабель - Светло-синий
+appliedenergistics2:item.ItemMultiPart:4, МЭ стеклянный кабель - Жёлтый
+appliedenergistics2:item.ItemMultiPart:5, МЭ стеклянный кабель - Лаймовый
+appliedenergistics2:item.ItemMultiPart:6, МЭ стеклянный кабель - Розовый
+appliedenergistics2:item.ItemMultiPart:7, МЭ стеклянный кабель - Серый
+appliedenergistics2:item.ItemMultiPart:8, МЭ стеклянный кабель - Светло-серый
+appliedenergistics2:item.ItemMultiPart:9, МЭ стеклянный кабель - Бирюзовый
+appliedenergistics2:item.ItemMultiPart:10, МЭ стеклянный кабель - Фиолетовый
+appliedenergistics2:item.ItemMultiPart:11, МЭ стеклянный кабель - Синий
+appliedenergistics2:item.ItemMultiPart:12, МЭ стеклянный кабель - Коричневый
+appliedenergistics2:item.ItemMultiPart:13, МЭ стеклянный кабель - Зелёный
+appliedenergistics2:item.ItemMultiPart:14, МЭ стеклянный кабель - Красный
+appliedenergistics2:item.ItemMultiPart:15, МЭ стеклянный кабель - Чёрный
+appliedenergistics2:item.ItemMultiPart:16, МЭ стеклянный кабель - Изменчивый
+appliedenergistics2:item.ItemMultiPart:40, МЭ умный кабель - Белый
+appliedenergistics2:item.ItemMultiPart:41, МЭ умный кабель - Оранжевый
+appliedenergistics2:item.ItemMultiPart:42, МЭ умный кабель - Сиреневый
+appliedenergistics2:item.ItemMultiPart:43, МЭ умный кабель - Светло-синий
+appliedenergistics2:item.ItemMultiPart:44, МЭ умный кабель - Жёлтый
+appliedenergistics2:item.ItemMultiPart:45, МЭ умный кабель - Лаймовый
+appliedenergistics2:item.ItemMultiPart:46, МЭ умный кабель - Розовый
+appliedenergistics2:item.ItemMultiPart:47, МЭ умный кабель - Серый
+appliedenergistics2:item.ItemMultiPart:48, МЭ умный кабель - Светло-серый
+appliedenergistics2:item.ItemMultiPart:49, МЭ умный кабель - Бирюзовый
+appliedenergistics2:item.ItemMultiPart:50, МЭ умный кабель - Фиолетовый
+appliedenergistics2:item.ItemMultiPart:51, МЭ умный кабель - Синий
+appliedenergistics2:item.ItemMultiPart:52, МЭ умный кабель - Коричневый
+appliedenergistics2:item.ItemMultiPart:53, МЭ умный кабель - Зелёный
+appliedenergistics2:item.ItemMultiPart:54, МЭ умный кабель - Красный
+appliedenergistics2:item.ItemMultiPart:55, МЭ умный кабель - Чёрный
+appliedenergistics2:item.ItemMultiPart:56, МЭ умный кабель - Изменчивый
+appliedenergistics2:item.ItemMultiPart:420, МЭ монитор преобразования
+appliedenergistics2:item.ItemMultiPart:360, МЭ терминал создания
+appliedenergistics2:item.ItemMultiPart:200, Тёмная осветительная панель
+appliedenergistics2:item.ItemMultiPart:260, МЭ шина экспорта
+appliedenergistics2:item.ItemMultiPart:320, МЭ плоскость формирования
+appliedenergistics2:item.ItemMultiPart:301, ME Identity Annihilation Plane
+appliedenergistics2:item.ItemMultiPart:240, МЭ шина импорта
+appliedenergistics2:item.ItemMultiPart:440, МЭ интерфейс
+appliedenergistics2:item.ItemMultiPart:480, МЭ терминал интерфейсов
+appliedenergistics2:item.ItemMultiPart:100, МЭ инвертированная шина переключения
+appliedenergistics2:item.ItemMultiPart:280, МЭ излучатель уровня
+appliedenergistics2:item.ItemMultiPart:160, Яркая осветительная панель
+appliedenergistics2:item.ItemMultiPart:462, Туннель точка-точка - Предмет
+appliedenergistics2:item.ItemMultiPart:467, Туннель точка-точка - Свет
+appliedenergistics2:item.ItemMultiPart:463, Туннель точка-точка - Жидкость
+appliedenergistics2:item.ItemMultiPart:460, Туннель точка-точка - МЭ
+appliedenergistics2:item.ItemMultiPart:466, Туннель точка-точка - RF
+appliedenergistics2:item.ItemMultiPart:461, Туннель точка-точка - Красный камень
+appliedenergistics2:item.ItemMultiPart:340, МЭ терминал шаблонов
+appliedenergistics2:item.ItemMultiPart:140, Кварцевое оптическое волокно
+appliedenergistics2:item.ItemMultiPart:180, Осветительная панель
+appliedenergistics2:item.ItemMultiPart:220, МЭ шина хранения
+appliedenergistics2:item.ItemMultiPart:400, МЭ монитор хранения
+appliedenergistics2:item.ItemMultiPart:380, МЭ терминал
+appliedenergistics2:item.ItemMultiPart:80, МЭ шина переключения
+ThermalFoundation:lexicon, item.thermalfoundation.tome.name
+ThermalFoundation:bucket:0, Ведро дестабилизированного красного камня
+ThermalFoundation:bucket:1, Ведро заряженного светящегося камня
+ThermalFoundation:bucket:2, Ведро резонирующего эндериума
+ThermalFoundation:bucket:3, Ведро пылающего пиротеума
+ThermalFoundation:bucket:4, Ведро ледяного криотеума
+ThermalFoundation:bucket:7, Ведро невесомого аэротеума
+ThermalFoundation:bucket:8, Ведро тектонического петротеума
+ThermalFoundation:bucket:5, Ведро изначальной маны
+ThermalFoundation:bucket:6, Ведро разжиженного угля
+ThermalFoundation:material:2, Измельчённый уголь
+ThermalFoundation:material:3, Измельчённый древесный уголь
+ThermalFoundation:material:4, Измельчённый обсидиан
+ThermalFoundation:material:16, Сера
+ThermalFoundation:material:17, Селитра
+ThermalFoundation:material:20, Киноварь
+ThermalFoundation:material:0, Измельчённое железо
+ThermalFoundation:material:1, Измельчённое золото
+ThermalFoundation:material:32, Измельчённая медь
+ThermalFoundation:material:33, Измельчённое олово
+ThermalFoundation:material:34, Измельчённое серебро
+ThermalFoundation:material:35, Измельчённый свинец
+ThermalFoundation:material:36, Измельчённый никель
+ThermalFoundation:material:37, Измельчённая платина
+ThermalFoundation:material:38, Измельчённый мифрил
+ThermalFoundation:material:39, Электрумовая смесь
+ThermalFoundation:material:40, Инваровая смесь
+ThermalFoundation:material:41, Бронзовая смесь
+ThermalFoundation:material:42, Синаловая смесь
+ThermalFoundation:material:43, Ламиумовая смесь
+ThermalFoundation:material:44, Смесь эндериума
+ThermalFoundation:material:64, Медный слиток
+ThermalFoundation:material:65, Оловянный слиток
+ThermalFoundation:material:66, Серебряный слиток
+ThermalFoundation:material:67, Свинцовый слиток
+ThermalFoundation:material:68, Никелевый слиток
+ThermalFoundation:material:69, Платиновый слиток
+ThermalFoundation:material:70, Мифриловый слиток
+ThermalFoundation:material:71, Электрумовый слиток
+ThermalFoundation:material:72, Инваровый слиток
+ThermalFoundation:material:73, Бронзовый слиток
+ThermalFoundation:material:74, Синаловый слиток
+ThermalFoundation:material:75, Ламиумовый слиток
+ThermalFoundation:material:76, Слиток эндериума
+ThermalFoundation:material:8, Железный самородок
+ThermalFoundation:material:96, Медный самородок
+ThermalFoundation:material:97, Оловянный самородок
+ThermalFoundation:material:98, Серебряный самородок
+ThermalFoundation:material:99, Свинцовый самородок
+ThermalFoundation:material:100, Никелевый самородок
+ThermalFoundation:material:101, Платиновый самородок
+ThermalFoundation:material:102, Мифриловый самородок
+ThermalFoundation:material:103, Электрумовый самородок
+ThermalFoundation:material:104, Инваровый самородок
+ThermalFoundation:material:105, Бронзовый самородок
+ThermalFoundation:material:106, Синаловый самородок
+ThermalFoundation:material:107, Ламиумовый самородок
+ThermalFoundation:material:108, Самородок эндериума
+ThermalFoundation:material:12, Железная шестерня
+ThermalFoundation:material:13, Золотая шестерня
+ThermalFoundation:material:128, Медная шестерня
+ThermalFoundation:material:129, Оловянная шестерня
+ThermalFoundation:material:130, Серебряная шестерня
+ThermalFoundation:material:131, Свинцовая шестерня
+ThermalFoundation:material:132, Никелевая шестерня
+ThermalFoundation:material:133, Платиновая шестерня
+ThermalFoundation:material:134, Мифриловая шестерня
+ThermalFoundation:material:135, Шестерня из электрума
+ThermalFoundation:material:136, Инваровая шестерня
+ThermalFoundation:material:137, Бронзовая шестерня
+ThermalFoundation:material:138, Синаловая шестерня
+ThermalFoundation:material:139, Ламиумовая шестерня
+ThermalFoundation:material:140, Шестерня из эндериума
+ThermalFoundation:material:512, Пыль пиротеума
+ThermalFoundation:material:513, Пыль криотеума
+ThermalFoundation:material:514, Пыль аэротеума
+ThermalFoundation:material:515, Пыль петротеума
+ThermalFoundation:material:516, Пыль маны
+ThermalFoundation:material:1024, Бурановый стержень
+ThermalFoundation:material:1025, Бурановый порошок
+ThermalFoundation:material:1026, Blitz Rod
+ThermalFoundation:material:1027, Blitz Powder
+ThermalFoundation:material:1028, Basalz Rod
+ThermalFoundation:material:1029, Basalz Powder
+ThermalFoundation:tool.shearsWood, Wood Shears
+ThermalFoundation:tool.sickleWood, Wood Sickle
+ThermalFoundation:tool.shearsStone, Stone Shears
+ThermalFoundation:tool.fishingRodStone, Stone Fishing Rod
+ThermalFoundation:tool.sickleStone, Stone Sickle
+ThermalFoundation:tool.bowStone, Stone Reinforced Bow
+ThermalFoundation:tool.fishingRodIron, Iron Fishing Rod
+ThermalFoundation:tool.sickleIron, Iron Sickle
+ThermalFoundation:tool.bowIron, Iron Reinforced Bow
+ThermalFoundation:tool.shearsDiamond, Diamond Shears
+ThermalFoundation:tool.fishingRodDiamond, Diamond Fishing Rod
+ThermalFoundation:tool.sickleDiamond, Diamond Sickle
+ThermalFoundation:tool.bowDiamond, Diamond Reinforced Bow
+ThermalFoundation:tool.shearsGold, Gold Shears
+ThermalFoundation:tool.fishingRodGold, Gold Fishing Rod
+ThermalFoundation:tool.sickleGold, Gold Sickle
+ThermalFoundation:tool.bowGold, Gold Reinforced Bow
+ThermalFoundation:armor.helmetCopper, Медный шлем
+ThermalFoundation:armor.plateCopper, Медная кираса
+ThermalFoundation:armor.legsCopper, Медные поножи
+ThermalFoundation:armor.bootsCopper, Медные ботинки
+ThermalFoundation:tool.swordCopper, Медный меч
+ThermalFoundation:tool.shovelCopper, Медная лопата
+ThermalFoundation:tool.pickaxeCopper, Медная кирка
+ThermalFoundation:tool.axeCopper, Медный топор
+ThermalFoundation:tool.hoeCopper, Медная мотыга
+ThermalFoundation:tool.shearsCopper, Медные ножницы
+ThermalFoundation:tool.fishingRodCopper, Медная удочка
+ThermalFoundation:tool.sickleCopper, Медный серп
+ThermalFoundation:tool.bowCopper, Укреплённый медью лук
+ThermalFoundation:armor.helmetTin, Оловянный шлем
+ThermalFoundation:armor.plateTin, Оловянная кираса
+ThermalFoundation:armor.legsTin, Оловянные поножи
+ThermalFoundation:armor.bootsTin, Оловянные ботинки
+ThermalFoundation:tool.swordTin, Оловянный меч
+ThermalFoundation:tool.shovelTin, Оловянная лопата
+ThermalFoundation:tool.pickaxeTin, Оловянная кирка
+ThermalFoundation:tool.axeTin, Оловянный топор
+ThermalFoundation:tool.hoeTin, Оловянная мотыга
+ThermalFoundation:tool.shearsTin, Оловянные ножницы
+ThermalFoundation:tool.fishingRodTin, Оловянная удочка
+ThermalFoundation:tool.sickleTin, Оловянный серп
+ThermalFoundation:tool.bowTin, Укреплённый оловом лук
+ThermalFoundation:armor.helmetSilver, Серебряный шлем
+ThermalFoundation:armor.plateSilver, Серебряная кираса
+ThermalFoundation:armor.legsSilver, Серебряные поножи
+ThermalFoundation:armor.bootsSilver, Серебряные ботинки
+ThermalFoundation:tool.swordSilver, Серебряный меч
+ThermalFoundation:tool.shovelSilver, Серебряная лопата
+ThermalFoundation:tool.pickaxeSilver, Серебряная кирка
+ThermalFoundation:tool.axeSilver, Серебряный топор
+ThermalFoundation:tool.hoeSilver, Серебряная мотыга
+ThermalFoundation:tool.shearsSilver, Серебряные ножницы
+ThermalFoundation:tool.fishingRodSilver, Серебряная удочка
+ThermalFoundation:tool.sickleSilver, Серебряный серп
+ThermalFoundation:tool.bowSilver, Укреплённый серебром лук
+ThermalFoundation:armor.helmetLead, Свинцовый шлем
+ThermalFoundation:armor.plateLead, Свинцовая кираса
+ThermalFoundation:armor.legsLead, Свинцовые поножи
+ThermalFoundation:armor.bootsLead, Свинцовые ботинки
+ThermalFoundation:tool.swordLead, Свинцовый меч
+ThermalFoundation:tool.shovelLead, Свинцовая лопата
+ThermalFoundation:tool.pickaxeLead, Свинцовая кирка
+ThermalFoundation:tool.axeLead, Свинцовый топор
+ThermalFoundation:tool.hoeLead, Свинцовая мотыга
+ThermalFoundation:tool.shearsLead, Свинцовые ножницы
+ThermalFoundation:tool.fishingRodLead, Свинцовая удочка
+ThermalFoundation:tool.sickleLead, Свинцовый серп
+ThermalFoundation:tool.bowLead, Укреплённый свинцом лук
+ThermalFoundation:armor.helmetNickel, Никелевый шлем
+ThermalFoundation:armor.plateNickel, Никелевая кираса
+ThermalFoundation:armor.legsNickel, Никелевые поножи
+ThermalFoundation:armor.bootsNickel, Никелевые ботинки
+ThermalFoundation:tool.swordNickel, Никелевый меч
+ThermalFoundation:tool.shovelNickel, Никелевая лопата
+ThermalFoundation:tool.pickaxeNickel, Никелевая кирка
+ThermalFoundation:tool.axeNickel, Никелевый топор
+ThermalFoundation:tool.hoeNickel, Никелевая мотыга
+ThermalFoundation:tool.shearsNickel, Никелевые ножницы
+ThermalFoundation:tool.fishingRodNickel, Никелевая удочка
+ThermalFoundation:tool.sickleNickel, Никелевый серп
+ThermalFoundation:tool.bowNickel, Укреплённый никелем лук
+ThermalFoundation:armor.helmetElectrum, Электрумовый шлем
+ThermalFoundation:armor.plateElectrum, Электрумовая кираса
+ThermalFoundation:armor.legsElectrum, Электрумовые поножи
+ThermalFoundation:armor.bootsElectrum, Электрумовые ботинки
+ThermalFoundation:tool.swordElectrum, Электрумовый меч
+ThermalFoundation:tool.shovelElectrum, Электрумовая лопата
+ThermalFoundation:tool.pickaxeElectrum, Электрумовая кирка
+ThermalFoundation:tool.axeElectrum, Электрумовый топор
+ThermalFoundation:tool.hoeElectrum, Электрумовая мотыга
+ThermalFoundation:tool.shearsElectrum, Электрумовые ножницы
+ThermalFoundation:tool.fishingRodElectrum, Электрумовая удочка
+ThermalFoundation:tool.sickleElectrum, Электрумовый серп
+ThermalFoundation:tool.bowElectrum, Укреплённый электрумом лук
+ThermalFoundation:armor.helmetInvar, Инваровый шлем
+ThermalFoundation:armor.plateInvar, Инваровая кираса
+ThermalFoundation:armor.legsInvar, Инваровые поножи
+ThermalFoundation:armor.bootsInvar, Инваровые ботинки
+ThermalFoundation:tool.swordInvar, Инваровый меч
+ThermalFoundation:tool.shovelInvar, Инваровая лопата
+ThermalFoundation:tool.pickaxeInvar, Инваровая кирка
+ThermalFoundation:tool.axeInvar, Инваровый топор
+ThermalFoundation:tool.hoeInvar, Инваровая мотыга
+ThermalFoundation:tool.shearsInvar, Инваровые ножницы
+ThermalFoundation:tool.fishingRodInvar, Инваровая удочка
+ThermalFoundation:tool.sickleInvar, Инваровый серп
+ThermalFoundation:tool.bowInvar, Укреплённый инваром лук
+ThermalFoundation:armor.helmetBronze, Бронзовый шлем
+ThermalFoundation:armor.plateBronze, Бронзовая кираса
+ThermalFoundation:armor.legsBronze, Бронзовые поножи
+ThermalFoundation:armor.bootsBronze, Бронзовые ботинки
+ThermalFoundation:tool.swordBronze, Бронзовый меч
+ThermalFoundation:tool.shovelBronze, Бронзовая лопата
+ThermalFoundation:tool.pickaxeBronze, Бронзовая кирка
+ThermalFoundation:tool.axeBronze, Бронзовый топор
+ThermalFoundation:tool.hoeBronze, Бронзовая мотыга
+ThermalFoundation:tool.shearsBronze, Бронзовые ножницы
+ThermalFoundation:tool.fishingRodBronze, Бронзовая удочка
+ThermalFoundation:tool.sickleBronze, Бронзовый серп
+ThermalFoundation:tool.bowBronze, Укреплённый бронзой лук
+ThermalFoundation:armor.helmetPlatinum, Блестящий шлем
+ThermalFoundation:armor.platePlatinum, Блестящая кираса
+ThermalFoundation:armor.legsPlatinum, Блестящие поножи
+ThermalFoundation:armor.bootsPlatinum, Блестящие ботинки
+ThermalFoundation:tool.swordPlatinum, Блестящий меч
+ThermalFoundation:tool.shovelPlatinum, Блестящая лопата
+ThermalFoundation:tool.pickaxePlatinum, Блестящая кирка
+ThermalFoundation:tool.axePlatinum, Блестящий топор
+ThermalFoundation:tool.hoePlatinum, Блестящая мотыга
+ThermalFoundation:tool.shearsPlatinum, Блестящие ножницы
+ThermalFoundation:tool.fishingRodPlatinum, Блестящая удочка
+ThermalFoundation:tool.sicklePlatinum, Блестящий серп
+ThermalFoundation:tool.bowPlatinum, Укреплённый платиной лук
+ThermalExpansion:wrench:0, Серповидный молот
+ThermalExpansion:tool.battleWrenchInvar, Боевой ключ
+ThermalExpansion:igniter, item.thermalexpansion.tool.name
+ThermalExpansion:chiller, item.thermalexpansion.tool.name
+ThermalExpansion:pump, item.thermalexpansion.tool.name
+ThermalExpansion:transfuser, item.thermalexpansion.tool.name
+ThermalExpansion:capacitor:0, Творческий флаксовый конденсатор
+ThermalExpansion:capacitor:1, Неровный флаксовый конденсатор
+ThermalExpansion:capacitor:2, Свинцовый флаксовый конденсатор
+ThermalExpansion:capacitor:2, Свинцовый флаксовый конденсатор
+ThermalExpansion:capacitor:3, Усиленный флаксовый конденсатор
+ThermalExpansion:capacitor:3, Усиленный флаксовый конденсатор
+ThermalExpansion:capacitor:4, Красный флаксовый конденсатор
+ThermalExpansion:capacitor:4, Красный флаксовый конденсатор
+ThermalExpansion:capacitor:5, Резонирующий флаксовый конденсатор
+ThermalExpansion:capacitor:5, Резонирующий флаксовый конденсатор
+ThermalExpansion:satchel:0, Творческая сумка
+ThermalExpansion:satchel:1, Сумка
+ThermalExpansion:satchel:2, Усиленная сумка
+ThermalExpansion:satchel:3, Укреплённая сумка
+ThermalExpansion:satchel:4, Резонирующая сумка
+ThermalExpansion:florb:0, Неизвестный предмет (Уничтожить) (Пусто§r)
+ThermalExpansion:florb:1, Неизвестный предмет (Уничтожить) (Пусто§r)

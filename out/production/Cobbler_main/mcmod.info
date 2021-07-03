@@ -1,0 +1,16 @@
+    [
+{
+  "modid": "cobblermod",
+  "name": "Cobbler",
+  "description": "A simple Cobbler",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["NelttjeN"],
+  "credits": "When you're running out of cobble...",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

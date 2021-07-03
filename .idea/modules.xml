@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Cobbler.iml" filepath="$PROJECT_DIR$/Cobbler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cobbler_api.iml" filepath="$PROJECT_DIR$/.idea/modules/Cobbler_api.iml" group="Cobbler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cobbler_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Cobbler_main.iml" group="Cobbler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cobbler_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Cobbler_test.iml" group="Cobbler" />
+    </modules>
+  </component>
+</project>

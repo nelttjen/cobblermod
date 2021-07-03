@@ -1,0 +1,8 @@
+itemGroup.cobblerGroup=Генераторы булыжника
+tile.cobbler_tier_1.name=Генератор булыжника 1 уровня
+tile.cobbler_tier_2.name=Генератор булыжника 2 уровня
+tile.cobbler_tier_3.name=Генератор булыжника 3 уровня
+tile.cobbler_tier_4.name=Генератор булыжника 4 уровня
+tile.cobbler_tier_5.name=Генератор булыжника 5 уровня
+tile.cobbler_tier_super.name=Максимальный Генератор булыжника
+tile.creative_cobbler.name=Творческий Генератор булыжника

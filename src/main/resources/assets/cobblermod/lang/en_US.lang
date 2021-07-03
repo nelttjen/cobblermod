@@ -1,0 +1,8 @@
+itemGroup.cobblerGroup=Cobblestone Generators
+tile.cobbler_tier_1.name=Cobblestone Generator Tier 1
+tile.cobbler_tier_2.name=Cobblestone Generator Tier 2
+tile.cobbler_tier_3.name=Cobblestone Generator Tier 3
+tile.cobbler_tier_4.name=Cobblestone Generator Tier 4
+tile.cobbler_tier_5.name=Cobblestone Generator Tier 5
+tile.cobbler_tier_super.name=Super Cobblestone Generator
+tile.creative_cobbler.name=Creative Cobblestone Generator
