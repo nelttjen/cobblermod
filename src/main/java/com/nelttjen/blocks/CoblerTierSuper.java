@@ -7,6 +7,7 @@ import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
 import net.minecraft.block.Block;
 import net.minecraft.client.renderer.texture.IIconRegister;
+import net.minecraft.client.resources.I18n;
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.init.Blocks;
 import net.minecraft.block.ITileEntityProvider;
@@ -47,14 +48,8 @@ public class CoblerTierSuper extends Block implements ITileEntityProvider {
                     cobbler.removeCobble(Math.min(cobbler.getContains_cobble(), 64));
                 }
                 else {
-                    if (!CfgHandler.useRussianLocalization){
-                        player.addChatMessage(new ChatComponentTranslation("Cobblestone:" + " " + cobbler.getContains_cobble()));
-                        player.addChatMessage(new ChatComponentText("Max internal buffer size:" + " " + cobbler.getBufferMax()));
-                    }
-                    else {
-                        player.addChatMessage(new ChatComponentText("\u0411\u0443\u043b\u044b\u0436\u043d\u0438\u043a:" + " " + cobbler.getContains_cobble()));
-                        player.addChatMessage(new ChatComponentText("\u0412\u043c\u0435\u0441\u0442\u0438\u043c\u043e\u0441\u0442\u044c \u0445\u0440\u0430\u043d\u0438\u043b\u0438\u0449\u0430:" + " " + cobbler.getBufferMax()));
-                    }
+                    player.addChatMessage(new ChatComponentText(I18n.format("chatMessage.cobblerActivate.1") + " " + cobbler.getContains_cobble()));
+                    player.addChatMessage(new ChatComponentText(I18n.format("chatMessage.cobblerActivate.2") + " " + cobbler.getBufferMax()));
                 }
 
             }

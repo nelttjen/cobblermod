@@ -283,6 +283,14 @@ minecraft:double_plant:4, Розовый куст
 minecraft:double_plant:5, Пион
 cobblermod:cobbler_tier_super, Максимальный Генератор булыжника
 cobblermod:creative_cobbler, Творческий Генератор булыжника
+cobblermod:tile.cobbler_cobblestone:0, Сжатый булыжник
+cobblermod:tile.cobbler_cobblestone:1, Дважды Сжатый булыжник
+cobblermod:tile.cobbler_cobblestone:2, Трижды Сжатый булыжник
+cobblermod:tile.cobbler_cobblestone:3, Четверной Сжатый булыжник
+cobblermod:tile.cobbler_cobblestone:4, Пятикратно Сжатый булыжник
+cobblermod:tile.cobbler_cobblestone:5, Шестикратно Сжатый булыжник
+cobblermod:tile.cobbler_cobblestone:6, Семикратно Сжатый булыжник
+cobblermod:tile.cobbler_cobblestone:7, Восьмикратно Сжатый булыжник
 appliedenergistics2:tile.OreQuartz, Руда истинного кварца
 appliedenergistics2:tile.OreQuartzCharged, Заряженная руда истинного кварца
 appliedenergistics2:tile.BlockMatrixFrame, Каркас матрицы
@@ -359,34 +367,45 @@ appliedenergistics2:tile.ChiseledQuartzSlabBlock:0, Chiseled Certus Quartz Slabs
 appliedenergistics2:tile.ChiseledQuartzSlabBlock.double:0, Chiseled Certus Quartz Slabs
 appliedenergistics2:tile.QuartzPillarSlabBlock:0, Certus Quartz Pillar Slabs
 appliedenergistics2:tile.QuartzPillarSlabBlock.double:0, Certus Quartz Pillar Slabs
-ThermalFoundation:Ore:0, Медная руда
-ThermalFoundation:Ore:1, Оловянная руда
-ThermalFoundation:Ore:2, Серебряная руда
-ThermalFoundation:Ore:3, Свинцовая руда
-ThermalFoundation:Ore:4, Никелевая руда
-ThermalFoundation:Ore:5, Платиновая руда
-ThermalFoundation:Ore:6, Мифриловая руда
-ThermalFoundation:Storage:0, Медный блок
-ThermalFoundation:Storage:1, Оловянный блок
-ThermalFoundation:Storage:2, Серебряный блок
-ThermalFoundation:Storage:3, Свинцовый блок
-ThermalFoundation:Storage:4, Никелевый блок
-ThermalFoundation:Storage:5, Платиновый блок
-ThermalFoundation:Storage:6, Мифриловый блок
-ThermalFoundation:Storage:7, Электрумовый блок
-ThermalFoundation:Storage:8, Инваровый блок
-ThermalFoundation:Storage:9, Бронзовый блок
-ThermalFoundation:Storage:10, Синаловый блок
-ThermalFoundation:Storage:11, Ламиумовый блок
-ThermalFoundation:Storage:12, Блок эндериума
-ThermalFoundation:FluidRedstone, Дестабилизированный красный камень
-ThermalFoundation:FluidGlowstone, Заряженный светящийся камень
-ThermalFoundation:FluidEnder, Резонирующий эндериум
-ThermalFoundation:FluidPyrotheum, Пылающий пиротеум
-ThermalFoundation:FluidCryotheum, Ледяной криотеум
-ThermalFoundation:FluidAerotheum, Невесомый аэротеум
-ThermalFoundation:FluidPetrotheum, Тектонический петротеум
-ThermalFoundation:FluidMana, Изначальная мана
+StorageDrawers:fullDrawers1:0, Ящик из дуба
+StorageDrawers:fullDrawers1:1, Ящик из ели
+StorageDrawers:fullDrawers1:2, Ящик из берёзы
+StorageDrawers:fullDrawers1:3, Ящик из тропического дерева
+StorageDrawers:fullDrawers1:4, Ящик из акации
+StorageDrawers:fullDrawers1:5, Ящик из тёмного дуба
+StorageDrawers:fullDrawers2:0, Ящик из дуба 1x2
+StorageDrawers:fullDrawers2:1, Ящик из ели 1x2
+StorageDrawers:fullDrawers2:2, Ящик из берёзы 1x2
+StorageDrawers:fullDrawers2:3, Ящик из тропического дерева 1x2
+StorageDrawers:fullDrawers2:4, Ящик из акации 1x2
+StorageDrawers:fullDrawers2:5, Ящик из тёмного дуба 1x2
+StorageDrawers:fullDrawers4:0, Ящик из дуба 2x2
+StorageDrawers:fullDrawers4:1, Ящик из ели 2x2
+StorageDrawers:fullDrawers4:2, Ящик из берёзы 2x2
+StorageDrawers:fullDrawers4:3, Ящик из тропического дерева 2x2
+StorageDrawers:fullDrawers4:4, Ящик из акации 2x2
+StorageDrawers:fullDrawers4:5, Ящик из тёмного дуба 2x2
+StorageDrawers:halfDrawers2:0, Компактный ящик из дуба 1x2
+StorageDrawers:halfDrawers2:1, Компактный ящик из ели 1x2
+StorageDrawers:halfDrawers2:2, Компактный ящик из берёзы 1x2
+StorageDrawers:halfDrawers2:3, Компактный ящик из тропического дерева 1x2
+StorageDrawers:halfDrawers2:4, Компактный ящик из акации 1x2
+StorageDrawers:halfDrawers2:5, Компактный ящик из тёмного дуба 1x2
+StorageDrawers:halfDrawers4:0, Компактный ящик из дуба 2x2
+StorageDrawers:halfDrawers4:1, Компактный ящик из ели 2x2
+StorageDrawers:halfDrawers4:2, Компактный ящик из берёзы 2x2
+StorageDrawers:halfDrawers4:3, Компактный ящик из тропического дерева 2x2
+StorageDrawers:halfDrawers4:4, Компактный ящик из акации 2x2
+StorageDrawers:halfDrawers4:5, Компактный ящик из тёмного дуба 2x2
+StorageDrawers:compDrawers, Уплотняющий ящик
+StorageDrawers:controller, Контроллер ящиков
+StorageDrawers:controllerSlave, Подчинённый контроллера
+StorageDrawers:trim:0, Отделка из дуба
+StorageDrawers:trim:1, Отделка из ели
+StorageDrawers:trim:2, Отделка из берёзы
+StorageDrawers:trim:3, Отделка из тропического дерева
+StorageDrawers:trim:4, Отделка из акации
+StorageDrawers:trim:5, Отделка из тёмного дуба
 minecraft:iron_shovel, Железная лопата
 minecraft:iron_pickaxe, Железная кирка
 minecraft:iron_axe, Железный топор
@@ -644,14 +663,49 @@ minecraft:netherbrick, Адский кирпич
 minecraft:quartz, Кварц
 minecraft:tnt_minecart, Вагонетка с динамитом
 minecraft:hopper_minecart, Вагонетка с загрузочной воронкой
-ThermalFoundation:FluidSteam, Пар
-ThermalFoundation:FluidCoal, Разжиженный уголь
+StorageDrawers:framingTable, Framing Table
+StorageDrawers:fullCustom1, Framed Drawer
+StorageDrawers:fullCustom2, Framed Drawers 1x2
+StorageDrawers:fullCustom4, Framed Drawers 2x2
+StorageDrawers:halfCustom2, Framed Drawers 1x2
+StorageDrawers:halfCustom4, Framed Drawers 2x2
+StorageDrawers:trimCustom, Framed Trim
+ThermalFoundation:Ore:0, Медная руда
+ThermalFoundation:Ore:1, Оловянная руда
+ThermalFoundation:Ore:2, Серебряная руда
+ThermalFoundation:Ore:3, Свинцовая руда
+ThermalFoundation:Ore:4, Никелевая руда
+ThermalFoundation:Ore:5, Платиновая руда
+ThermalFoundation:Ore:6, Мифриловая руда
 minecraft:iron_horse_armor, Железная конская броня
 minecraft:golden_horse_armor, Золотая конская броня
 minecraft:diamond_horse_armor, Алмазная конская броня
 minecraft:lead, Поводок
 minecraft:name_tag, Бирка
 minecraft:command_block_minecart, Вагонетка с командным блоком
+ThermalFoundation:Storage:0, Медный блок
+ThermalFoundation:Storage:1, Оловянный блок
+ThermalFoundation:Storage:2, Серебряный блок
+ThermalFoundation:Storage:3, Свинцовый блок
+ThermalFoundation:Storage:4, Никелевый блок
+ThermalFoundation:Storage:5, Платиновый блок
+ThermalFoundation:Storage:6, Мифриловый блок
+ThermalFoundation:Storage:7, Электрумовый блок
+ThermalFoundation:Storage:8, Инваровый блок
+ThermalFoundation:Storage:9, Бронзовый блок
+ThermalFoundation:Storage:10, Синаловый блок
+ThermalFoundation:Storage:11, Ламиумовый блок
+ThermalFoundation:Storage:12, Блок эндериума
+ThermalFoundation:FluidRedstone, Дестабилизированный красный камень
+ThermalFoundation:FluidGlowstone, Заряженный светящийся камень
+ThermalFoundation:FluidEnder, Резонирующий эндериум
+ThermalFoundation:FluidPyrotheum, Пылающий пиротеум
+ThermalFoundation:FluidCryotheum, Ледяной криотеум
+ThermalFoundation:FluidAerotheum, Невесомый аэротеум
+ThermalFoundation:FluidPetrotheum, Тектонический петротеум
+ThermalFoundation:FluidMana, Изначальная мана
+ThermalFoundation:FluidSteam, Пар
+ThermalFoundation:FluidCoal, Разжиженный уголь
 minecraft:record_13, Пластинка
 minecraft:record_cat, Пластинка
 minecraft:record_blocks, Пластинка
@@ -815,6 +869,14 @@ appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Сноп 
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Обожжёная глина
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Угольный блок
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плотный лёд
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Сжатый булыжник
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Дважды Сжатый булыжник
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Трижды Сжатый булыжник
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Четверной Сжатый булыжник
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Пятикратно Сжатый булыжник
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Шестикратно Сжатый булыжник
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Семикратно Сжатый булыжник
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Восьмикратно Сжатый булыжник
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок истинного кварца
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Колонна истинного кварца
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Резной блок истинного кварца
@@ -831,6 +893,12 @@ appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Fluix Sla
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Certus Quartz Slabs
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Chiseled Certus Quartz Slabs
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Certus Quartz Pillar Slabs
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Отделка из дуба
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Отделка из ели
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Отделка из берёзы
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Отделка из тропического дерева
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Отделка из акации
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Отделка из тёмного дуба
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Медная руда
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оловянная руда
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Серебряная руда
@@ -1040,6 +1108,25 @@ appliedenergistics2:item.ItemMultiPart:220, МЭ шина хранения
 appliedenergistics2:item.ItemMultiPart:400, МЭ монитор хранения
 appliedenergistics2:item.ItemMultiPart:380, МЭ терминал
 appliedenergistics2:item.ItemMultiPart:80, МЭ шина переключения
+StorageDrawers:upgradeTemplate, Шаблон улучшения
+StorageDrawers:upgrade:2, Улучшение хранилища (II)
+StorageDrawers:upgrade:3, Улучшение хранилища (III)
+StorageDrawers:upgrade:4, Улучшение хранилища (IV)
+StorageDrawers:upgrade:5, Улучшение хранилища (V)
+StorageDrawers:upgrade:6, Улучшение хранилища (VI)
+StorageDrawers:upgradeStatus:1, Улучшение «Индикатор» (I)
+StorageDrawers:upgradeStatus:2, Улучшение «Индикатор» (II)
+StorageDrawers:upgradeVoid, Пустотное улучшение
+StorageDrawers:upgradeCreative:0, Creative Storage Upgrade
+StorageDrawers:upgradeCreative:1, Creative Vending Upgrade
+StorageDrawers:upgradeRedstone:0, Redstone Upgrade
+StorageDrawers:upgradeRedstone:1, Redstone Max Upgrade
+StorageDrawers:upgradeRedstone:2, Redstone Min Upgrade
+StorageDrawers:upgradeLock, Ключ от ящика
+StorageDrawers:shroudKey, Concealment Key
+StorageDrawers:personalKey:0, Personal Key
+StorageDrawers:personalKey:1, Personal Key (CoFH)
+StorageDrawers:tape, Packing Tape
 ThermalFoundation:lexicon, item.thermalfoundation.tome.name
 ThermalFoundation:bucket:0, Ведро дестабилизированного красного камня
 ThermalFoundation:bucket:1, Ведро заряженного светящегося камня

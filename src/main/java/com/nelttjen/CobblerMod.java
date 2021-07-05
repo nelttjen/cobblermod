@@ -41,21 +41,18 @@ public class CobblerMod {
     //Pre init
     @EventHandler
     public void preInit(FMLPreInitializationEvent event) {
-        System.out.println("\u001B[32m" + "[Starting Test Mod PRE-INITIALIZATION]" + "\u001B[0m");
         proxy.preInit(event);
     }
 
     //init
     @EventHandler
     public void init(FMLInitializationEvent event) {
-        System.out.println("\u001B[32m" + "[Starting Test Mod INITIALIZATION]" + "\u001B[0m");
         proxy.init(event);
     }
 
     //postinit
     @EventHandler
     public void postInit(FMLPostInitializationEvent event) {
-        System.out.println("\u001B[32m" + "[Starting Test Mod POST-INITIALIZATION]" + "\u001B[0m");
         proxy.postInit(event);
     }
 }

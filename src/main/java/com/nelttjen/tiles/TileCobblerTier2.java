@@ -6,6 +6,7 @@ import net.minecraft.block.Block;
 import net.minecraft.block.BlockContainer;
 import net.minecraft.init.Blocks;
 import net.minecraft.inventory.IInventory;
+import net.minecraft.inventory.ISidedInventory;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 import net.minecraft.nbt.NBTTagCompound;
@@ -20,7 +21,7 @@ public class TileCobblerTier2 extends TileEntity {
     private int outputTimeout;
     private int bufferMax;
     private int contains_cobble;
-    private IInventory outInv;
+    private ISidedInventory inv;
 
     public TileCobblerTier2() {
         this.contains_cobble = 0;
@@ -48,47 +49,63 @@ public class TileCobblerTier2 extends TileEntity {
         }
         this.count++;
         if (this.countTimeout >= this.outputTimeout) {
-            for (ForgeDirection forgeDirection : ForgeDirection.VALID_DIRECTIONS) {
-                Block block = worldObj.getBlock(xCoord + forgeDirection.offsetX, yCoord + forgeDirection.offsetY, zCoord + forgeDirection.offsetZ);
-                if (block instanceof BlockContainer && forgeDirection == ForgeDirection.UP) {
-                    try {outInv = (IInventory) worldObj.getTileEntity(xCoord + forgeDirection.offsetX, yCoord + forgeDirection.offsetY, zCoord + forgeDirection.offsetZ);} catch (Exception e) {return;}
-                    for (int slot = 0; slot < outInv.getSizeInventory(); slot++) {
-                        if (this.contains_cobble == 0) {
-                            break;
-                        }
-                        if (outInv.getStackInSlot(slot) != null) {
-                            if (outInv.getStackInSlot(slot).getItem() == Item.getItemFromBlock(Blocks.cobblestone) && outInv.getStackInSlot(slot).stackSize < 64 && outInv.isItemValidForSlot(slot, new ItemStack(Blocks.cobblestone, 64))) {
-                                int needToFullStack = 64 - outInv.getStackInSlot(slot).stackSize;
-                                if (needToFullStack <= this.contains_cobble) {
-                                    createCobbleStack(slot, outInv, 64);
-                                    removeCobble(needToFullStack);
-                                    break;
-                                } else {
-                                    createCobbleToExistStack(slot, outInv, this.contains_cobble);
-                                    removeCobble(Math.min(this.contains_cobble, 64));
-                                    break;
-                                }
-                            }
-                        }
-                        else if (outInv.getStackInSlot(slot) == null && outInv.isItemValidForSlot(slot, new ItemStack(Blocks.cobblestone, 64))) {
-                            createCobbleStack(slot, outInv, this.contains_cobble);
+            ForgeDirection forgeDirection = ForgeDirection.UP;
+            try {inv = (ISidedInventory) worldObj.getTileEntity(xCoord + forgeDirection.offsetX, yCoord + forgeDirection.offsetY, zCoord + forgeDirection.offsetZ);} catch (Exception e) {
+                IInventory invBasic;
+                try {invBasic = (IInventory) worldObj.getTileEntity(xCoord + forgeDirection.offsetX, yCoord + forgeDirection.offsetY, zCoord + forgeDirection.offsetZ);} catch (Exception e2) {this.countTimeout = 0;return; }
+                if (invBasic != null) {
+                    for (int slot = 0; slot < invBasic.getSizeInventory(); slot++){
+                        if (invBasic.getStackInSlot(slot) == null && invBasic.isItemValidForSlot(slot, cobbleStack(Math.min(this.contains_cobble, 64)))){
+                            createCobbleStack(slot, invBasic, Math.min(this.contains_cobble, 64));
                             removeCobble(Math.min(this.contains_cobble, 64));
                             break;
                         }
+                        else if (invBasic.getStackInSlot(slot) != null && invBasic.isItemValidForSlot(slot, cobbleStack(Math.min(this.contains_cobble, 64)))){
+                            int exist = invBasic.getStackInSlot(slot).stackSize;
+                            int toFullStack = 64 - exist;
+                            if (toFullStack == 0) {continue;}
+                            if (toFullStack <= this.contains_cobble){
+                                createCobbleStack(slot, invBasic, 64);
+                                removeCobble(toFullStack);
+                                break;
+                            }
+                            else {
+                                createCobbleStack(slot, invBasic, exist + this.contains_cobble);
+                                removeCobble(this.contains_cobble);
+                                break;
+                            }
+                        }
                     }
-
+                }
+            }
+            if (inv != null) {
+                for (int slot = 0; slot < inv.getSizeInventory(); slot++){
+                    if (inv.getStackInSlot(slot) == null && inv.isItemValidForSlot(slot, cobbleStack(Math.min(this.contains_cobble, 64))) && inv.canInsertItem(slot, cobbleStack(Math.min(this.contains_cobble, 64)), forgeDirection.getOpposite().ordinal())){
+                        createCobbleStack(slot, inv, Math.min(this.contains_cobble, 64));
+                        removeCobble(Math.min(this.contains_cobble, 64));
+                        break;
+                    }
+                    else if (inv.getStackInSlot(slot) != null && inv.isItemValidForSlot(slot, cobbleStack(Math.min(this.contains_cobble, 64))) && inv.canInsertItem(slot, cobbleStack(Math.min(this.contains_cobble, 64)), forgeDirection.getOpposite().ordinal())){
+                        int exist = inv.getStackInSlot(slot).stackSize;
+                        int toFullStack = 64 - exist;
+                        if (toFullStack == 0) {continue;}
+                        if (toFullStack <= this.contains_cobble){
+                            createCobbleStack(slot, inv, 64);
+                            removeCobble(toFullStack);
+                            break;
+                        }
+                        else {
+                            createCobbleStack(slot, inv, exist + this.contains_cobble);
+                            removeCobble(this.contains_cobble);
+                            break;
+                        }
+                    }
                 }
             }
             this.countTimeout = 0;
         }
         this.countTimeout++;
         this.markDirty();
-    }
-
-    private void createCobbleToExistStack(int slot, IInventory outInv, int contains_cobble){
-        int canMake = outInv.getStackInSlot(slot).stackSize + contains_cobble;
-        ItemStack cobbleStack = cobbleStack(canMake);
-        outInv.setInventorySlotContents(slot, cobbleStack);
     }
 
     private void createCobbleStack(int slot, IInventory outInv, int amount) {

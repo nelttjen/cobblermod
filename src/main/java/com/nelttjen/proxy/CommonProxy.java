@@ -2,9 +2,11 @@ package com.nelttjen.proxy;
 
 import com.nelttjen.CobblerMod;
 import com.nelttjen.blocks.*;
+import com.nelttjen.blocks.ItemBlock.ItemCompressedCobble;
 import com.nelttjen.config.CfgHandler;
 import com.nelttjen.lib.Variables;
 import cpw.mods.fml.common.FMLCommonHandler;
+import cpw.mods.fml.common.Loader;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
@@ -22,6 +24,7 @@ public class CommonProxy {
     static CoblerTier5 cobblerTier5;
     static CoblerTierSuper cobblerTierSuper;
     static CreativeCobbler creativeCobbler;
+    static CompressedCobble compressedCobble;
     private static void loadBlocks() {
         cobblerTier1 = new CoblerTier1("cobbler_tier_1", CobblerMod.COBBLER, 1.5f, 5, "pickaxe", 1);
         cobblerTier2 = new CoblerTier2("cobbler_tier_2", CobblerMod.COBBLER, 1.5f, 5, "pickaxe", 1);
@@ -54,7 +57,21 @@ public class CommonProxy {
             GameRegistry.registerTileEntity(creativeCobbler.getTileEntityClass(), "tile_creative_cobbler");
         }
     }
-    private static void registerShapedResipes() {
+    private static void createCompressedCobble() {
+        compressedCobble = new CompressedCobble("cobbler_cobblestone");
+        GameRegistry.registerBlock(compressedCobble, ItemCompressedCobble.class, compressedCobble.getUnlocalizedName());
+    }
+    private static void recipeCompressedCobble() {
+        GameRegistry.addRecipe(new ItemStack(GameRegistry.findBlock(Variables.MODID, compressedCobble.getUnlocalizedName()), 1, 0), new Object[]{
+                "XXX", "XXX", "XXX", ('X'), Blocks.cobblestone
+        });
+        for (int i = 0; i < 7; i++){
+            GameRegistry.addRecipe(new ItemStack(GameRegistry.findBlock(Variables.MODID, compressedCobble.getUnlocalizedName()), 1, i + 1), new Object[]{
+                    "XXX", "XXX", "XXX", ('X'), new ItemStack(GameRegistry.findBlock(Variables.MODID, compressedCobble.getUnlocalizedName()), 1, i)
+            });
+        }
+    }
+    private static void registerShapedRecipes() {
 //        Object tier1 = new Object[]{
 //                "SSS", "LGW", "SSS",
 //                ('S'), Blocks.stone,
@@ -64,7 +81,7 @@ public class CommonProxy {
 //        };
         GameRegistry.addRecipe(new ItemStack(Item.getItemFromBlock(GameRegistry.findBlock(Variables.MODID, "cobbler_tier_1"))), new Object[]{
                 "SSS", "LGW", "SSS",
-                ('S'), Blocks.stone,
+                ('S'), Blocks.cobblestone,
                 ('L'), Items.lava_bucket,
                 ('G'), Blocks.glass,
                 ('W'), Items.water_bucket
@@ -109,11 +126,18 @@ public class CommonProxy {
 
         setCreativeCobbler(CfgHandler.doesCreativeGenExist);
 
+        if (CfgHandler.createCobble && !Loader.isModLoaded("ExtraUtilities")) {
+            createCompressedCobble();
+        }
     }
 
     public void init(FMLInitializationEvent event)
     {
-        registerShapedResipes();
+        registerShapedRecipes();
+
+        if (CfgHandler.createCobble && !Loader.isModLoaded("ExtraUtilities")) {
+            recipeCompressedCobble();
+        }
     }
 
     public void postInit(FMLPostInitializationEvent event) {

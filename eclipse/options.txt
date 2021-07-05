@@ -3,7 +3,7 @@ mouseSensitivity:0.3028169
 fov:1.0
 gamma:1.0
 saturation:0.0
-renderDistance:12
+renderDistance:5
 guiScale:2
 particles:0
 bobView:true
@@ -11,7 +11,7 @@ anaglyph3d:false
 advancedOpengl:false
 maxFps:120
 fboEnable:true
-difficulty:2
+difficulty:0
 fancyGraphics:true
 ao:2
 clouds:true
