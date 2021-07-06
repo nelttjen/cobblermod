@@ -1,143 +1,127 @@
-[06:44:59] [main/INFO]: Setting user: Player908
-[06:45:01] [Client thread/INFO]: LWJGL Version: 2.9.1
-[06:45:10] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Cobbler, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:Storage Drawers, FMLFileResourcePack:Thermal Expansion, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:Waila
-[06:45:14] [Sound Library Loader/INFO]: Sound engine started
-[06:45:15] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[06:45:15] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[06:45:19] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Cobbler, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:Storage Drawers, FMLFileResourcePack:Thermal Expansion, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:Waila
-[06:45:20] [Client thread/INFO]: Created: 1024x512 textures/blocks-atlas
-[06:45:20] [Client thread/INFO]: Created: 512x512 textures/items-atlas
-[06:45:21] [Sound Library Loader/INFO]: Sound engine started
-[06:45:26] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[06:45:26] [Server thread/INFO]: Generating keypair
-[06:45:26] [Server thread/INFO]: Preparing start region for level 0
-[06:45:27] [Server thread/INFO]: Changing view distance to 5, from 10
-[06:45:27] [Client thread/INFO]: Realms library version == 1.3.5
-[06:45:28] [Server thread/INFO]: [@] 2
-[06:45:28] [Server thread/INFO]: Player908[local:E:80ac0363] logged in with entity id 227 at (222.14847955070388, 71.0, 11.95838532370074)
-[06:45:28] [Server thread/INFO]: Player908 присоединился к игре
-[06:45:28] [MCO Availability Checker #1/ERROR]: Couldn't connect to realms: 
-[06:45:28] [Server thread/INFO]: Saving and pausing game...
-[06:45:28] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[06:45:29] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[06:45:29] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[06:45:33] [Server thread/INFO]: Player908 заработал достижение [Проверить карманы]
-[06:45:33] [Client thread/INFO]: [CHAT] Player908 заработал достижение [Проверить карманы]
-[06:46:29] [Server thread/INFO]: [Player908: Дано [Генератор булыжника 1 уровня] * 1 игроку Player908]
-[06:46:29] [Client thread/INFO]: [CHAT] Дано [Генератор булыжника 1 уровня] * 1 игроку Player908
-[06:46:30] [Server thread/INFO]: [Player908: Дано [Генератор булыжника 2 уровня] * 1 игроку Player908]
-[06:46:30] [Client thread/INFO]: [CHAT] Дано [Генератор булыжника 2 уровня] * 1 игроку Player908
-[06:46:30] [Server thread/INFO]: [Player908: Дано [Генератор булыжника 3 уровня] * 1 игроку Player908]
-[06:46:31] [Client thread/INFO]: [CHAT] Дано [Генератор булыжника 3 уровня] * 1 игроку Player908
-[06:46:31] [Server thread/INFO]: [Player908: Дано [Генератор булыжника 4 уровня] * 1 игроку Player908]
-[06:46:31] [Client thread/INFO]: [CHAT] Дано [Генератор булыжника 4 уровня] * 1 игроку Player908
-[06:46:31] [Server thread/INFO]: [Player908: Дано [Генератор булыжника 5 уровня] * 1 игроку Player908]
-[06:46:31] [Client thread/INFO]: [CHAT] Дано [Генератор булыжника 5 уровня] * 1 игроку Player908
-[06:46:31] [Server thread/INFO]: [Player908: Дано [Максимальный генератор булыжника] * 1 игроку Player908]
-[06:46:31] [Client thread/INFO]: [CHAT] Дано [Максимальный генератор булыжника] * 1 игроку Player908
-[06:46:51] [Server thread/INFO]: [Player908: Дано [Резонирующий измельчитель] * 1 игроку Player908]
-[06:46:51] [Client thread/INFO]: [CHAT] Дано [Резонирующий измельчитель] * 1 игроку Player908
-[06:47:16] [Server thread/INFO]: Saving and pausing game...
-[06:47:16] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[06:47:16] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[06:47:16] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[06:47:16] [Server thread/INFO]: Stopping server
-[06:47:16] [Server thread/INFO]: Saving players
-[06:47:16] [Server thread/INFO]: Saving worlds
-[06:47:16] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[06:47:16] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[06:47:16] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[06:47:26] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[06:47:26] [Server thread/INFO]: Generating keypair
-[06:47:26] [Server thread/INFO]: Converting map!
-[06:47:26] [Server thread/INFO]: Scanning folders...
-[06:47:26] [Server thread/INFO]: Total conversion count is 0
-[06:47:27] [Server thread/INFO]: Preparing start region for level 0
-[06:47:28] [Server thread/INFO]: Changing view distance to 5, from 10
-[06:47:28] [Server thread/INFO]: Player908[local:E:dcd046c8] logged in with entity id 10132 at (69.5, 4.0, -399.5)
-[06:47:28] [Server thread/INFO]: Player908 присоединился к игре
-[06:47:30] [Server thread/INFO]: Player908 заработал достижение [Проверить карманы]
-[06:47:30] [Client thread/INFO]: [CHAT] Player908 заработал достижение [Проверить карманы]
-[06:47:32] [Server thread/INFO]: Saving and pausing game...
-[06:47:32] [Server thread/INFO]: Saving chunks for level 'плоский'/Overworld
-[06:47:32] [Server thread/INFO]: Saving chunks for level 'плоский'/Nether
-[06:47:32] [Server thread/INFO]: Saving chunks for level 'плоский'/The End
-[06:48:41] [Client thread/INFO]: [CHAT] Булыжник: 152
-[06:48:41] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
-[06:48:41] [Client thread/INFO]: [CHAT] Булыжник: 163
-[06:48:41] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
-[06:48:41] [Client thread/INFO]: [CHAT] Булыжник: 166
-[06:48:41] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
-[06:48:42] [Client thread/INFO]: [CHAT] Булыжник: 169
-[06:48:42] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
-[06:48:42] [Client thread/INFO]: [CHAT] Булыжник: 108
-[06:48:42] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
-[06:48:42] [Client thread/INFO]: [CHAT] Булыжник: 111
-[06:48:42] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
-[06:48:42] [Client thread/INFO]: [CHAT] Булыжник: 113
-[06:48:42] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
-[06:48:43] [Client thread/INFO]: [CHAT] Булыжник: 66
-[06:48:43] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
-[06:48:43] [Client thread/INFO]: [CHAT] Булыжник: 70
-[06:48:43] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
-[06:48:44] [Client thread/INFO]: [CHAT] Булыжник: 83
-[06:48:44] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
-[06:48:45] [Client thread/INFO]: [CHAT] Булыжник: 39
-[06:48:45] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
-[06:48:45] [Client thread/INFO]: [CHAT] Булыжник: 2
-[06:48:45] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
-[06:48:50] [Client thread/INFO]: [CHAT] Булыжник: 0
-[06:48:50] [Client thread/INFO]: [CHAT] Вместимость хранилища: 10000
-[06:49:28] [Client thread/INFO]: [CHAT] Булыжник: 760
-[06:49:28] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
-[06:49:32] [Client thread/INFO]: [CHAT] Булыжник: 128
-[06:49:32] [Client thread/INFO]: [CHAT] Вместимость хранилища: 128
-[06:49:32] [Client thread/INFO]: [CHAT] Булыжник: 128
-[06:49:32] [Client thread/INFO]: [CHAT] Вместимость хранилища: 128
-[06:49:57] [Server thread/INFO]: [Player908: Дано [Резонирующий циклический сборщик] * 64 игроку Player908]
-[06:49:57] [Client thread/INFO]: [CHAT] Дано [Резонирующий циклический сборщик] * 64 игроку Player908
-[06:50:04] [Server thread/INFO]: [Player908: Дано [Схема] * 1 игроку Player908]
-[06:50:04] [Client thread/INFO]: [CHAT] Дано [Схема] * 1 игроку Player908
-[06:50:05] [Server thread/INFO]: [Player908: Дано [Схема] * 1 игроку Player908]
-[06:50:05] [Client thread/INFO]: [CHAT] Дано [Схема] * 1 игроку Player908
-[06:50:30] [Server thread/INFO]: [Player908: Дано [Схема] * 1 игроку Player908]
-[06:50:31] [Client thread/INFO]: [CHAT] Дано [Схема] * 1 игроку Player908
-[06:50:31] [Server thread/INFO]: [Player908: Дано [Схема] * 1 игроку Player908]
-[06:50:31] [Client thread/INFO]: [CHAT] Дано [Схема] * 1 игроку Player908
-[06:50:32] [Server thread/INFO]: [Player908: Дано [Схема] * 1 игроку Player908]
-[06:50:32] [Client thread/INFO]: [CHAT] Дано [Схема] * 1 игроку Player908
-[06:50:32] [Server thread/INFO]: [Player908: Дано [Схема] * 1 игроку Player908]
-[06:50:32] [Client thread/INFO]: [CHAT] Дано [Схема] * 1 игроку Player908
-[06:50:32] [Server thread/INFO]: [Player908: Дано [Схема] * 1 игроку Player908]
-[06:50:32] [Client thread/INFO]: [CHAT] Дано [Схема] * 1 игроку Player908
-[06:50:32] [Server thread/INFO]: [Player908: Дано [Схема] * 1 игроку Player908]
-[06:50:32] [Client thread/INFO]: [CHAT] Дано [Схема] * 1 игроку Player908
-[06:50:32] [Server thread/INFO]: [Player908: Дано [Схема] * 1 игроку Player908]
-[06:50:33] [Client thread/INFO]: [CHAT] Дано [Схема] * 1 игроку Player908
-[06:50:33] [Server thread/INFO]: [Player908: Дано [Схема] * 1 игроку Player908]
-[06:50:33] [Client thread/INFO]: [CHAT] Дано [Схема] * 1 игроку Player908
-[06:50:33] [Server thread/INFO]: [Player908: Дано [Схема] * 1 игроку Player908]
-[06:50:33] [Client thread/INFO]: [CHAT] Дано [Схема] * 1 игроку Player908
-[06:50:33] [Server thread/INFO]: [Player908: Дано [Схема] * 1 игроку Player908]
-[06:50:33] [Client thread/INFO]: [CHAT] Дано [Схема] * 1 игроку Player908
-[06:50:33] [Server thread/INFO]: [Player908: Дано [Схема] * 1 игроку Player908]
-[06:50:33] [Client thread/INFO]: [CHAT] Дано [Схема] * 1 игроку Player908
-[06:50:33] [Server thread/INFO]: [Player908: Дано [Схема] * 1 игроку Player908]
-[06:50:33] [Client thread/INFO]: [CHAT] Дано [Схема] * 1 игроку Player908
-[06:50:33] [Server thread/INFO]: [Player908: Дано [Схема] * 1 игроку Player908]
-[06:50:34] [Client thread/INFO]: [CHAT] Дано [Схема] * 1 игроку Player908
-[06:50:54] [Server thread/INFO]: [Player908: Дано [МЭ умный кабель - Светло-серый] * 64 игроку Player908]
-[06:50:54] [Client thread/INFO]: [CHAT] Дано [МЭ умный кабель - Светло-серый] * 64 игроку Player908
-[06:50:56] [Server thread/INFO]: [Player908: Дано [МЭ терминал] * 64 игроку Player908]
-[06:50:56] [Client thread/INFO]: [CHAT] Дано [МЭ терминал] * 64 игроку Player908
-[06:50:57] [Server thread/INFO]: [Player908: Дано [Максимальный генератор булыжника] * 64 игроку Player908]
-[06:50:57] [Client thread/INFO]: [CHAT] Дано [Максимальный генератор булыжника] * 64 игроку Player908
-[06:51:05] [Server thread/INFO]: [Player908: Дано [МЭ терминал создания] * 64 игроку Player908]
-[06:51:05] [Client thread/INFO]: [CHAT] Дано [МЭ терминал создания] * 64 игроку Player908
-[06:51:18] [Client thread/INFO]: Stopping!
-[06:51:18] [Server thread/INFO]: Stopping server
-[06:51:18] [Server thread/INFO]: Saving players
-[06:51:18] [Server thread/INFO]: Saving worlds
-[06:51:18] [Server thread/INFO]: Saving chunks for level 'плоский'/Overworld
-[06:51:18] [Server thread/INFO]: Saving chunks for level 'плоский'/Nether
-[06:51:18] [Server thread/INFO]: Saving chunks for level 'плоский'/The End
+[21:53:20] [main/INFO]: Setting user: Player880
+[21:53:22] [Client thread/INFO]: LWJGL Version: 2.9.1
+[21:53:33] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Cobbler, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:Storage Drawers, FMLFileResourcePack:Thermal Expansion, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:Waila
+[21:53:39] [Sound Library Loader/INFO]: Sound engine started
+[21:53:41] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[21:53:41] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[21:53:46] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Cobbler, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:Storage Drawers, FMLFileResourcePack:Thermal Expansion, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:Waila
+[21:53:47] [Client thread/INFO]: Created: 1024x512 textures/blocks-atlas
+[21:53:47] [Client thread/INFO]: Created: 512x512 textures/items-atlas
+[21:53:48] [Sound Library Loader/INFO]: Sound engine started
+[21:54:09] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[21:54:09] [Server thread/INFO]: Generating keypair
+[21:54:10] [Server thread/INFO]: Preparing start region for level 0
+[21:54:11] [Server thread/INFO]: Changing view distance to 5, from 10
+[21:54:11] [Server thread/INFO]: [@] 2
+[21:54:11] [Server thread/INFO]: Player880[local:E:cafda678] logged in with entity id 238 at (246.0951644675671, 87.83394947170703, -25.24976048382963)
+[21:54:11] [Server thread/INFO]: Player880 РїСЂРёСЃРѕРµРґРёРЅРёР»СЃСЏ Рє РёРіСЂРµ
+[21:54:12] [Server thread/INFO]: [@] 2
+[21:54:12] [Server thread/INFO]: [@] 2
+[21:54:13] [Server thread/INFO]: [@] 2
+[21:54:14] [Server thread/INFO]: [@] 2
+[21:54:15] [Server thread/INFO]: [@] 2
+[21:54:15] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:15] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:15] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:15] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:15] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:16] [Server thread/INFO]: [@] 2
+[21:54:16] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:16] [Server thread/INFO]: [@] 2
+[21:54:16] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:17] [Server thread/INFO]: [@] 2
+[21:54:17] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:18] [Server thread/INFO]: [@] 2
+[21:54:18] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:19] [Server thread/INFO]: [@] 2
+[21:54:19] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:20] [Server thread/INFO]: [@] 2
+[21:54:20] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:20] [Server thread/INFO]: [@] 2
+[21:54:20] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:21] [Server thread/INFO]: [@] 2
+[21:54:21] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:22] [Server thread/INFO]: [@] 2
+[21:54:22] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:23] [Server thread/INFO]: [@] 2
+[21:54:23] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:24] [Server thread/INFO]: [@] 2
+[21:54:24] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:24] [Server thread/INFO]: [@] 2
+[21:54:24] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:25] [Server thread/INFO]: [@] 2
+[21:54:25] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:26] [Server thread/INFO]: [@] 2
+[21:54:26] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:27] [Server thread/INFO]: [@] 2
+[21:54:27] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:28] [Server thread/INFO]: [@] 2
+[21:54:28] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:28] [Server thread/INFO]: [@] 2
+[21:54:28] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:29] [Server thread/INFO]: [@] 2
+[21:54:29] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:30] [Server thread/INFO]: [@] 2
+[21:54:30] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:31] [Server thread/INFO]: [@] 2
+[21:54:31] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:32] [Server thread/INFO]: [@] 2
+[21:54:32] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:32] [Server thread/INFO]: [@] 2
+[21:54:32] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:33] [Server thread/INFO]: [@] 2
+[21:54:33] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:34] [Server thread/INFO]: [@] 2
+[21:54:34] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:35] [Server thread/INFO]: [@] 2
+[21:54:35] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:36] [Server thread/INFO]: [@] 2
+[21:54:36] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:36] [Server thread/INFO]: [@] 2
+[21:54:36] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:37] [Server thread/INFO]: [@] 2
+[21:54:37] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:38] [Server thread/INFO]: [@] 2
+[21:54:38] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:39] [Server thread/INFO]: [@] 2
+[21:54:39] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:40] [Server thread/INFO]: [@] 2
+[21:54:40] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:40] [Server thread/INFO]: [@] 2
+[21:54:40] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:41] [Server thread/INFO]: [@] 2
+[21:54:41] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:42] [Server thread/INFO]: [@] 2
+[21:54:42] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:43] [Server thread/INFO]: [@] 2
+[21:54:43] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:44] [Server thread/INFO]: [@] 2
+[21:54:44] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:44] [Server thread/INFO]: [@] 2
+[21:54:44] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:45] [Server thread/INFO]: [@] 2
+[21:54:45] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:46] [Server thread/INFO]: [@] 2
+[21:54:46] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:47] [Server thread/INFO]: [@] 2
+[21:54:47] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:48] [Server thread/INFO]: [@] 2
+[21:54:48] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:48] [Server thread/INFO]: [@] 2
+[21:54:48] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:49] [Server thread/INFO]: [@] 2
+[21:54:49] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:50] [Server thread/INFO]: [@] 2
+[21:54:50] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:51] [Server thread/INFO]: [@] 2
+[21:54:51] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:52] [Server thread/INFO]: [@] 2
+[21:54:52] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:52] [Server thread/INFO]: [@] 2
+[21:54:52] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:53] [Server thread/INFO]: [@] 2
+[21:54:53] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:54] [Server thread/INFO]: [@] 2
+[21:54:54] [Client thread/INFO]: [CHAT] [@] 2
+[21:54:55] [Server thread/INFO]: [@] 2
+[21:54:55] [Client thread/INFO]: [CHAT] [@] 2

@@ -1,2 +1,30 @@
 itemGroup.cobblerGroup=Cobblestone Generators
-tile.cobbler_tier_1.name=Cobblestone Generator Tier 1
+
+tile.cobbler_tier_1.name=Cobblestone generator Tier 1
+tile.cobbler_tier_2.name=Cobblestone generator Tier 2
+tile.cobbler_tier_3.name=Cobblestone generator Tier 3
+tile.cobbler_tier_4.name=Cobblestone generator Tier 4
+tile.cobbler_tier_5.name=Cobblestone generator Tier 5
+tile.cobbler_tier_super.name=Super cobblestone generator
+tile.creative_cobbler.name=Creative Cobblestone Generator
+
+tile.cobbler_cobblestone0.name=Compressed cobblestone
+tile.cobbler_cobblestone1.name=Double compressed cobblestone
+tile.cobbler_cobblestone2.name=Triple compressed cobblestone
+tile.cobbler_cobblestone3.name=Quadruple compressed cobblestone
+tile.cobbler_cobblestone4.name=Quintuple compressed cobblestone
+tile.cobbler_cobblestone5.name=Sextuple compressed cobblestone
+tile.cobbler_cobblestone6.name=Septuple compressed cobblestone
+tile.cobbler_cobblestone7.name=Octuple compressed cobblestone
+
+tooltip.compressed.1=9 Blocks of Cobblestone
+tooltip.compressed.2=81 Blocks of Cobblestone
+tooltip.compressed.3=729 Blocks of Cobblestone
+tooltip.compressed.4=6 561 Blocks of Cobblestone
+tooltip.compressed.5=59 049 Blocks of Cobblestone
+tooltip.compressed.6=531 441 Blocks of Cobblestone
+tooltip.compressed.7=4 782 969 Blocks of Cobblestone
+tooltip.compressed.8=43 046 721 Blocks of Cobblestone
+
+chatMessage.cobblerActivate.1=Cobblestone:
+chatMessage.cobblerActivate.2=Max internal buffer size:

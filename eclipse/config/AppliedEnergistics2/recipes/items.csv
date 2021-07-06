@@ -281,16 +281,16 @@ minecraft:double_plant:2, Двойная высокая трава
 minecraft:double_plant:3, Раскидистый папоротник
 minecraft:double_plant:4, Розовый куст
 minecraft:double_plant:5, Пион
-cobblermod:cobbler_tier_super, Максимальный Генератор булыжника
-cobblermod:creative_cobbler, Творческий Генератор булыжника
+cobblermod:cobbler_tier_super, Максимальный генератор булыжника
+cobblermod:creative_cobbler, Творческий генератор булыжника
 cobblermod:tile.cobbler_cobblestone:0, Сжатый булыжник
-cobblermod:tile.cobbler_cobblestone:1, Дважды Сжатый булыжник
-cobblermod:tile.cobbler_cobblestone:2, Трижды Сжатый булыжник
-cobblermod:tile.cobbler_cobblestone:3, Четверной Сжатый булыжник
-cobblermod:tile.cobbler_cobblestone:4, Пятикратно Сжатый булыжник
-cobblermod:tile.cobbler_cobblestone:5, Шестикратно Сжатый булыжник
-cobblermod:tile.cobbler_cobblestone:6, Семикратно Сжатый булыжник
-cobblermod:tile.cobbler_cobblestone:7, Восьмикратно Сжатый булыжник
+cobblermod:tile.cobbler_cobblestone:1, Дважды сжатый булыжник
+cobblermod:tile.cobbler_cobblestone:2, Трижды сжатый булыжник
+cobblermod:tile.cobbler_cobblestone:3, Четверной сжатый булыжник
+cobblermod:tile.cobbler_cobblestone:4, Пятикратно сжатый булыжник
+cobblermod:tile.cobbler_cobblestone:5, Шестикратно сжатый булыжник
+cobblermod:tile.cobbler_cobblestone:6, Семикратно сжатый булыжник
+cobblermod:tile.cobbler_cobblestone:7, Восьмикратно сжатый булыжник
 appliedenergistics2:tile.OreQuartz, Руда истинного кварца
 appliedenergistics2:tile.OreQuartzCharged, Заряженная руда истинного кварца
 appliedenergistics2:tile.BlockMatrixFrame, Каркас матрицы
@@ -870,13 +870,13 @@ appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Обож�
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Угольный блок
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плотный лёд
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Сжатый булыжник
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Дважды Сжатый булыжник
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Трижды Сжатый булыжник
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Четверной Сжатый булыжник
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Пятикратно Сжатый булыжник
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Шестикратно Сжатый булыжник
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Семикратно Сжатый булыжник
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Восьмикратно Сжатый булыжник
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Дважды сжатый булыжник
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Трижды сжатый булыжник
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Четверной сжатый булыжник
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Пятикратно сжатый булыжник
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Шестикратно сжатый булыжник
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Семикратно сжатый булыжник
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Восьмикратно сжатый булыжник
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок истинного кварца
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Колонна истинного кварца
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Резной блок истинного кварца

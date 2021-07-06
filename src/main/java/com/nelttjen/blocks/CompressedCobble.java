@@ -18,8 +18,6 @@ import java.util.Locale;
 
 public class CompressedCobble extends Block {
 
-
-    @SideOnly(Side.CLIENT)
     private IIcon[] icons = new IIcon[8];
 
     public CompressedCobble(String id) {
