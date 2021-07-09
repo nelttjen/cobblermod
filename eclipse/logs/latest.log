@@ -1,37 +1,64 @@
-[22:13:35] [main/INFO]: Setting user: Player199
-[22:13:37] [Client thread/INFO]: LWJGL Version: 2.9.1
-[22:13:48] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Cobbler, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:Storage Drawers, FMLFileResourcePack:Thermal Expansion, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:Waila
-[22:13:54] [Sound Library Loader/INFO]: Sound engine started
-[22:13:56] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[22:13:56] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[22:14:01] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Cobbler, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:Storage Drawers, FMLFileResourcePack:Thermal Expansion, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:Waila
-[22:14:02] [Client thread/INFO]: Created: 1024x512 textures/blocks-atlas
-[22:14:02] [Client thread/INFO]: Created: 512x512 textures/items-atlas
-[22:14:03] [Sound Library Loader/INFO]: Sound engine started
-[22:14:07] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[22:14:07] [Server thread/INFO]: Generating keypair
-[22:14:08] [Server thread/INFO]: Preparing start region for level 0
-[22:14:09] [Server thread/INFO]: Changing view distance to 5, from 10
-[22:14:09] [Server thread/INFO]: Player199[local:E:46bb4258] logged in with entity id 167 at (55.19740843050236, 4.0, -418.15944991540425)
-[22:14:09] [Server thread/INFO]: Player199 присоединился к игре
-[22:14:13] [Server thread/INFO]: Saving and pausing game...
-[22:14:13] [Server thread/INFO]: Saving chunks for level 'плоский'/Overworld
-[22:14:13] [Server thread/INFO]: Saving chunks for level 'плоский'/Nether
-[22:14:13] [Server thread/INFO]: Saving chunks for level 'плоский'/The End
-[22:14:38] [Server thread/INFO]: Player199 заработал достижение [Проверить карманы]
-[22:14:38] [Client thread/INFO]: [CHAT] Player199 заработал достижение [Проверить карманы]
-[22:14:53] [Server thread/INFO]: [Player199: Дано [Резонирующий циклический сборщик] * 64 игроку Player199]
-[22:14:53] [Client thread/INFO]: [CHAT] Дано [Резонирующий циклический сборщик] * 64 игроку Player199
-[22:15:03] [Server thread/INFO]: [Player199: Дано [Схема] * 1 игроку Player199]
-[22:15:03] [Client thread/INFO]: [CHAT] Дано [Схема] * 1 игроку Player199
-[22:15:25] [Server thread/INFO]: [Player199: Дано [Творческая энергетическая ячейка] * 1 игроку Player199]
-[22:15:25] [Client thread/INFO]: [CHAT] Дано [Творческая энергетическая ячейка] * 1 игроку Player199
-[22:15:38] [Server thread/INFO]: [Player199: Дано [Сундук] * 64 игроку Player199]
-[22:15:38] [Client thread/INFO]: [CHAT] Дано [Сундук] * 64 игроку Player199
-[22:40:34] [Client thread/INFO]: Stopping!
-[22:40:34] [Server thread/INFO]: Stopping server
-[22:40:34] [Server thread/INFO]: Saving players
-[22:40:34] [Server thread/INFO]: Saving worlds
-[22:40:34] [Server thread/INFO]: Saving chunks for level 'плоский'/Overworld
-[22:40:34] [Server thread/INFO]: Saving chunks for level 'плоский'/Nether
-[22:40:34] [Server thread/INFO]: Saving chunks for level 'плоский'/The End
+[02:05:06] [main/INFO]: Setting user: Player47
+[02:05:09] [Client thread/INFO]: LWJGL Version: 2.9.1
+[02:05:23] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Cobbler, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:Storage Drawers, FMLFileResourcePack:Thermal Expansion, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:Waila
+[02:05:29] [Sound Library Loader/INFO]: Sound engine started
+[02:05:31] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[02:05:31] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[02:05:36] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Cobbler, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:Storage Drawers, FMLFileResourcePack:Thermal Expansion, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:Waila
+[02:05:37] [Client thread/INFO]: Created: 1024x512 textures/blocks-atlas
+[02:05:37] [Client thread/INFO]: Created: 512x512 textures/items-atlas
+[02:05:38] [Sound Library Loader/INFO]: Sound engine started
+[02:05:51] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[02:05:51] [Server thread/INFO]: Generating keypair
+[02:05:51] [Server thread/INFO]: Preparing start region for level 0
+[02:05:53] [Server thread/INFO]: Changing view distance to 5, from 10
+[02:05:53] [Server thread/INFO]: Player47[local:E:b1762fd3] logged in with entity id 163 at (55.88365421732571, 6.11163302697389, -404.4488854003308)
+[02:05:53] [Server thread/INFO]: Player47 присоединился к игре
+[02:05:57] [Server thread/INFO]: Saving and pausing game...
+[02:05:57] [Server thread/INFO]: Saving chunks for level 'плоский'/Overworld
+[02:05:57] [Server thread/INFO]: Saving chunks for level 'плоский'/Nether
+[02:05:57] [Server thread/INFO]: Saving chunks for level 'плоский'/The End
+[02:05:59] [Client thread/INFO]: [CHAT] Булыжник: 39320
+[02:05:59] [Client thread/INFO]: [CHAT] Вместимость хранилища: 50000
+[02:06:00] [Client thread/INFO]: [CHAT] Булыжник: 39322
+[02:06:00] [Client thread/INFO]: [CHAT] Вместимость хранилища: 50000
+[02:06:00] [Client thread/INFO]: [CHAT] Булыжник: 39322
+[02:06:00] [Client thread/INFO]: [CHAT] Вместимость хранилища: 50000
+[02:06:01] [Server thread/INFO]: Saving and pausing game...
+[02:06:01] [Server thread/INFO]: Saving chunks for level 'плоский'/Overworld
+[02:06:01] [Server thread/INFO]: Saving chunks for level 'плоский'/Nether
+[02:06:01] [Server thread/INFO]: Saving chunks for level 'плоский'/The End
+[02:06:10] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Cobbler, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:Storage Drawers, FMLFileResourcePack:Thermal Expansion, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:Waila
+[02:06:11] [Client thread/INFO]: Created: 1024x512 textures/blocks-atlas
+[02:06:11] [Client thread/INFO]: Created: 512x512 textures/items-atlas
+[02:06:12] [Sound Library Loader/INFO]: Sound engine started
+[02:06:15] [Client thread/INFO]: [CHAT] Булыжник: 100000
+[02:06:15] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[02:06:16] [Client thread/INFO]: [CHAT] Булыжник: 128
+[02:06:16] [Client thread/INFO]: [CHAT] Вместимость хранилища: 128
+[02:06:16] [Client thread/INFO]: [CHAT] Булыжник: 128
+[02:06:16] [Client thread/INFO]: [CHAT] Вместимость хранилища: 128
+[02:06:17] [Client thread/INFO]: [CHAT] Булыжник: 39336
+[02:06:17] [Client thread/INFO]: [CHAT] Вместимость хранилища: 50000
+[02:06:17] [Client thread/INFO]: [CHAT] Булыжник: 39336
+[02:06:17] [Client thread/INFO]: [CHAT] Вместимость хранилища: 50000
+[02:06:17] [Client thread/INFO]: [CHAT] Булыжник: 10000
+[02:06:17] [Client thread/INFO]: [CHAT] Вместимость хранилища: 10000
+[02:06:18] [Client thread/INFO]: [CHAT] Булыжник: 10000
+[02:06:18] [Client thread/INFO]: [CHAT] Вместимость хранилища: 10000
+[02:06:18] [Client thread/INFO]: [CHAT] Булыжник: 5000
+[02:06:18] [Client thread/INFO]: [CHAT] Вместимость хранилища: 5000
+[02:06:18] [Client thread/INFO]: [CHAT] Булыжник: 5000
+[02:06:18] [Client thread/INFO]: [CHAT] Вместимость хранилища: 5000
+[02:06:19] [Client thread/INFO]: [CHAT] Булыжник: 1000
+[02:06:19] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
+[02:06:19] [Client thread/INFO]: [CHAT] Булыжник: 1000
+[02:06:19] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
+[02:06:19] [Client thread/INFO]: [CHAT] Булыжник: 5000
+[02:06:19] [Client thread/INFO]: [CHAT] Вместимость хранилища: 5000
+[02:06:20] [Client thread/INFO]: [CHAT] Булыжник: 10000
+[02:06:20] [Client thread/INFO]: [CHAT] Вместимость хранилища: 10000
+[02:06:20] [Client thread/INFO]: [CHAT] Булыжник: 100000
+[02:06:20] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[02:06:20] [Client thread/INFO]: [CHAT] Булыжник: 128
+[02:06:20] [Client thread/INFO]: [CHAT] Вместимость хранилища: 128

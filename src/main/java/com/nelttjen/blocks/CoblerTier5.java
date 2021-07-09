@@ -66,10 +66,11 @@ public class CoblerTier5 extends Block implements ITileEntityProvider {
         return TileCobblerTier5.class;
     }
 
-    @SideOnly(Side.CLIENT)
     private void sendChatInfo(EntityPlayer player) {
-        player.addChatMessage(new ChatComponentText(I18n.format("chatMessage.cobblerActivate.1") + " " + cobbler.getContains_cobble()));
-        player.addChatMessage(new ChatComponentText(I18n.format("chatMessage.cobblerActivate.2") + " " + cobbler.getBufferMax()));
+//        player.addChatMessage(new ChatComponentText(I18n.format("chatMessage.cobblerActivate.1") + " " + cobbler.getContains_cobble()));
+//        player.addChatMessage(new ChatComponentText(I18n.format("chatMessage.cobblerActivate.2") + " " + cobbler.getBufferMax()));
+        player.addChatMessage(new ChatComponentText("\u0411\u0443\u043b\u044b\u0436\u043d\u0438\u043a: " + cobbler.getContains_cobble()));
+        player.addChatMessage(new ChatComponentText("\u0412\u043c\u0435\u0441\u0442\u0438\u043c\u043e\u0441\u0442\u044c \u0445\u0440\u0430\u043d\u0438\u043b\u0438\u0449\u0430: " + cobbler.getBufferMax()));
     }
 
     @Override

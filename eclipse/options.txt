@@ -17,7 +17,7 @@ ao:2
 clouds:true
 resourcePacks:[]
 lastServer:
-lang:ru_RU
+lang:en_US
 chatVisibility:0
 chatColors:true
 chatLinks:true
