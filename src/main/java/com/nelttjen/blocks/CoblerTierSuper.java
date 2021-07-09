@@ -23,6 +23,7 @@ import net.minecraft.world.World;
 
 public class CoblerTierSuper extends Block implements ITileEntityProvider {
 
+    private static TileCobblerTierSuper cobbler;
     private IIcon[] icons = new IIcon[3];
 
     public CoblerTierSuper(String id, CreativeTabs creativeTab, float hardness, float resistance, String harvestTool, int harvestLevel) {
@@ -40,7 +41,7 @@ public class CoblerTierSuper extends Block implements ITileEntityProvider {
         if (world.isRemote) {return false;}
         {
             ItemStack playerIS = player.getCurrentEquippedItem();
-            TileCobblerTierSuper cobbler = (TileCobblerTierSuper) world.getTileEntity(x, y, z);
+            cobbler = (TileCobblerTierSuper) world.getTileEntity(x, y, z);
             if (playerIS == null) {
                 if (player.isSneaking() && CfgHandler.canShiftClick){
                     ItemStack cobbleStack = new ItemStack(Blocks.cobblestone, Math.min(cobbler.getContains_cobble(), 64));
@@ -48,8 +49,7 @@ public class CoblerTierSuper extends Block implements ITileEntityProvider {
                     cobbler.removeCobble(Math.min(cobbler.getContains_cobble(), 64));
                 }
                 else {
-                    player.addChatMessage(new ChatComponentText(I18n.format("chatMessage.cobblerActivate.1") + " " + cobbler.getContains_cobble()));
-                    player.addChatMessage(new ChatComponentText(I18n.format("chatMessage.cobblerActivate.2") + " " + cobbler.getBufferMax()));
+                    sendChatInfo(player);
                 }
 
             }
@@ -67,6 +67,11 @@ public class CoblerTierSuper extends Block implements ITileEntityProvider {
         return TileCobblerTierSuper.class;
     }
 
+    @SideOnly(Side.CLIENT)
+    private void sendChatInfo(EntityPlayer player) {
+        player.addChatMessage(new ChatComponentText(I18n.format("chatMessage.cobblerActivate.1") + " " + cobbler.getContains_cobble()));
+        player.addChatMessage(new ChatComponentText(I18n.format("chatMessage.cobblerActivate.2") + " " + cobbler.getBufferMax()));
+    }
     @Override
     @SideOnly(Side.CLIENT)
     public void registerBlockIcons(IIconRegister reg) {

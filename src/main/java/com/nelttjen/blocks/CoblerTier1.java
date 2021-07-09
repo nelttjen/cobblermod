@@ -1,6 +1,6 @@
 package com.nelttjen.blocks;
 
-import com.mojang.authlib.GameProfile;
+
 import com.nelttjen.config.CfgHandler;
 import com.nelttjen.tiles.TileCobblerTier1;
 import cpw.mods.fml.relauncher.Side;
@@ -16,13 +16,13 @@ import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.ItemStack;
 import net.minecraft.tileentity.TileEntity;
 import net.minecraft.util.ChatComponentText;
-import net.minecraft.util.ChatComponentTranslation;
 import net.minecraft.util.IIcon;
 import net.minecraft.world.World;
 
 
 public class CoblerTier1 extends Block implements ITileEntityProvider {
 
+    private static TileCobblerTier1 cobbler;
     private IIcon[] icons = new IIcon[3];
 
 
@@ -41,7 +41,7 @@ public class CoblerTier1 extends Block implements ITileEntityProvider {
         if (world.isRemote) {return false;}
         {
             ItemStack playerIS = player.getCurrentEquippedItem();
-            TileCobblerTier1 cobbler = (TileCobblerTier1) world.getTileEntity(x, y, z);
+            cobbler = (TileCobblerTier1) world.getTileEntity(x, y, z);
             if (playerIS == null) {
                 if (player.isSneaking() && CfgHandler.canShiftClick){
                     ItemStack cobbleStack = new ItemStack(Blocks.cobblestone, Math.min(cobbler.getContains_cobble(), 64));
@@ -49,8 +49,7 @@ public class CoblerTier1 extends Block implements ITileEntityProvider {
                     cobbler.removeCobble(Math.min(cobbler.getContains_cobble(), 64));
                 }
                 else {
-                    player.addChatMessage(new ChatComponentText(I18n.format("chatMessage.cobblerActivate.1") + " " + cobbler.getContains_cobble()));
-                    player.addChatMessage(new ChatComponentText(I18n.format("chatMessage.cobblerActivate.2") + " " + cobbler.getBufferMax()));
+                    sendChatInfo(player);
                 }
 
             }
@@ -66,6 +65,12 @@ public class CoblerTier1 extends Block implements ITileEntityProvider {
 
     public Class<TileCobblerTier1> getTileEntityClass() {
         return TileCobblerTier1.class;
+    }
+
+    @SideOnly(Side.CLIENT)
+    private void sendChatInfo(EntityPlayer player) {
+        player.addChatMessage(new ChatComponentText(I18n.format("chatMessage.cobblerActivate.1") + " " + cobbler.getContains_cobble()));
+        player.addChatMessage(new ChatComponentText(I18n.format("chatMessage.cobblerActivate.2") + " " + cobbler.getBufferMax()));
     }
 
     @Override

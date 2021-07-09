@@ -1,0 +1,28 @@
+[21:48:17] [main/INFO]: Setting user: Player256
+[21:48:20] [Client thread/INFO]: LWJGL Version: 2.9.1
+[21:48:32] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Cobbler, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:Storage Drawers, FMLFileResourcePack:Thermal Expansion, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:Waila
+[21:48:38] [Sound Library Loader/INFO]: Sound engine started
+[21:48:40] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[21:48:40] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[21:48:44] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Cobbler, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:Storage Drawers, FMLFileResourcePack:Thermal Expansion, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:Waila
+[21:48:45] [Client thread/INFO]: Created: 1024x512 textures/blocks-atlas
+[21:48:45] [Client thread/INFO]: Created: 512x512 textures/items-atlas
+[21:48:46] [Sound Library Loader/INFO]: Sound engine started
+[21:49:01] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[21:49:01] [Server thread/INFO]: Generating keypair
+[21:49:01] [Server thread/INFO]: Preparing start region for level 0
+[21:49:02] [Server thread/INFO]: Changing view distance to 5, from 10
+[21:49:02] [Server thread/INFO]: Player256[local:E:5248c349] logged in with entity id 160 at (57.70889923109918, 4.0, -417.69999998807907)
+[21:49:02] [Server thread/INFO]: Player256 присоединился к игре
+[21:49:07] [Server thread/INFO]: Player256 заработал достижение [Проверить карманы]
+[21:49:07] [Client thread/INFO]: [CHAT] Player256 заработал достижение [Проверить карманы]
+[21:49:12] [Client thread/INFO]: [CHAT] Булыжник: 0
+[21:49:12] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
+[21:49:15] [Client thread/INFO]: [CHAT] Булыжник: 0
+[21:49:15] [Client thread/INFO]: [CHAT] Вместимость хранилища: 10000
+[21:49:15] [Client thread/INFO]: [CHAT] Булыжник: 1
+[21:49:15] [Client thread/INFO]: [CHAT] Вместимость хранилища: 10000
+[21:50:29] [Client thread/INFO]: [CHAT] Булыжник: 38
+[21:50:29] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
+[22:05:04] [Client thread/INFO]: [CHAT] Булыжник: 1580
+[22:05:04] [Client thread/INFO]: [CHAT] Вместимость хранилища: 10000

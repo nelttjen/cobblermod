@@ -67,18 +67,21 @@ public class TileCobblerTierSuper extends TileEntity {
                             break;
                         }
                         else if (invBasic.getStackInSlot(slot) != null && invBasic.isItemValidForSlot(slot, cobbleStack(Math.min(this.contains_cobble, 64)))){
-                            int exist = invBasic.getStackInSlot(slot).stackSize;
-                            int toFullStack = 64 - exist;
-                            if (toFullStack == 0) {continue;}
-                            if (toFullStack <= this.contains_cobble){
-                                createCobbleStack(slot, invBasic, 64);
-                                removeCobble(toFullStack);
-                                break;
-                            }
-                            else {
-                                createCobbleStack(slot, invBasic, exist + this.contains_cobble);
-                                removeCobble(this.contains_cobble);
-                                break;
+                            if (invBasic.getStackInSlot(slot).getItem() == Item.getItemFromBlock(Blocks.cobblestone)) {
+                                int exist = invBasic.getStackInSlot(slot).stackSize;
+                                int toFullStack = 64 - exist;
+                                if (toFullStack == 0) {
+                                    continue;
+                                }
+                                if (toFullStack <= this.contains_cobble) {
+                                    createCobbleStack(slot, invBasic, 64);
+                                    removeCobble(toFullStack);
+                                    break;
+                                } else {
+                                    createCobbleStack(slot, invBasic, exist + this.contains_cobble);
+                                    removeCobble(this.contains_cobble);
+                                    break;
+                                }
                             }
                         }
                     }
@@ -92,18 +95,21 @@ public class TileCobblerTierSuper extends TileEntity {
                         break;
                     }
                     else if (inv.getStackInSlot(slot) != null && inv.isItemValidForSlot(slot, cobbleStack(Math.min(this.contains_cobble, 64))) && inv.canInsertItem(slot, cobbleStack(Math.min(this.contains_cobble, 64)), forgeDirection.getOpposite().ordinal())){
-                        int exist = inv.getStackInSlot(slot).stackSize;
-                        int toFullStack = 64 - exist;
-                        if (toFullStack == 0) {continue;}
-                        if (toFullStack <= this.contains_cobble){
-                            createCobbleStack(slot, inv, 64);
-                            removeCobble(toFullStack);
-                            break;
-                        }
-                        else {
-                            createCobbleStack(slot, inv, exist + this.contains_cobble);
-                            removeCobble(this.contains_cobble);
-                            break;
+                        if (inv.getStackInSlot(slot).getItem() == Item.getItemFromBlock(Blocks.cobblestone)) {
+                            int exist = inv.getStackInSlot(slot).stackSize;
+                            int toFullStack = 64 - exist;
+                            if (toFullStack == 0) {
+                                continue;
+                            }
+                            if (toFullStack <= this.contains_cobble) {
+                                createCobbleStack(slot, inv, 64);
+                                removeCobble(toFullStack);
+                                break;
+                            } else {
+                                createCobbleStack(slot, inv, exist + this.contains_cobble);
+                                removeCobble(this.contains_cobble);
+                                break;
+                            }
                         }
                     }
                 }
