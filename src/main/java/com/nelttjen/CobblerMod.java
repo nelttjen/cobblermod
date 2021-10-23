@@ -1,10 +1,8 @@
 package com.nelttjen;
 
 
-import com.nelttjen.config.CfgHandler;
 import com.nelttjen.lib.Variables;
 import com.nelttjen.proxy.CommonProxy;
-import cpw.mods.fml.common.FMLCommonHandler;
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.Mod.EventHandler;
 import cpw.mods.fml.common.SidedProxy;
@@ -13,6 +11,7 @@ import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.registry.GameRegistry;
 import net.minecraft.creativetab.CreativeTabs;
+import net.minecraft.init.Items;
 import net.minecraft.item.Item;
 
 
@@ -32,12 +31,12 @@ public class CobblerMod {
     public static final CreativeTabs COBBLER = new CreativeTabs("cobblerGroup") {
         @Override
         public Item getTabIconItem() {
-            return GameRegistry.findItem("cobblermod", "cobbler_tier_1");
+            return GameRegistry.findItem("cobblermod", "blockCobbler0");
         }
     };
     //CREATE CREATIVE TAB END
 
-    //MOD CODE
+    //INIT
     //Pre init
     @EventHandler
     public void preInit(FMLPreInitializationEvent event) {

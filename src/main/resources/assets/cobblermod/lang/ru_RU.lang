@@ -1,11 +1,11 @@
 itemGroup.cobblerGroup=Генераторы булыжника
 
-tile.cobbler_tier_1.name=Генератор булыжника 1 уровня
-tile.cobbler_tier_2.name=Генератор булыжника 2 уровня
-tile.cobbler_tier_3.name=Генератор булыжника 3 уровня
-tile.cobbler_tier_4.name=Генератор булыжника 4 уровня
-tile.cobbler_tier_5.name=Генератор булыжника 5 уровня
-tile.cobbler_tier_super.name=Максимальный генератор булыжника
+tile.blockCobbler0.name=Генератор булыжника 1 уровня
+tile.blockCobbler1.name=Генератор булыжника 2 уровня
+tile.blockCobbler2.name=Генератор булыжника 3 уровня
+tile.blockCobbler3.name=Генератор булыжника 4 уровня
+tile.blockCobbler4.name=Генератор булыжника 5 уровня
+tile.blockCobbler5.name=Максимальный генератор булыжника
 tile.creative_cobbler.name=Творческий генератор булыжника
 
 tile.cobbler_cobblestone0.name=Сжатый булыжник
@@ -26,5 +26,7 @@ tooltip.compressed.6=531 441 Блоков булыжника
 tooltip.compressed.7=4 782 969 Блоков булыжника
 tooltip.compressed.8=43 046 721 Блоков булыжника
 
+chatMessage.cobblerActivate.0=Уровень:
+chatMessage.superCobblerActivate.0=Уровень: Максимальный
 chatMessage.cobblerActivate.1=Булыжник:
 chatMessage.cobblerActivate.2=Вместимость хранилища:

@@ -10,16 +10,324 @@ Note: Some input files use unchecked or unsafe operations.
 Note: Recompile with -Xlint:unchecked for details.
 1 warning
 
-:processResources UP-TO-DATE
+:processResources
 :classes
 :jar
-:extractMcpData UP-TO-DATE
 :getVersionJson
 :extractUserDev UP-TO-DATE
-:genSrgs SKIPPED
-:reobf
-:assemble
+:extractNatives UP-TO-DATE
+:getAssetsIndex
+:getAssets
+:makeStart
+[ant:javac] warning: [options] bootstrap class path not set in conjunction with -source 1.6
+[ant:javac] 1 warning
+:runClient
+[22:21:03] [main/INFO] [GradleStart]: Extra: []
+[22:21:03] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Home2/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[22:21:03] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[22:21:03] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[22:21:03] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[22:21:03] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[22:21:03] [main/INFO] [FML]: Forge Mod Loader version 7.99.40.1614 for Minecraft 1.7.10 loading
+[22:21:03] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_291, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jdk1.8.0_291\jre
+[22:21:03] [main/INFO] [FML]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+[22:21:04] [main/INFO] [FML]: [AppEng] Core Init
+[22:21:04] [main/WARN] [FML]: The coremod codechicken.core.launch.CodeChickenCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:21:04] [main/WARN] [FML]: The coremod cofh.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:21:04] [main/WARN] [FML]: The coremod codechicken.nei.asm.NEICorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:21:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.CoremodTweaker
+[22:21:04] [main/INFO] [GradleStart]: Injecting location in coremod cpw.mods.fml.relauncher.FMLCorePlugin
+[22:21:04] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.classloading.FMLForgePlugin
+[22:21:04] [main/INFO] [GradleStart]: Injecting location in coremod codechicken.core.asm.MCPDeobfuscationTransformer.LoadPlugin
+[22:21:04] [main/INFO] [GradleStart]: Injecting location in coremod appeng.transformer.AppEngCore
+[22:21:04] [main/INFO] [GradleStart]: Injecting location in coremod codechicken.core.launch.CodeChickenCorePlugin
+[22:21:04] [main/INFO] [GradleStart]: Injecting location in coremod cofh.asm.LoadingPlugin
+[22:21:04] [main/INFO] [GradleStart]: Injecting location in coremod codechicken.nei.asm.NEICorePlugin
+[22:21:04] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:21:04] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[22:21:04] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[22:21:04] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:21:04] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:21:04] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:21:05] [main/ERROR] [FML]: The binary patch set is missing. Either you are in a development environment, or things are not going to work!
+[22:21:06] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thing
+[22:21:06] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:21:06] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:21:06] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:21:06] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:21:06] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:21:06] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[22:21:07] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:21:07] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[22:21:07] [main/INFO] [GradleStart]: Remapping AccessTransformer rules...
+[22:21:07] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
+[22:21:07] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
+[22:21:07] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[22:21:08] [main/INFO] [AE2-CORE]: func_146977_a(Lnet/minecraft/inventory/Slot;)V - Transformed
+[22:21:08] [main/INFO] [AE2-CORE]: func_146977_a_original(Lnet/minecraft/inventory/Slot;)V - New Method
+[22:21:08] [main/INFO] [AE2-CORE]: func_146977_a(Lnet/minecraft/inventory/Slot;)V - Invoke Virtual
+[22:21:09] [main/INFO]: Setting user: Player402
+[22:21:11] [Client thread/INFO]: LWJGL Version: 2.9.1
+[22:21:12] [Client thread/INFO] [STDOUT]: [cpw.mods.fml.client.SplashProgress:start:188]: ---- Minecraft Crash Report ----
+// Uh... Did I do that?
+
+Time: 21.10.21 22:21
+Description: Loading screen debug info
+
+This is just a prompt for computer specs to be printed. THIS IS NOT A ERROR
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.7.10
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_291, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 490408944 bytes (467 MB) / 670564352 bytes (639 MB) up to 3806855168 bytes (3630 MB)
+	JVM Flags: 0 total; 
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 466.77' Renderer: 'NVIDIA GeForce GTX 1660/PCIe/SSE2'
+[22:21:12] [Client thread/INFO] [MinecraftForge]: Attempting early MinecraftForge initialization
+[22:21:12] [Client thread/INFO] [FML]: MinecraftForge v10.13.4.1614 Initialized
+[22:21:12] [Client thread/INFO] [FML]: Replaced 183 ore recipies
+[22:21:12] [Client thread/INFO] [MinecraftForge]: Completed early MinecraftForge initialization
+[22:21:13] [Client thread/INFO] [FML]: [AppEng] Core Init
+[22:21:13] [Client thread/INFO] [FML]: Found 0 mods from the command line. Injecting into mod discoverer
+[22:21:13] [Client thread/INFO] [FML]: Searching C:\Users\Home2\Desktop\cobblermod\eclipse\mods for mods
+[22:21:13] [Client thread/INFO] [FML]: Also searching C:\Users\Home2\Desktop\cobblermod\eclipse\mods\1.7.10 for mods
+[22:21:17] [Client thread/INFO] [FML]: Forge Mod Loader has identified 14 mods to load
+[22:21:18] [Client thread/INFO] [FML]: FML has found a non-mod file CodeChickenLib-1.7.10-1.1.3.141-universal.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[22:21:18] [Client thread/INFO] [FML]: Attempting connection with missing mods [mcp, FML, Forge, appliedenergistics2-core, CodeChickenCore, NotEnoughItems, <CoFH ASM>, cobblermod, appliedenergistics2, CoFHCore, StorageDrawers, ThermalExpansion, ThermalFoundation, Waila] at CLIENT
+[22:21:18] [Client thread/INFO] [FML]: Attempting connection with missing mods [mcp, FML, Forge, appliedenergistics2-core, CodeChickenCore, NotEnoughItems, <CoFH ASM>, cobblermod, appliedenergistics2, CoFHCore, StorageDrawers, ThermalExpansion, ThermalFoundation, Waila] at SERVER
+[22:21:19] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Cobbler, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:Storage Drawers, FMLFileResourcePack:Thermal Expansion, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:Waila
+[22:21:19] [Client thread/INFO] [FML]: Processing ObjectHolder annotations
+[22:21:19] [Client thread/INFO] [FML]: Found 337 ObjectHolder annotations
+[22:21:19] [Client thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[22:21:20] [Client thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[22:21:20] [Client thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[22:21:20] [Client thread/INFO] [AE2:C]: Pre Initialization ( started )
+[22:21:20] [Forge Version Check/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:749]: com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1
+[22:21:20] [Forge Version Check/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.google.gson.Gson.fromJson(Gson.java:815)
+[22:21:20] [Forge Version Check/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.google.gson.Gson.fromJson(Gson.java:768)
+[22:21:20] [Forge Version Check/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.google.gson.Gson.fromJson(Gson.java:717)
+[22:21:20] [Forge Version Check/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.google.gson.Gson.fromJson(Gson.java:689)
+[22:21:20] [Forge Version Check/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraftforge.common.ForgeVersion$1.run(ForgeVersion.java:94)
+[22:21:20] [Forge Version Check/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:749]: Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1
+[22:21:20] [Forge Version Check/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:374)
+[22:21:20] [Forge Version Check/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:183)
+[22:21:20] [Forge Version Check/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145)
+[22:21:20] [Forge Version Check/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.google.gson.Gson.fromJson(Gson.java:803)
+[22:21:20] [Forge Version Check/INFO] [STDERR]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	... 4 more
+[22:21:20] [Client thread/INFO] [AE2-CORE]: writeToNBT(Lnet/minecraft/nbt/NBTTagCompound;)V - Transformed
+[22:21:20] [Client thread/INFO] [AE2-CORE]: readFromNBT(Lnet/minecraft/nbt/NBTTagCompound;)V - Transformed
+[22:21:20] [Client thread/INFO] [AE2-CORE]: Removing Interface ic2.api.energy.tile.IEnergySink from appeng/tile/powersink/IC2 because IC2 integration is disabled.
+[22:21:20] [Client thread/INFO] [AE2-CORE]: Updated appeng/tile/powersink/IC2
+[22:21:20] [Client thread/INFO] [AE2-CORE]: Removing Interface Reika.RotaryCraft.API.Power.AdvancedShaftPowerReceiver from appeng/tile/powersink/RotaryCraft because RotaryCraft integration is disabled.
+[22:21:20] [Client thread/INFO] [AE2-CORE]: Removing Interface Reika.RotaryCraft.API.Interfaces.Transducerable from appeng/tile/powersink/RotaryCraft because RotaryCraft integration is disabled.
+[22:21:20] [Client thread/INFO] [AE2-CORE]: Removing Method Tick_RotaryCraft from appeng/tile/powersink/RotaryCraft because RotaryCraft integration is disabled.
+[22:21:20] [Client thread/INFO] [AE2-CORE]: Updated appeng/tile/powersink/RotaryCraft
+[22:21:20] [Client thread/INFO] [AE2-CORE]: Allowing Interface cofh.api.energy.IEnergyReceiver from appeng/tile/powersink/RedstoneFlux because RF integration is enabled.
+[22:21:20] [Client thread/INFO] [AE2-CORE]: Removing Interface mekanism.api.energy.IStrictEnergyAcceptor from appeng/tile/powersink/MekJoules because Mekanism integration is disabled.
+[22:21:20] [Client thread/INFO] [AE2-CORE]: Updated appeng/tile/powersink/MekJoules
+[22:21:20] [Client thread/INFO] [AE2-CORE]: Removing Interface powercrystals.minefactoryreloaded.api.rednet.connectivity.IRedNetConnection from appeng/block/networking/BlockCableBus because MFR integration is disabled.
+[22:21:20] [Client thread/INFO] [AE2-CORE]: Removing Method getConnectionType from appeng/block/networking/BlockCableBus because MFR integration is disabled.
+[22:21:20] [Client thread/INFO] [AE2-CORE]: Updated appeng/block/networking/BlockCableBus
+[22:21:21] [Client thread/INFO] [AE2-CORE]: Removing Interface buildcraft.api.tools.IToolWrench from appeng/items/tools/quartz/ToolQuartzWrench because BuildCraftCore integration is disabled.
+[22:21:21] [Client thread/INFO] [AE2-CORE]: Updated appeng/items/tools/quartz/ToolQuartzWrench
+[22:21:21] [Client thread/INFO] [AE2-CORE]: Removing Interface ic2.api.item.ISpecialElectricItem from appeng/items/tools/powered/powersink/IC2 because IC2 integration is disabled.
+[22:21:21] [Client thread/INFO] [AE2-CORE]: Removing Interface ic2.api.item.IElectricItemManager from appeng/items/tools/powered/powersink/IC2 because IC2 integration is disabled.
+[22:21:21] [Client thread/INFO] [AE2-CORE]: Removing Method getManager from appeng/items/tools/powered/powersink/IC2 because IC2 integration is disabled.
+[22:21:21] [Client thread/INFO] [AE2-CORE]: Updated appeng/items/tools/powered/powersink/IC2
+[22:21:21] [Client thread/INFO] [AE2-CORE]: Allowing Interface cofh.api.energy.IEnergyContainerItem from appeng/items/tools/powered/powersink/RedstoneFlux because RFItem integration is enabled.
+[22:21:21] [Client thread/INFO] [AE2-CORE]: Removing Interface buildcraft.api.tools.IToolWrench from appeng/items/tools/ToolNetworkTool because BuildCraftCore integration is disabled.
+[22:21:21] [Client thread/INFO] [AE2-CORE]: Updated appeng/items/tools/ToolNetworkTool
+[22:21:21] [Client thread/INFO] [AE2-CORE]: Removing Interface buildcraft.api.transport.IPipeConnection from appeng/parts/misc/PartStorageBus because BuildCraftTransport integration is disabled.
+[22:21:21] [Client thread/INFO] [AE2-CORE]: Removing Method overridePipeConnection from appeng/parts/misc/PartStorageBus because BuildCraftTransport integration is disabled.
+[22:21:21] [Client thread/INFO] [AE2-CORE]: Updated appeng/parts/misc/PartStorageBus
+[22:21:21] [Client thread/INFO] [AE2-CORE]: Removing Interface buildcraft.api.transport.IPipeConnection from appeng/parts/p2p/PartP2PItems because BuildCraftTransport integration is disabled.
+[22:21:21] [Client thread/INFO] [AE2-CORE]: Removing Method overridePipeConnection from appeng/parts/p2p/PartP2PItems because BuildCraftTransport integration is disabled.
+[22:21:21] [Client thread/INFO] [AE2-CORE]: Updated appeng/parts/p2p/PartP2PItems
+[22:21:21] [Client thread/INFO] [AE2-CORE]: Removing Interface ic2.api.energy.tile.IEnergySink from appeng/parts/p2p/PartP2PIC2Power because IC2 integration is disabled.
+[22:21:21] [Client thread/INFO] [AE2-CORE]: Removing Interface ic2.api.energy.tile.IEnergySource from appeng/parts/p2p/PartP2PIC2Power because IC2 integration is disabled.
+[22:21:21] [Client thread/INFO] [AE2-CORE]: Updated appeng/parts/p2p/PartP2PIC2Power
+[22:21:21] [Client thread/INFO] [AE2-CORE]: Allowing Interface cofh.api.energy.IEnergyReceiver from appeng/parts/p2p/PartP2PRFPower because RF integration is enabled.
+[22:21:21] [Client thread/INFO] [AE2-CORE]: Removing Interface li.cil.oc.api.network.Environment from appeng/parts/p2p/PartP2POpenComputers because OpenComputers integration is disabled.
+[22:21:21] [Client thread/INFO] [AE2-CORE]: Removing Interface li.cil.oc.api.network.SidedEnvironment from appeng/parts/p2p/PartP2POpenComputers because OpenComputers integration is disabled.
+[22:21:21] [Client thread/INFO] [AE2-CORE]: Updated appeng/parts/p2p/PartP2POpenComputers
+[22:21:21] [Client thread/INFO] [AE2-CORE]: Removing Interface pneumaticCraft.api.tileentity.ISidedPneumaticMachine from appeng/parts/p2p/PartP2PPressure because PneumaticCraft integration is disabled.
+[22:21:21] [Client thread/INFO] [AE2-CORE]: Updated appeng/parts/p2p/PartP2PPressure
+[22:21:21] [Client thread/INFO] [AE2:C]: Starting AE2 VersionChecker
+[22:21:21] [Client thread/INFO] [AE2:C]: Pre Initialization ( ended after 1581ms )
+[22:21:21] [AE2 VersionChecker/INFO] [AE2:C]: Last check was just recently.
+[22:21:21] [AE2 VersionChecker/INFO] [AE2:C]: Stopping AE2 VersionChecker
+[22:21:21] [Client thread/INFO] [CoFHWorld]: Registering Default Templates.
+[22:21:21] [Client thread/INFO] [CoFHWorld]: Registering default generators
+[22:21:21] [Client thread/INFO] [CoFHWorld]: Complete
+[22:21:22] [Client thread/INFO] [ThermalFoundation]: Thermal Foundation: Loading Plugins...
+[22:21:22] [Client thread/INFO] [ThermalFoundation]: Thermal Foundation: Finished Loading Plugins.
+[22:21:22] [Client thread/INFO] [ThermalExpansion]: ThermalExpansion: Loading Plugins...
+[22:21:23] [Client thread/INFO] [ThermalExpansion]: Thermal Expansion: Finished Loading Plugins.
+[22:21:23] [Client thread/INFO] [FML]: Applying holder lookups
+[22:21:23] [Client thread/INFO] [FML]: Holder lookups applied
+[22:21:23] [Client thread/INFO] [FML]: Injecting itemstacks
+[22:21:23] [Client thread/INFO] [FML]: Itemstack injection complete
+[22:21:23] [CoFHUpdater:ThermalFoundation/ERROR] [ThermalFoundation]: Update check for Thermal Foundation failed.
+java.io.FileNotFoundException: https://raw.githubusercontent.com/CoFH/VERSION/master/ThermalFoundation
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1896) ~[?:1.8.0_291]
+	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:92) ~[?:1.8.0_291]
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1490) ~[?:1.8.0_291]
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1488) ~[?:1.8.0_291]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_291]
+	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:784) ~[?:1.8.0_291]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1487) ~[?:1.8.0_291]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268) ~[?:1.8.0_291]
+	at java.net.URL.openStream(URL.java:1092) ~[?:1.8.0_291]
+	at cofh.mod.updater.UpdateCheckThread.run(UpdateCheckThread.java:55) [UpdateCheckThread.class:?]
+[22:21:23] [CoFHUpdater:CoFHCore/ERROR] [CoFHCore]: Update check for CoFH Core failed.
+java.io.FileNotFoundException: https://raw.githubusercontent.com/CoFH/VERSION/master/CoFHCore
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1896) ~[?:1.8.0_291]
+	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:92) ~[?:1.8.0_291]
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1490) ~[?:1.8.0_291]
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1488) ~[?:1.8.0_291]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_291]
+	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:784) ~[?:1.8.0_291]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1487) ~[?:1.8.0_291]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268) ~[?:1.8.0_291]
+	at java.net.URL.openStream(URL.java:1092) ~[?:1.8.0_291]
+	at cofh.mod.updater.UpdateCheckThread.run(UpdateCheckThread.java:55) [UpdateCheckThread.class:?]
+[22:21:23] [CoFHUpdater:ThermalExpansion/ERROR] [ThermalExpansion]: Update check for Thermal Expansion failed.
+java.io.FileNotFoundException: https://raw.githubusercontent.com/CoFH/VERSION/master/ThermalExpansion
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1896) ~[?:1.8.0_291]
+	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:92) ~[?:1.8.0_291]
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1490) ~[?:1.8.0_291]
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1488) ~[?:1.8.0_291]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_291]
+	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:784) ~[?:1.8.0_291]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1487) ~[?:1.8.0_291]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268) ~[?:1.8.0_291]
+	at java.net.URL.openStream(URL.java:1092) ~[?:1.8.0_291]
+	at cofh.mod.updater.UpdateCheckThread.run(UpdateCheckThread.java:55) [UpdateCheckThread.class:?]
+[22:21:23] [Sound Library Loader/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[22:21:23] [Sound Library Loader/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: Starting up SoundSystem...
+[22:21:23] [Thread-10/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: Initializing LWJGL OpenAL
+[22:21:23] [Thread-10/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]:     (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[22:21:23] [Thread-10/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: OpenAL initialized.
+[22:21:23] [Sound Library Loader/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[22:21:23] [Sound Library Loader/INFO]: Sound engine started
+[22:21:25] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[22:21:25] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[22:21:25] [Client thread/INFO] [AE2:C]: Initialization ( started )
+[22:21:25] [Client thread/INFO] [AE2:C]: Starting AE2 CSV Export
+[22:21:25] [AE2 CSV Export/INFO] [AE2:C]: Cache is enabled. Checking for new mod configurations.
+[22:21:25] [AE2 CSV Export/INFO] [AE2:C]: Same mod configuration was found. Not updating CSV content.
+[22:21:26] [Client thread/WARN] [AE2:C]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.IronNugget:0
+[22:21:26] [Client thread/WARN] [AE2:C]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.GoldDust:0
+[22:21:26] [Client thread/WARN] [AE2:C]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.IronDust:0
+[22:21:26] [Client thread/INFO] [AE2:C]: Recipes Loading: Shaped: 211 loaded.
+[22:21:26] [Client thread/INFO] [AE2:C]: Recipes Loading: GrindFZ: 7 loaded.
+[22:21:26] [Client thread/INFO] [AE2:C]: Recipes Loading: Pulverizer: 9 loaded.
+[22:21:26] [Client thread/INFO] [AE2:C]: Recipes Loading: Grind: 4 loaded.
+[22:21:26] [Client thread/INFO] [AE2:C]: Recipes Loading: Macerator: 8 loaded.
+[22:21:26] [Client thread/INFO] [AE2:C]: Recipes Loading: HCCrusher: 9 loaded.
+[22:21:26] [Client thread/INFO] [AE2:C]: Recipes Loading: OreRegistration: 16 loaded.
+[22:21:26] [Client thread/INFO] [AE2:C]: Recipes Loading: Smelt: 4 loaded.
+[22:21:26] [Client thread/INFO] [AE2:C]: Recipes Loading: Crusher: 9 loaded.
+[22:21:26] [Client thread/INFO] [AE2:C]: Recipes Loading: Shapeless: 56 loaded.
+[22:21:26] [Client thread/INFO] [AE2:C]: Recipes Loading: MekCrusher: 3 loaded.
+[22:21:26] [Client thread/INFO] [AE2:C]: Recipes Loading: MekEnrichment: 2 loaded.
+[22:21:26] [Client thread/INFO] [AE2:C]: Recipes Loading: Press: 3 loaded.
+[22:21:26] [Client thread/INFO] [AE2:C]: Recipes Loading: Inscribe: 8 loaded.
+[22:21:26] [Client thread/INFO] [AE2:C]: Initialization ( ended after 926ms )
+[22:21:27] [Client thread/INFO] [Waila]: Receiving registration request from [ appliedenergistics2 ] for method appeng.integration.modules.Waila.register
+[22:21:27] [Client thread/INFO] [Waila]: Receiving registration request from [ StorageDrawers ] for method com.jaquadro.minecraft.storagedrawers.integration.Waila.registerProvider
+[22:21:27] [Client thread/INFO] [FML]: Injecting itemstacks
+[22:21:27] [Client thread/INFO] [FML]: Itemstack injection complete
+[22:21:27] [Client thread/INFO] [AE2:C]: Post Initialization ( started )
+[22:21:27] [Client thread/INFO] [AE2:C]: Layer: appeng/parts/layers/LayerISidedInventory_TileCableBus loaded successfully - 5284 bytes
+[22:21:27] [Client thread/INFO] [AE2:C]: Layer: appeng/parts/layers/LayerIFluidHandler_TileCableBus loaded successfully - 2442 bytes
+[22:21:27] [Client thread/INFO] [AE2:C]: Layer: appeng/parts/layers/LayerITileStorageMonitorable_TileCableBus loaded successfully - 1070 bytes
+[22:21:27] [Client thread/INFO] [AE2:C]: Layer: appeng/parts/layers/LayerIEnergyHandler_TileCableBus loaded successfully - 1811 bytes
+[22:21:27] [Client thread/INFO] [AE2:C]: Layer: appeng/parts/layers/LayerISidedInventory_TileCableBusTESR loaded successfully - 5296 bytes
+[22:21:27] [Client thread/INFO] [AE2:C]: Layer: appeng/parts/layers/LayerIFluidHandler_TileCableBusTESR loaded successfully - 2454 bytes
+[22:21:27] [Client thread/INFO] [AE2:C]: Layer: appeng/parts/layers/LayerITileStorageMonitorable_TileCableBusTESR loaded successfully - 1082 bytes
+[22:21:27] [Client thread/INFO] [AE2:C]: Layer: appeng/parts/layers/LayerIEnergyHandler_TileCableBusTESR loaded successfully - 1823 bytes
+[22:21:27] [Client thread/INFO] [AE2:C]: Industrial Craft 2 - Integration Disabled
+[22:21:27] [Client thread/INFO] [AE2:C]: Rotary Craft - Integration Disabled
+[22:21:27] [Client thread/INFO] [AE2:C]: Railcraft - Integration Disabled
+[22:21:27] [Client thread/INFO] [AE2:C]: BuildCraft Core - Integration Disabled
+[22:21:27] [Client thread/INFO] [AE2:C]: BuildCraft Transport - Integration Disabled
+[22:21:27] [Client thread/INFO] [AE2:C]: BuildCraft Builders - Integration Disabled
+[22:21:27] [Client thread/INFO] [AE2:C]: RedstoneFlux Power - Tiles - Integration Enable
+[22:21:27] [Client thread/INFO] [AE2:C]: RedstoneFlux Power - Items - Integration Enable
+[22:21:27] [Client thread/INFO] [AE2:C]: Mine Factory Reloaded - Integration Disabled
+[22:21:27] [Client thread/INFO] [AE2:C]: Deep Storage Unit - Integration Enable
+[22:21:27] [Client thread/INFO] [AE2:C]: Factorization - Integration Disabled
+[22:21:27] [Client thread/INFO] [AE2:C]: Forge MultiPart - Integration Disabled
+[22:21:27] [Client thread/INFO] [AE2:C]: Rotatable Blocks - Integration Disabled
+[22:21:27] [Client thread/INFO] [AE2:C]: Colored Lights Core - Integration Disabled
+[22:21:27] [Client thread/INFO] [AE2:C]: Waila - Integration Enable
+[22:21:27] [Client thread/INFO] [AE2:C]: Inventory Tweaks - Integration Disabled
+[22:21:27] [Client thread/INFO] [AE2:C]: Not Enough Items - Integration Enable
+[22:21:27] [Client thread/INFO] [AE2:C]: Craft Guide - Integration Disabled
+[22:21:27] [Client thread/INFO] [AE2:C]: Mekanism - Integration Disabled
+[22:21:27] [Client thread/INFO] [AE2:C]: ImmibisMicroblocks - Integration Disabled
+[22:21:27] [Client thread/INFO] [AE2:C]: BetterStorage - Integration Disabled
+[22:21:27] [Client thread/INFO] [AE2:C]: OpenComputers - Integration Disabled
+[22:21:27] [Client thread/INFO] [AE2:C]: PneumaticCraft - Integration Disabled
+[22:21:27] [Client thread/INFO] [AE2:C]: Post Initialization ( ended after 530ms )
+[22:21:27] [Client thread/INFO] [ThermalExpansion]: There are no crafting files present in C:\Users\Home2\Desktop\cobblermod\eclipse\config\cofh\thermalexpansion\crafting.
+[22:21:28] [Client thread/INFO] [STDOUT]: [mcp.mobius.waila.gui.truetyper.TrueTypeFont:<init>:98]: TrueTypeFont loaded: java.awt.Font[family=Minecraftia,name=Minecraftia Regular,style=plain,size=14] - AntiAlias = true
+[22:21:28] [Client thread/INFO] [CoFHWorld]: CoFH Core found 2 World Generation files present in C:\Users\Home2\Desktop\cobblermod\eclipse\config\cofh\world/.
+[22:21:28] [Client thread/INFO] [CoFHWorld]: Reading world generation info from: C:\Users\Home2\Desktop\cobblermod\eclipse\config\cofh\world\ThermalFoundation-Ores.json:
+[22:21:28] [Client thread/INFO] [ThermalFoundation]: [Whitelist] Reading established Whitelist from file.
+[22:21:28] [Client thread/INFO] [ThermalFoundation]: Thermal Foundation: Load Complete.
+[22:21:28] [Client thread/INFO] [ThermalExpansion]: Thermal Expansion: Load Complete.
+[22:21:28] [Client thread/WARN] [Waila]: [BC] Class not found. java.lang.ClassNotFoundException: buildcraft.factory.TileTank
+[22:21:28] [Client thread/WARN] [Waila]: [IndustrialCraft 2] Error while loading generator hooks.java.lang.ClassNotFoundException: ic2.core.block.generator.tileentity.TileEntityBaseGenerator
+[22:21:28] [Client thread/WARN] [Waila]: [Thaumcraft] Class not found. java.lang.ClassNotFoundException: thaumcraft.common.Thaumcraft
+[22:21:28] [Client thread/INFO] [Waila]: [EnderStorage] EnderStorage mod not found.
+[22:21:28] [Client thread/INFO] [Waila]: [GraveStone] GraveStone mod not found.
+[22:21:28] [Client thread/INFO] [Waila]: [TwilightForestMod] TwilightForestMod mod not found.
+[22:21:28] [Client thread/WARN] [Waila]: [Thermal Dynamics] Error while loading FluidDuct hooks.java.lang.ClassNotFoundException: cofh.thermaldynamics.ducts.fluid.TileFluidDuct
+[22:21:28] [Client thread/INFO] [Waila]: [Engineer Toolbox] Engineer Toolbox mod not found.
+[22:21:28] [Client thread/INFO] [Waila]: [ProjectRed] ProjectRed|Integration mod not found.
+[22:21:28] [Client thread/INFO] [Waila]: [ExtraUtilities] ExtraUtilities mod not found.
+[22:21:28] [Client thread/INFO] [Waila]: [OpenBlocks] OpenBlocks mod not found.
+[22:21:28] [Client thread/INFO] [Waila]: [Railcraft] Railcraft mod not found.
+[22:21:28] [Client thread/INFO] [Waila]: [PamHarvestCraft] PamHarvestCraft mod not found.
+[22:21:28] [Client thread/INFO] [Waila]: [MagicalCrops] MagicalCrops mod not found.
+[22:21:28] [Client thread/INFO] [Waila]: [Statues] Statues mod not found.
+[22:21:28] [Client thread/INFO] [Waila]: [Agriculture] Agriculture mod not found.
+[22:21:28] [Client thread/INFO] [Waila]: Trying to reflect appeng.integration.modules.Waila register
+[22:21:28] [Client thread/INFO] [Waila]: Success in registering appliedenergistics2
+[22:21:28] [Client thread/INFO] [Waila]: Trying to reflect com.jaquadro.minecraft.storagedrawers.integration.Waila registerProvider
+[22:21:28] [Client thread/INFO] [Waila]: Success in registering StorageDrawers
+[22:21:28] [Client thread/INFO] [FML]: Forge Mod Loader has successfully loaded 14 mods
+[22:21:28] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Cobbler, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:Storage Drawers, FMLFileResourcePack:Thermal Expansion, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:Waila
+[22:21:29] [Client thread/INFO]: Created: 1024x512 textures/blocks-atlas
+[22:21:29] [Client thread/INFO]: Created: 512x512 textures/items-atlas
+[22:21:29] [Client thread/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[22:21:29] [Client thread/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: SoundSystem shutting down...
+[22:21:29] [Client thread/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:importantMessage:90]:     Author: Paul Lamb, www.paulscode.com
+[22:21:29] [Client thread/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[22:21:29] [Sound Library Loader/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[22:21:29] [Sound Library Loader/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: Starting up SoundSystem...
+[22:21:29] [Thread-16/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: Initializing LWJGL OpenAL
+[22:21:29] [Thread-16/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]:     (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[22:21:29] [Thread-16/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: OpenAL initialized.
+[22:21:30] [Sound Library Loader/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[22:21:30] [Sound Library Loader/INFO]: Sound engine started
+[22:30:30] [Client thread/INFO]: Stopping!
+[22:30:30] [Client thread/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[22:30:30] [Client thread/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: SoundSystem shutting down...
+[22:30:30] [Client thread/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:importantMessage:90]:     Author: Paul Lamb, www.paulscode.com
+[22:30:30] [Client thread/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: 
 
 BUILD SUCCESSFUL
 
-Total time: 2.77 secs
+Total time: 9 mins 30.986 secs

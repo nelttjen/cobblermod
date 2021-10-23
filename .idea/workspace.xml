@@ -1,19 +1,242 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ce92798-d0dd-406d-b162-1a6460541768" name="Default" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/.gradle/" />
-    <ignored path="$PROJECT_DIR$/build/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
+    <list default="true" id="566bcb7c-6a5e-419e-8121-08f4d2e0cd44" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/cobblermod.api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/cobblermod.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/cobblermod.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.6/taskArtifacts/cache.properties.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.6/taskArtifacts/cache.properties.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.6/taskArtifacts/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.6/taskArtifacts/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.6/taskArtifacts/fileSnapshots.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.6/taskArtifacts/fileSnapshots.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.6/taskArtifacts/outputFileStates.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.6/taskArtifacts/outputFileStates.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.6/taskArtifacts/taskArtifacts.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.6/taskArtifacts/taskArtifacts.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/gradle.log" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/gradle.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle___forgeSrc_1_7_10_10_13_4_1614_1_7_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_1_3_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_gson_gson_2_2_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_guava_17_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_ibm_icu_icu4j_core_mojang_51_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_mojang_authlib_1_5_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_mojang_realms_1_3_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_paulscode_codecjorbis_20101023.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_paulscode_codecwav_20101023.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_paulscode_libraryjavasound_20101123.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_paulscode_librarylwjglopenal_20100824.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_paulscode_soundsystem_20120107.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_typesafe_akka_akka_actor_2_11_2_3_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_typesafe_config_1_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_codec_commons_codec_1_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_io_commons_io_2_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_logging_commons_logging_1_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_all_4_0_10_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__java3d_vecmath_1_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__lzma_lzma_0_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__net_java_jinput_jinput_2_0_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__net_java_jinput_jinput_platform_natives_linux_2_0_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__net_java_jinput_jinput_platform_natives_osx_2_0_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__net_java_jinput_jinput_platform_natives_windows_2_0_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__net_java_jutils_jutils_1_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__net_minecraft_launchwrapper_1_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sf_jopt_simple_jopt_simple_4_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sf_trove4j_trove4j_3_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_compress_1_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_lang3_3_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_3_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_logging_log4j_log4j_api_2_0_beta9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_logging_log4j_log4j_core_2_0_beta9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_lwjgl_lwjgl_lwjgl_2_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_lwjgl_lwjgl_lwjgl_platform_natives_linux_2_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_lwjgl_lwjgl_lwjgl_platform_natives_osx_2_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_lwjgl_lwjgl_lwjgl_platform_natives_windows_2_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_lwjgl_lwjgl_lwjgl_util_2_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_ow2_asm_asm_debug_all_5_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scala_lang_modules_scala_xml_2_11_1_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scala_lang_plugins_scala_continuations_library_2_11_1_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scala_lang_plugins_scala_continuations_plugin_2_11_1_1_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scala_lang_scala_actors_2_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scala_lang_scala_actors_migration_2_11_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scala_lang_scala_compiler_2_11_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scala_lang_scala_library_2_11_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scala_lang_scala_parser_combinators_2_11_1_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scala_lang_scala_reflect_2_11_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scala_lang_scala_swing_2_11_1_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scala_lang_scala_xml_2_11_1_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__tv_twitch_twitch_5_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__tv_twitch_twitch_external_platform_natives_windows_32_4_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__tv_twitch_twitch_external_platform_natives_windows_64_4_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__tv_twitch_twitch_platform_natives_osx_5_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__tv_twitch_twitch_platform_natives_windows_32_5_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__tv_twitch_twitch_platform_natives_windows_64_5_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Cobbler_api.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Cobbler_main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Cobbler_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cobbler.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cobblermod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/Minecraft/.location" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/Minecraft/.location" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/asm/ccl_modular/codechicken#nei#guihook#DefaultSlotClickHandler.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/asm/ccl_modular/codechicken#nei#guihook#DefaultSlotClickHandler.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/asm/ccl_modular/codechicken#nei#guihook#GuiContainerManager.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/asm/ccl_modular/codechicken#nei#guihook#GuiContainerManager.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/asm/ccl_modular/net#minecraft#block#Block.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/asm/ccl_modular/net#minecraft#block#Block.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/asm/ccl_modular/net#minecraft#block#BlockFire.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/asm/ccl_modular/net#minecraft#block#BlockFire.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/asm/ccl_modular/net#minecraft#block#BlockMobSpawner.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/asm/ccl_modular/net#minecraft#block#BlockMobSpawner.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/asm/ccl_modular/net#minecraft#client#gui#inventory#GuiContainer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/asm/ccl_modular/net#minecraft#client#gui#inventory#GuiContainer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/asm/ccl_modular/net#minecraft#client#gui#inventory#GuiContainerCreative.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/asm/ccl_modular/net#minecraft#client#gui#inventory#GuiContainerCreative.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/asm/ccl_modular/net#minecraft#client#renderer#entity#RenderItem.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/asm/ccl_modular/net#minecraft#client#renderer#entity#RenderItem.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/asm/ccl_modular/net#minecraft#inventory#ContainerWorkbench.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/asm/ccl_modular/net#minecraft#inventory#ContainerWorkbench.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/asm/ccl_modular/net#minecraft#nbt#NBTTagCompound.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/asm/ccl_modular/net#minecraft#nbt#NBTTagCompound.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/asm/ccl_modular/net#minecraft#nbt#NBTTagList.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/asm/ccl_modular/net#minecraft#nbt#NBTTagList.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/asm/ccl_modular/net#minecraft#tileentity#MobSpawnerBaseLogic.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/asm/ccl_modular/net#minecraft#tileentity#MobSpawnerBaseLogic.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/Facades.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/Facades.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/VersionChecker.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/VersionChecker.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/aliases.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/aliases.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/decorative/certus.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/decorative/certus.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/decorative/crystals.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/decorative/crystals.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/decorative/fixtures.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/decorative/fixtures.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/decorative/index.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/decorative/index.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/decorative/quartzglass.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/decorative/quartzglass.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/decorative/skystone.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/decorative/skystone.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/decorative/slabs.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/decorative/slabs.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/decorative/stairs.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/decorative/stairs.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/groups.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/groups.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/index.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/index.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/materials/cards.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/materials/cards.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/materials/circuits.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/materials/circuits.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/materials/cores.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/materials/cores.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/materials/index.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/materials/index.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/materials/presses.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/materials/presses.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/materials/processors.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/materials/processors.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/misc/chests.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/misc/chests.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/misc/deconstruction.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/misc/deconstruction.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/misc/fluixpearl.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/misc/fluixpearl.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/misc/grindstone.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/misc/grindstone.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/misc/index.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/misc/index.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/misc/meteors.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/misc/meteors.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/misc/seeds.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/misc/seeds.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/misc/tinytnt.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/misc/tinytnt.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/misc/vanilla.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/misc/vanilla.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/blocks/cellworkbench.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/blocks/cellworkbench.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/blocks/controller.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/blocks/controller.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/blocks/crystal-processing.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/blocks/crystal-processing.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/blocks/energy.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/blocks/energy.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/blocks/index.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/blocks/index.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/blocks/inscribers.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/blocks/inscribers.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/blocks/interfaces.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/blocks/interfaces.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/blocks/io.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/blocks/io.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/blocks/quantum.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/blocks/quantum.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/blocks/security.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/blocks/security.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/blocks/spatial-io.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/blocks/spatial-io.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/blocks/storage.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/blocks/storage.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/cables/covered.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/cables/covered.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/cables/dense.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/cables/dense.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/cables/glass.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/cables/glass.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/cables/index.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/cables/index.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/cables/smart.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/cables/smart.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/cells/empty.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/cells/empty.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/cells/index.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/cells/index.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/cells/spatial-components.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/cells/spatial-components.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/cells/spatial.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/cells/spatial.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/cells/storage-components.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/cells/storage-components.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/cells/storage.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/cells/storage.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/cells/view.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/cells/view.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/crafting/assembler.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/crafting/assembler.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/crafting/cpu.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/crafting/cpu.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/crafting/index.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/crafting/index.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/crafting/patterns.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/crafting/patterns.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/index.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/index.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/parts/cable-anchor.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/parts/cable-anchor.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/parts/emitters.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/parts/emitters.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/parts/index.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/parts/index.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/parts/io-buses.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/parts/io-buses.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/parts/monitors.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/parts/monitors.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/parts/panels.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/parts/panels.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/parts/planes.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/parts/planes.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/parts/quartz-fiber.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/parts/quartz-fiber.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/parts/terminals.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/parts/terminals.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/parts/toggle-buses.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/parts/toggle-buses.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/parts/tunnels.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/parts/tunnels.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/wireless.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/network/wireless.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/oredict.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/oredict.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/processing/factorization.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/processing/factorization.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/processing/grind.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/processing/grind.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/processing/hydraulicraft.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/processing/hydraulicraft.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/processing/ic2.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/processing/ic2.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/processing/index.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/processing/index.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/processing/mekanism.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/processing/mekanism.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/processing/rotarycraft.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/processing/rotarycraft.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/processing/te.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/processing/te.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/processing/vanilla.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/processing/vanilla.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/tools/certus-quartz.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/tools/certus-quartz.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/tools/index.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/tools/index.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/tools/matter-cannon.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/tools/matter-cannon.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/tools/misctools.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/tools/misctools.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/tools/nether-quartz.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/tools/nether-quartz.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/tools/network.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/tools/network.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/tools/paintballs.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/generated/tools/paintballs.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/items.csv" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/AppliedEnergistics2/recipes/items.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/NEI/client.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/NEI/client.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/splash.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/splash.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-2.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-3.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-3.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-latest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-junk-earlystartup.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-junk-earlystartup.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-server-1.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-server-1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-server-2.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-server-2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-server-3.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-server-3.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-server-latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-server-latest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/latest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/options.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/options.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/server.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/server.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/usernamecache.json" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/usernamecache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/world/session.lock" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/world/session.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nelttjen/CobblerMod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nelttjen/CobblerMod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nelttjen/blocks/CoblerTier1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nelttjen/blocks/CoblerTier2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nelttjen/blocks/CoblerTier3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nelttjen/blocks/CoblerTier4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nelttjen/blocks/CoblerTier5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nelttjen/blocks/CoblerTierSuper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nelttjen/proxy/CommonProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nelttjen/proxy/CommonProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nelttjen/tiles/TileCobblerTier1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nelttjen/tiles/TileCobblerTier2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nelttjen/tiles/TileCobblerTier3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nelttjen/tiles/TileCobblerTier4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nelttjen/tiles/TileCobblerTier5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nelttjen/tiles/TileCobblerTierSuper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblermod/lang/en_US.lang" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblermod/lang/en_US.lang" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblermod/lang/ru_RU.lang" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblermod/lang/ru_RU.lang" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblermod/textures/blocks/super_cobbler.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblermod/textures/blocks/super_cobbler_side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblermod/textures/blocks/t1cobbler.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblermod/textures/blocks/t1cobbler_side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblermod/textures/blocks/t2cobbler.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblermod/textures/blocks/t2cobbler_side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblermod/textures/blocks/t3cobbler.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblermod/textures/blocks/t3cobbler_side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblermod/textures/blocks/t4cobbler.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblermod/textures/blocks/t4cobbler_side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblermod/textures/blocks/t5cobbler.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblermod/textures/blocks/t5cobbler_side.png" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Cobbler$Cobbler__runClient_.coverage" NAME="Cobbler [runClient] Coverage Results" MODIFIED="1625109535284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -31,18 +254,36 @@
             <expand>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="Cobbler" type="f1a62948:ProjectNode" />
+                <item name="cobblermod" type="f1a62948:ProjectNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="Cobbler" type="f1a62948:ProjectNode" />
+                <item name="cobblermod" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="Cobbler" type="f1a62948:ProjectNode" />
+                <item name="cobblermod" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="cobblermod" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="documentation" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="cobblermod" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
                 <item name="forgegradle" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="cobblermod" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
               </path>
             </expand>
             <select />
@@ -51,962 +292,48 @@
       </state>
     </system>
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CoblerTier1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/nelttjen/blocks/CoblerTier1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CoblerTier2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/nelttjen/blocks/CoblerTier2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CoblerTier3.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/nelttjen/blocks/CoblerTier3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="583">
-              <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CoblerTier4.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/nelttjen/blocks/CoblerTier4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CoblerTier5.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/nelttjen/blocks/CoblerTier5.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="71" column="42" lean-forward="false" selection-start-line="71" selection-start-column="42" selection-end-line="71" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CoblerTierSuper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/nelttjen/blocks/CoblerTierSuper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="66" column="29" lean-forward="false" selection-start-line="66" selection-start-column="29" selection-end-line="66" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TileEntityDrum.class" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Temp/7zO4A9A939C/TileEntityDrum.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#6224#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BlockDrum.class" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Temp/7zO4A9ACE2F/BlockDrum.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-340">
-              <caret line="51" column="39" lean-forward="true" selection-start-line="51" selection-start-column="39" selection-end-line="51" selection-end-column="39" />
-              <folding>
-                <element signature="e#0#13009#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Variables.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/nelttjen/lib/Variables.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="77" lean-forward="false" selection-start-line="7" selection-start-column="77" selection-end-line="7" selection-end-column="77" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>tick</find>
-      <find>update</find>
-      <find>onBlockActivated</find>
-      <find>addI</find>
-      <find>tooltip</find>
-      <find>iron</find>
-      <find>IRON</find>
-      <find>getic</find>
-      <find>side</find>
-      <find>p_149691_1_</find>
-      <find>TileCoblerTier5</find>
-    </findStrings>
-    <dirStrings>
-      <dir>C:\Users\Home2\.gradle\caches\minecraft\net\minecraftforge\forge\1.7.10-10.13.4.1614-1.7.10\forgeSrc-1.7.10-10.13.4.1614-1.7.10.jar!\net\minecraft\client\audio</dir>
-      <dir>C:\Users\Home2\.gradle\caches\minecraft\net\minecraftforge\forge\1.7.10-10.13.4.1614-1.7.10\forgeSrc-1.7.10-10.13.4.1614-1.7.10.jar</dir>
-    </dirStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="myGradleHomes">
-      <map>
-        <entry key="$PROJECT_DIR$" value="C:\Users\Home2\.gradle\wrapper\dists\gradle-2.6-bin\7og9jkn1p1nxjafu1htp0hhvc\gradle-2.6" />
-      </map>
-    </option>
-    <option name="myGradleVersions">
-      <map>
-        <entry key="$PROJECT_DIR$" value="2.6" />
-      </map>
-    </option>
-    <option name="availableProjects">
-      <map>
-        <entry>
-          <key>
-            <ExternalProjectPojo>
-              <option name="name" value="Cobbler" />
-              <option name="path" value="$PROJECT_DIR$" />
-            </ExternalProjectPojo>
-          </key>
-          <value>
-            <list>
-              <ExternalProjectPojo>
-                <option name="name" value="Cobbler" />
-                <option name="path" value="$PROJECT_DIR$" />
-              </ExternalProjectPojo>
-            </list>
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="availableTasks">
-      <map>
-        <entry key="$PROJECT_DIR$">
-          <value>
-            <list>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="extractUserDev" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="getAssetsIndex" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Runs the Minecraft serevr in debug mode" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="debugServer" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="deobfBinJar" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of root project 'Cobbler'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="projects" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="sourceMainJava" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Generates Gradle wrapper files. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="wrapper" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles classes 'api'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="apiClasses" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="extractMinecraftSrc" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="reobf" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Generates the Eclipse classpath file." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="eclipseClasspath" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Runs the Minecraft Server" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="runServer" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles a jar archive containing the main classes." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="jar" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of root project 'Cobbler'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="model" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="repackMinecraft" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Processes JVM resources 'api:resources'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="processApiResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Processes JVM resources 'main:resources'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="processResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from root project 'Cobbler'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="tasks" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Initializes a new Gradle build. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="init" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Runs the unit tests." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="test" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="processSources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="DevWorkspace + the deobfuscated Minecraft source linked as a source jar." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="setupDecompWorkspace" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="applyBinPatches" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Compiles Java source 'main:java'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="compileJava" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Runs all checks." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="check" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="decompile" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="extractMcpData" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="extractNatives" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in root project 'Cobbler'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="dependencies" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Generates all Eclipse files." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="eclipse" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Compiles Java source 'api:java'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="compileApiJava" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Processes JVM resources 'test:resources'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="processTestResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Generates the Eclipse JDT settings file." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="eclipseJdt" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="remapJar" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Installs the 'archives' artifacts into the local Maven repository." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="install" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Sets up the bare minimum to build a minecraft mod. Idea for CI servers" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="setupCIWorkspace" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles and tests this project and all projects it depends on." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="buildNeeded" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Generates the Eclipse project file." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="eclipseProject" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by root project 'Cobbler'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="components" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="recompMinecraft" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="buildDependents" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="cleanEclipseClasspath" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="makeStart" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Cleans all Eclipse files." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="cleanEclipse" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles classes 'main'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="classes" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="cleanEclipseProject" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="genSrgs" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="getVersionJson" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles classes 'test'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="testClasses" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Generates Javadoc API documentation for the main source code." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="javadoc" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Cleares the ForgeGradle cache. DONT RUN THIS unless you want a fresh start, or the dev tells you to." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="cleanCache" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="CIWorkspace + natives and assets to run and test Minecraft" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="setupDevWorkspace" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="genIntellijRuns" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="getAssets" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="cleanEclipseJdt" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="downloadClient" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="deobfuscateJar" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="mergeJars" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in root project 'Cobbler'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="dependencyInsight" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="downloadMcpTools" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles the outputs of this project." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="assemble" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Deletes the build directory." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="clean" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Compiles Java source 'test:java'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="compileTestJava" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="downloadServer" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays a help message." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="help" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles and tests this project." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="build" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Uploads all artifacts belonging to configuration ':archives'" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="uploadArchives" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Runs the Minecraft client in debug mode" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="debugClient" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of root project 'Cobbler'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="properties" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Runs the Minecraft client" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="runClient" />
-              </ExternalTaskPojo>
-            </list>
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="modificationStamps">
-      <map>
-        <entry key="$PROJECT_DIR$" value="3250510511042" />
-        <entry key="$PROJECT_DIR$/build.gradle" value="2030830891" />
-        <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="2710121171" />
-      </map>
-    </option>
-    <option name="projectBuildClasspath">
-      <map>
-        <entry key="$PROJECT_DIR$">
-          <value>
-            <ExternalProjectBuildClasspathPojo>
-              <option name="modulesBuildClasspath">
-                <map>
-                  <entry key="$PROJECT_DIR$">
-                    <value>
-                      <ExternalModuleBuildClasspathPojo>
-                        <option name="entries">
-                          <list>
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.minecraftforge.gradle/ForgeGradle/1.2-SNAPSHOT/6d867ba727c76116a4b8bc5575ba545c9d6df5c6/ForgeGradle-1.2-SNAPSHOT.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.oceanlabs.mcp/RetroGuard/3.6.6/ffd69fcab06b928cf76144f08b7209ccf0656b6d/RetroGuard-3.6.6.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jponge/lzma-java/1.3/c0f18880fb29c7bfc088a6e114c66fe30a5e8df2/lzma-java-1.3-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jponge/lzma-java/1.3/a25db9d4d385ccda4825ae1b47a7a61d86e595af/lzma-java-1.3.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.md-5/SpecialSource/1.7.3/2d7048afb54a4e8211a0e1b1d9616d2c7da077b0/SpecialSource-1.7.3-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.md-5/SpecialSource/1.7.3/43f9434f08b3647affccfd151a9b437e07e6bff0/SpecialSource-1.7.3.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.3.3/65cba03c4f6207f2885f88206fcf52c53f8d111b/httpclient-4.3.3-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.3.3/18f4247ff4572a074444572cee34647c43e7c9c7/httpclient-4.3.3.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.3.3/884b613cfc42948ad5d4cf507286ffe19592ebed/httpmime-4.3.3-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.3.3/e02368d7b56c0c376f227378a4f77de62864d020/httpmime-4.3.3.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.abrarsyed.jastyle/jAstyle/1.2/bad0011af16ee457fdfe30ab9683f278da0e8a39/jAstyle-1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.abrarsyed.jastyle/jAstyle/1.2/642eada5efeb315295e21a5aea384b68dd191e5f/jAstyle-1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.trove4j/trove4j/2.1.0/3d51239e46537fc45dd18c639cc29bbc4e390326/trove4j-2.1.0-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.trove4j/trove4j/2.1.0/c82f2749a460b95de4c9d2466b62f18c23c7c914/trove4j-2.1.0.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nothome/javaxdelta/2.0.1/c99bfecfaa91279b8a3d7d25a99cbbda107c903d/javaxdelta-2.0.1-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nothome/javaxdelta/2.0.1/d4f5d077f1b15c6f67595015d69572303ad3f66d/javaxdelta-2.0.1.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a6dc5db8a12928e583bd3f23e72d3ab611ecd58f/gson-2.2.4-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/18.0/ad97fe8faaf01a3d3faacecd58e8fa6e78a973ca/guava-18.0-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/18.0/cce0823396aa693798f8882e64213b1772032b09/guava-18.0.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.opencsv/opencsv/2.3/235993117036d44d126f76db9ea2202ee4884682/opencsv-2.3-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.opencsv/opencsv/2.3/c23708cdb9e80a144db433e23344a788a1fd6599/opencsv-2.3.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-debug-all/5.0.3/f0f24f6666c1a15c7e202e91610476bd4ce59368/asm-debug-all-5.0.3-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-debug-all/5.0.3/f9e364ae2a66ce2a543012a4668856e84e5dab74/asm-debug-all-5.0.3.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.oceanlabs.mcp/mcinjector/3.2-SNAPSHOT/edce969ee85a6402825b1e5d23e67b645852e912/mcinjector-3.2-SNAPSHOT.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.tony19/named-regexp/0.2.3/74e99674da3dcbd04e30fc62e164073b4d95e8b9/named-regexp-0.2.3-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.tony19/named-regexp/0.2.3/370846bf3837952d981deb8f91e81da8c65b09e1/named-regexp-0.2.3.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.cloudbees/diff4j/1.1/e01e5168c15a325a548be3a0d18af5eac6f6343f/diff4j-1.1-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.cloudbees/diff4j/1.1/645329c0d4ebbea5f73758929c6e63bab9e77204/diff4j-1.1.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.jopt-simple/jopt-simple/4.7/de36746b7253d8de9317e3431103fad35e8e52f5/jopt-simple-4.7-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.jopt-simple/jopt-simple/4.7/3e19c15a38d0e864545acf635b1b69bd6e9f016b/jopt-simple-4.7.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.3.2/4809f38359edeea9487f747e09aa58ec8d3a54c5/httpcore-4.3.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.3.2/31fbbff1ddbf98f3aa7377c94d33b0447c646b6e/httpcore-4.3.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.1.3/28bb0405fddaf04f15058fbfbe01fe2780d7d3b6/commons-logging-1.1.3-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.1.3/f6f66e966c70a83ffbdb6f17a0919eaf7c8aca7f/commons-logging-1.1.3.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.6/61e9f9d11fe3e12ec62f633006e99d75fd7f19c8/commons-codec-1.6-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.6/b7f0fc8f61ecadeb3695f0b9464755eee44374d4/commons-codec-1.6.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/trove/trove/1.0.2/112b40581ab9a4d3de4636d49985a7f686d181c8/trove-1.0.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jvnet.localizer/localizer/1.12/261a0e844fe30de1c30372135275fa0b299bdee4/localizer-1.12-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jvnet.localizer/localizer/1.12/6d456886a035b2c3f758059da1f91a823eaa4a62/localizer-1.12.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/1.4/48753e43ff29409fbbeadfb36186cbe27e41b179/commons-io-1.4-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/1.4/a8762d07e76cfde2395257a5da47ba7c1dbd3dce/commons-io-1.4.jar" />
-                          </list>
-                        </option>
-                        <option name="path" value="$PROJECT_DIR$" />
-                      </ExternalModuleBuildClasspathPojo>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-              <option name="name" value="Cobbler" />
-              <option name="projectBuildClasspath">
-                <list>
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/ant-1.9.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/ant-launcher-1.9.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/gradle-base-services-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/gradle-base-services-groovy-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/gradle-cli-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/gradle-core-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/gradle-docs-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/gradle-launcher-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/gradle-messaging-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/gradle-model-core-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/gradle-model-groovy-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/gradle-native-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/gradle-open-api-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/gradle-resources-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/gradle-tooling-api-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/gradle-ui-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/gradle-wrapper-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/groovy-all-2.3.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/plugins/gradle-announce-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/plugins/gradle-antlr-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/plugins/gradle-build-comparison-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/plugins/gradle-build-init-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/plugins/gradle-code-quality-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/plugins/gradle-dependency-management-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/plugins/gradle-diagnostics-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/plugins/gradle-ear-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/plugins/gradle-ide-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/plugins/gradle-ide-native-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/plugins/gradle-ivy-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/plugins/gradle-jacoco-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/plugins/gradle-javascript-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/plugins/gradle-jetty-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/plugins/gradle-language-groovy-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/plugins/gradle-language-java-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/plugins/gradle-language-jvm-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/plugins/gradle-language-native-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/plugins/gradle-language-scala-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/plugins/gradle-maven-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/plugins/gradle-osgi-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/plugins/gradle-platform-base-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/plugins/gradle-platform-jvm-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/plugins/gradle-platform-native-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/plugins/gradle-platform-play-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/plugins/gradle-plugin-development-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/plugins/gradle-plugin-use-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/plugins/gradle-plugins-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/plugins/gradle-publish-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/plugins/gradle-reporting-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/plugins/gradle-resources-http-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/plugins/gradle-resources-s3-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/plugins/gradle-resources-sftp-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/plugins/gradle-scala-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/plugins/gradle-signing-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/plugins/gradle-sonar-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/plugins/gradle-test-kit-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/plugins/gradle-testing-native-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/plugins/gradle-tooling-api-builders-2.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.6-bin/7og9jkn1p1nxjafu1htp0hhvc/gradle-2.6/lib/plugins/ivy-2.2.0.jar" />
-                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
-                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
-                </list>
-              </option>
-            </ExternalProjectBuildClasspathPojo>
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
-    <option name="projectSyncType">
-      <map>
-        <entry key="$PROJECT_DIR$" value="IMPORT" />
-      </map>
-    </option>
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/nelttjen/tiles/BlockTileEntity.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/nelttjen/blocks/BaseBlock.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/nelttjen/lib/xz.java" />
-        <option value="$PROJECT_DIR$/../Tiny-Progressions-1.12.2/src/main/java/com/kashdeya/tinyprogressions/tiles/TileEntityCobblegen.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/nelttjen/config/cfgCreate.java" />
-        <option value="F:/Users/Home2/Desktop/project/app/src/main/java/com/example/project/MainActivity.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/nelttjen/items/ItemCobbler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/nelttjen/items/itemCobblerTier1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/nelttjen/blocks/CreativeCobbler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/nelttjen/CobblerMod.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/nelttjen/items/ItemCompressedCobble.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/nelttjen/blocks/ItemBlock/ItemCompressedCobble.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/assets/cobblermod/lang/en_US.lang" />
-        <option value="$PROJECT_DIR$/src/main/resources/assets/cobblermod/lang/ru_RU.lang" />
-        <option value="$PROJECT_DIR$/src/main/java/com/nelttjen/config/CfgHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/nelttjen/blocks/CompressedCobble.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/nelttjen/proxy/CommonProxy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/nelttjen/blocks/ItemBlock/ItemCobblers.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/nelttjen/tiles/TileCobblerTier5.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/nelttjen/tiles/TileCreativeCobbler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/nelttjen/tiles/TileCobblerTier1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/nelttjen/tiles/TileCobblerTier2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/nelttjen/tiles/TileCobblerTier3.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/nelttjen/tiles/TileCobblerTier4.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/nelttjen/tiles/TileCobblerTierSuper.java" />
-        <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/src/main/java/com/nelttjen/lib/Variables.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/nelttjen/blocks/CoblerTier1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/nelttjen/blocks/CoblerTier2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/nelttjen/blocks/CoblerTier3.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/nelttjen/blocks/CoblerTier4.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/nelttjen/blocks/CoblerTier5.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/nelttjen/blocks/CoblerTierSuper.java" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
-  </component>
-  <component name="ProjectInspectionProfilesVisibleTreeState">
-    <entry key="Project Default">
-      <profile-state>
-        <expanded-state>
-          <State>
-            <id />
-          </State>
-          <State>
-            <id>General</id>
-          </State>
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>Duplicates</id>
-          </State>
-        </selected-state>
-      </profile-state>
-    </entry>
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scratches" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Cobbler" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Cobbler" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="Cobbler" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Cobbler" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Cobbler" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Cobbler" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="eclipse" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Cobbler" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Cobbler" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Cobbler" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Cobbler" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="Cobbler" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Cobbler" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Cobbler" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Cobbler" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="nelttjen" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Cobbler" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Cobbler" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="nelttjen" type="462c0819:PsiDirectoryNode" />
-              <item name="blocks" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Cobbler" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Cobbler" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="nelttjen" type="462c0819:PsiDirectoryNode" />
-              <item name="blocks" type="462c0819:PsiDirectoryNode" />
-              <item name="ItemBlock" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Cobbler" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Cobbler" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="nelttjen" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Cobbler" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Cobbler" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="nelttjen" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Cobbler" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Cobbler" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="nelttjen" type="462c0819:PsiDirectoryNode" />
-              <item name="proxy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Cobbler" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Cobbler" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="nelttjen" type="462c0819:PsiDirectoryNode" />
-              <item name="tiles" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Cobbler" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Cobbler" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Cobbler" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Cobbler" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="cobblermod" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Cobbler" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Cobbler" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="cobblermod" type="462c0819:PsiDirectoryNode" />
-              <item name="lang" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Cobbler" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="Cobbler" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: :forgeSrc:1.7.10-10.13.4.1614-1.7.10" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="Cobbler" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: :forgeSrc:1.7.10-10.13.4.1614-1.7.10" type="70bed36:NamedLibraryElementNode" />
-              <item name="forgeSrc-1.7.10-10.13.4.1614-1.7.10.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="ProjectId" id="1zp15LSGClPvIhBLgHCwdJqwCtX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/Home2/Desktop/Cobbler/src/main/java/com/nelttjen/lib/xz.java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RecentsManager">
-    <key name="ExtractSuperBase.RECENT_KEYS">
-      <recent name="com.nelttjen.blocks" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.nelttjen.tiles" />
-      <recent name="com.nelttjen.blocks" />
-    </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Gradle.Cobbler [assemble]">
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module />
-    </configuration>
+  <component name="RunManager" selected="Gradle.cobblermod [runClient]">
     <configuration name="Minecraft Client" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="GradleStart" />
+      <module name="cobblermod.main" />
       <option name="VM_PARAMETERS" value="-Xincgc -Xmx1024M -Xms1024M" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/eclipse" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Cobbler_main" />
-      <envs />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/eclipse" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="Minecraft Server" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="GradleStartServer" />
+      <module name="cobblermod.main" />
       <option name="VM_PARAMETERS" value="-Xincgc -Dfml.ignoreInvalidMinecraftCertificates=true" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/eclipse" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Cobbler_main" />
-      <envs />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/eclipse" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-    </configuration>
-    <configuration name="Cobbler [assemble]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="cobblermod [genIntellijRuns]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -1017,14 +344,17 @@
         </option>
         <option name="taskNames">
           <list>
-            <option value="assemble" />
+            <option value="genIntellijRuns" />
           </list>
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
     </configuration>
-    <configuration name="Cobbler [runClient]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="cobblermod [runClient]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -1040,708 +370,37 @@
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
     </configuration>
-    <configuration name="Cobbler [runServer]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="runServer" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-    </configuration>
-    <configuration name="Cobbler [setupDecompWorkspace]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="setupDecompWorkspace" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-    </configuration>
-    <list size="6">
-      <item index="0" class="java.lang.String" itemvalue="Application.Minecraft Client" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Minecraft Server" />
-      <item index="2" class="java.lang.String" itemvalue="Gradle.Cobbler [assemble]" />
-      <item index="3" class="java.lang.String" itemvalue="Gradle.Cobbler [runClient]" />
-      <item index="4" class="java.lang.String" itemvalue="Gradle.Cobbler [runServer]" />
-      <item index="5" class="java.lang.String" itemvalue="Gradle.Cobbler [setupDecompWorkspace]" />
+    <list>
+      <item itemvalue="Application.Minecraft Client" />
+      <item itemvalue="Application.Minecraft Server" />
+      <item itemvalue="Gradle.cobblermod [genIntellijRuns]" />
+      <item itemvalue="Gradle.cobblermod [runClient]" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Gradle.Cobbler [assemble]" />
-        <item index="1" class="java.lang.String" itemvalue="Gradle.Cobbler [runClient]" />
-        <item index="2" class="java.lang.String" itemvalue="Gradle.Cobbler [setupDecompWorkspace]" />
-        <item index="3" class="java.lang.String" itemvalue="Gradle.Cobbler [runServer]" />
+      <list>
+        <item itemvalue="Gradle.cobblermod [runClient]" />
+        <item itemvalue="Gradle.cobblermod [genIntellijRuns]" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
-  </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4ce92798-d0dd-406d-b162-1a6460541768" name="Default" comment="" />
-      <created>1625079748615</created>
+      <changelist id="566bcb7c-6a5e-419e-8121-08f4d2e0cd44" name="Changes" comment="" />
+      <created>1634830030590</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1625079748615</updated>
-      <workItem from="1625079750058" duration="6333000" />
-      <workItem from="1625094640123" duration="16166000" />
-      <workItem from="1625175377385" duration="24292000" />
-      <workItem from="1625263790680" duration="30422000" />
-      <workItem from="1625327501814" duration="80000" />
-      <workItem from="1625327662854" duration="13255000" />
-      <workItem from="1625358501947" duration="6055000" />
-      <workItem from="1625375735028" duration="4679000" />
-      <workItem from="1625380458090" duration="13165000" />
-      <workItem from="1625445354292" duration="6598000" />
-      <workItem from="1625453707817" duration="1982000" />
-      <workItem from="1625589901365" duration="1334000" />
-      <workItem from="1625717185279" duration="11637000" />
+      <updated>1634830030590</updated>
+      <workItem from="1634830031897" duration="436000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="135998000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20466596" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18020834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997879" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30965006" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <ignored-roots>
-      <path value="$PROJECT_DIR$" />
-    </ignored-roots>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="11" />
-    </breakpoint-manager>
-    <watches-manager />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forgeSrc-1.7.10-10.13.4.1614-1.7.10-sources.jar!/net/minecraftforge/common/util/ForgeDirection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mojang/authlib/1.5.16/f7d1af1fd1232bb4f2e7898f059b536ad5bc950/authlib-1.5.16-sources.jar!/com/mojang/authlib/BaseUserAuthentication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mojang/authlib/1.5.16/f7d1af1fd1232bb4f2e7898f059b536ad5bc950/authlib-1.5.16-sources.jar!/com/mojang/authlib/GameProfile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-386">
-          <caret line="23" column="31" lean-forward="false" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forgeSrc-1.7.10-10.13.4.1614-1.7.10-sources.jar!/net/minecraft/entity/player/EntityPlayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="140" column="56" lean-forward="false" selection-start-line="140" selection-start-column="56" selection-end-line="140" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forgeSrc-1.7.10-10.13.4.1614-1.7.10-sources.jar!/net/minecraft/entity/player/PlayerCapabilities.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forgeSrc-1.7.10-10.13.4.1614-1.7.10-sources.jar!/cpw/mods/fml/common/eventhandler/SubscribeEvent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forgeSrc-1.7.10-10.13.4.1614-1.7.10-sources.jar!/cpw/mods/fml/common/registry/GameRegistry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="249" column="22" lean-forward="true" selection-start-line="249" selection-start-column="22" selection-end-line="249" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forgeSrc-1.7.10-10.13.4.1614-1.7.10-sources.jar!/net/minecraft/item/crafting/CraftingManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2992">
-          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forgeSrc-1.7.10-10.13.4.1614-1.7.10-sources.jar!/net/minecraft/item/ItemStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="66" column="24" lean-forward="false" selection-start-line="66" selection-start-column="24" selection-end-line="66" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/nelttjen/config/CfgHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
-          <caret line="61" column="90" lean-forward="false" selection-start-line="61" selection-start-column="90" selection-end-line="61" selection-end-column="90" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forgeSrc-1.7.10-10.13.4.1614-1.7.10-sources.jar!/net/minecraft/block/BlockRedstoneOre.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-890">
-          <caret line="88" column="57" lean-forward="false" selection-start-line="88" selection-start-column="57" selection-end-line="88" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/7zO4A0EB386/CobblerMod$1.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/7zO4A099148/TileCreativeCobbler.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-153">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/7zO4A093CD8/ItemCompressedCobble.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="0" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="0" expanded="false" signature="153:459" ph="..." />
-            <marker date="0" expanded="false" signature="571:582" ph=" { " />
-            <marker date="0" expanded="false" signature="602:608" ph=" }" />
-            <marker date="0" expanded="false" signature="656:667" ph=" { " />
-            <marker date="0" expanded="false" signature="716:722" ph=" }" />
-            <marker date="0" expanded="true" signature="850:984" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/7zO4A0794A9/TileCobblerTierSuper.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="0" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="0" expanded="false" signature="142:474" ph="..." />
-            <marker date="0" expanded="true" signature="803:1039" ph="{...}" />
-            <marker date="0" expanded="true" signature="1073:6420" ph="{...}" />
-            <marker date="0" expanded="true" signature="6498:6611" ph="{...}" />
-            <marker date="0" expanded="false" signature="6658:6669" ph=" { " />
-            <marker date="0" expanded="false" signature="6721:6727" ph=" }" />
-            <marker date="0" expanded="true" signature="6779:7061" ph="{...}" />
-            <marker date="0" expanded="true" signature="7113:7399" ph="{...}" />
-            <marker date="0" expanded="false" signature="7436:7447" ph=" { " />
-            <marker date="0" expanded="false" signature="7475:7481" ph=" }" />
-            <marker date="0" expanded="false" signature="7523:7534" ph=" { " />
-            <marker date="0" expanded="false" signature="7565:7571" ph=" }" />
-            <marker date="0" expanded="false" signature="7602:7613" ph=" { " />
-            <marker date="0" expanded="false" signature="7635:7641" ph=" }" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/7zO4A032D66/CobblerMod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="0" expanded="true" signature="0:104" ph="/.../" />
-            <marker date="0" expanded="true" signature="544:599" ph="@{...}" />
-            <marker date="0" expanded="true" signature="630:757" ph="@{...}" />
-            <marker date="0" expanded="true" signature="890:897" ph="{}" />
-            <marker date="0" expanded="false" signature="973:984" ph=" { " />
-            <marker date="0" expanded="false" signature="1005:1011" ph=" }" />
-            <marker date="0" expanded="false" signature="1081:1092" ph=" { " />
-            <marker date="0" expanded="false" signature="1110:1116" ph=" }" />
-            <marker date="0" expanded="false" signature="1194:1205" ph=" { " />
-            <marker date="0" expanded="false" signature="1227:1233" ph=" }" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/7zO4A087C47/CompressedCobble.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="7" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-          <folding>
-            <marker date="0" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="0" expanded="false" signature="143:557" ph="..." />
-            <marker date="0" expanded="true" signature="687:980" ph="{...}" />
-            <marker date="0" expanded="true" signature="1058:1190" ph="{...}" />
-            <marker date="0" expanded="false" signature="1230:1241" ph=" { " />
-            <marker date="0" expanded="false" signature="1253:1259" ph=" }" />
-            <marker date="0" expanded="true" signature="1366:1470" ph="{...}" />
-            <marker date="0" expanded="true" signature="1550:1647" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forgeSrc-1.7.10-10.13.4.1614-1.7.10-sources.jar!/net/minecraft/inventory/IInventory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="32" column="28" lean-forward="true" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../compacter-mc1.7.10/src/net/bdew/compacter/blocks/compacter/BlockCompacter.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/7zO8A519CF3/b.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/7zO8A507F72/aJ.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-18934">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/7zO48A7D325/WitherDeathMod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="24" column="29" lean-forward="false" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/7zO48AB2CD5/Hooks.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="27" column="34" lean-forward="true" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/7zO48A63995/HookRegister.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forgeSrc-1.7.10-10.13.4.1614-1.7.10-sources.jar!/net/minecraft/client/resources/I18n.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="17" column="69" lean-forward="false" selection-start-line="17" selection-start-column="69" selection-end-line="17" selection-end-column="69" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/nelttjen/blocks/CreativeCobbler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/nelttjen/blocks/ItemBlock/ItemCompressedCobble.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/nelttjen/blocks/ItemBlock/ItemCobblers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="20" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/nelttjen/blocks/CompressedCobble.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="22" column="40" lean-forward="false" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/nelttjen/tiles/TileCreativeCobbler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="34" column="27" lean-forward="false" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/nelttjen/tiles/TileCobblerTier2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="83" column="30" lean-forward="false" selection-start-line="83" selection-start-column="30" selection-end-line="83" selection-end-column="30" />
-          <folding>
-            <element signature="e#6191#6192#0" expanded="false" />
-            <element signature="e#6255#6256#0" expanded="false" />
-            <element signature="e#6972#6973#0" expanded="false" />
-            <element signature="e#7015#7016#0" expanded="false" />
-            <element signature="e#7058#7059#0" expanded="false" />
-            <element signature="e#7104#7105#0" expanded="false" />
-            <element signature="e#7136#7137#0" expanded="false" />
-            <element signature="e#7173#7174#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/nelttjen/tiles/TileCobblerTier3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="90" column="55" lean-forward="false" selection-start-line="90" selection-start-column="55" selection-end-line="90" selection-end-column="55" />
-          <folding>
-            <element signature="e#6191#6192#0" expanded="false" />
-            <element signature="e#6255#6256#0" expanded="false" />
-            <element signature="e#6972#6973#0" expanded="false" />
-            <element signature="e#7015#7016#0" expanded="false" />
-            <element signature="e#7058#7059#0" expanded="false" />
-            <element signature="e#7104#7105#0" expanded="false" />
-            <element signature="e#7136#7137#0" expanded="false" />
-            <element signature="e#7173#7174#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/nelttjen/tiles/TileCobblerTier4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="79" column="25" lean-forward="false" selection-start-line="79" selection-start-column="25" selection-end-line="79" selection-end-column="25" />
-          <folding>
-            <element signature="e#6191#6192#0" expanded="false" />
-            <element signature="e#6255#6256#0" expanded="false" />
-            <element signature="e#6972#6973#0" expanded="false" />
-            <element signature="e#7015#7016#0" expanded="false" />
-            <element signature="e#7058#7059#0" expanded="false" />
-            <element signature="e#7104#7105#0" expanded="false" />
-            <element signature="e#7136#7137#0" expanded="false" />
-            <element signature="e#7173#7174#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/nelttjen/tiles/TileCobblerTier5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="70" column="70" lean-forward="false" selection-start-line="70" selection-start-column="70" selection-end-line="70" selection-end-column="70" />
-          <folding>
-            <element signature="e#6092#6093#0" expanded="false" />
-            <element signature="e#6156#6157#0" expanded="false" />
-            <element signature="e#6873#6874#0" expanded="false" />
-            <element signature="e#6916#6917#0" expanded="false" />
-            <element signature="e#6959#6960#0" expanded="false" />
-            <element signature="e#7005#7006#0" expanded="false" />
-            <element signature="e#7037#7038#0" expanded="false" />
-            <element signature="e#7074#7075#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/nelttjen/tiles/TileCobblerTierSuper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1258">
-          <caret line="84" column="29" lean-forward="false" selection-start-line="84" selection-start-column="29" selection-end-line="84" selection-end-column="29" />
-          <folding>
-            <element signature="e#6535#6536#0" expanded="false" />
-            <element signature="e#6599#6600#0" expanded="false" />
-            <element signature="e#7316#7317#0" expanded="false" />
-            <element signature="e#7359#7360#0" expanded="false" />
-            <element signature="e#7402#7403#0" expanded="false" />
-            <element signature="e#7448#7449#0" expanded="false" />
-            <element signature="e#7480#7481#0" expanded="false" />
-            <element signature="e#7517#7518#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mcmod.info">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/nelttjen/proxy/CommonProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="56" column="60" lean-forward="false" selection-start-line="56" selection-start-column="60" selection-end-line="56" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/nelttjen/tiles/TileCobblerTier1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="78" column="29" lean-forward="false" selection-start-line="78" selection-start-column="29" selection-end-line="78" selection-end-column="29" />
-          <folding>
-            <element signature="e#6192#6193#0" expanded="false" />
-            <element signature="e#6256#6257#0" expanded="false" />
-            <element signature="e#6973#6974#0" expanded="false" />
-            <element signature="e#7016#7017#0" expanded="false" />
-            <element signature="e#7059#7060#0" expanded="false" />
-            <element signature="e#7105#7106#0" expanded="false" />
-            <element signature="e#7137#7138#0" expanded="false" />
-            <element signature="e#7174#7175#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/cobblermod/lang/en_US.lang">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/nelttjen/lib/Variables.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="77" lean-forward="false" selection-start-line="7" selection-start-column="77" selection-end-line="7" selection-end-column="77" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/7zO4A9A939C/TileEntityDrum.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#6224#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/7zO4A9ACE2F/BlockDrum.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-340">
-          <caret line="51" column="39" lean-forward="true" selection-start-line="51" selection-start-column="39" selection-end-line="51" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#13009#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/nelttjen/blocks/CoblerTier1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/nelttjen/blocks/CoblerTier2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/nelttjen/blocks/CoblerTier3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="583">
-          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/nelttjen/blocks/CoblerTier4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/nelttjen/blocks/CoblerTierSuper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="66" column="29" lean-forward="false" selection-start-line="66" selection-start-column="29" selection-end-line="66" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forgeSrc-1.7.10-10.13.4.1614-1.7.10-sources.jar!/net/minecraft/command/ICommandSender.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forgeSrc-1.7.10-10.13.4.1614-1.7.10-sources.jar!/net/minecraft/util/ChatComponentText.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="63" column="45" lean-forward="true" selection-start-line="63" selection-start-column="45" selection-end-line="63" selection-end-column="45" />
-          <folding>
-            <element signature="e#259#260#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/nelttjen/blocks/CoblerTier5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="71" column="42" lean-forward="false" selection-start-line="71" selection-start-column="42" selection-end-line="71" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <option name="version" value="3" />
   </component>
 </project>
