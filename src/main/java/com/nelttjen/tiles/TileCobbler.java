@@ -41,7 +41,8 @@ public class TileCobbler extends TileEntity {
             this.contains_cobble = this.bufferMax;
         }
         if (this.count >= this.generateTick) {
-            if (this.contains_cobble < this.bufferMax) {
+        if (this.contains_cobble < this.bufferMax) {
+
                 this.contains_cobble += this.generate;
             }
             this.count = 0;
@@ -61,7 +62,7 @@ public class TileCobbler extends TileEntity {
                         }
                         else if (invBasic.getStackInSlot(slot) != null && invBasic.isItemValidForSlot(slot, cobbleStack(Math.min(this.contains_cobble, 64))) && invBasic.getInventoryStackLimit() > invBasic.getStackInSlot(slot).stackSize){
                             if (invBasic.getStackInSlot(slot).getItem() == Item.getItemFromBlock(Blocks.cobblestone)) {
-                                int exist = invBasic.getStackInSlot(slot).stackSize;
+                            int exist = invBasic.getStackInSlot(slot).stackSize;
                                 int toFullStack = 64 - exist;
                                 if (toFullStack == 0) {
                                     continue;

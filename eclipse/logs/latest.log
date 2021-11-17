@@ -1,261 +1,217 @@
-[01:29:41] [main/INFO]: Setting user: Player431
-[01:29:43] [Client thread/INFO]: LWJGL Version: 2.9.1
-[01:29:50] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Cobbler, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:Storage Drawers, FMLFileResourcePack:Thermal Expansion, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:Waila
-[01:29:54] [Sound Library Loader/INFO]: Sound engine started
-[01:29:55] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[01:29:55] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[01:29:58] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Cobbler, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:Storage Drawers, FMLFileResourcePack:Thermal Expansion, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:Waila
-[01:29:59] [Client thread/INFO]: Created: 1024x512 textures/blocks-atlas
-[01:29:59] [Client thread/INFO]: Created: 512x512 textures/items-atlas
-[01:30:00] [Sound Library Loader/INFO]: Sound engine started
-[01:30:07] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[01:30:07] [Server thread/INFO]: Generating keypair
-[01:30:08] [Server thread/INFO]: Preparing start region for level 0
-[01:30:08] [Server thread/WARN]: Skipping BlockEntity with id tile_blockCobbler
-[01:30:08] [Server thread/WARN]: Skipping BlockEntity with id tile_blockCobbler
-[01:30:09] [Server thread/INFO]: Changing view distance to 5, from 10
-[01:30:09] [Server thread/INFO]: Player431[local:E:4d01c33d] logged in with entity id 223 at (154.9317686634784, 81.0, 248.49072309143003)
-[01:30:09] [Server thread/INFO]: Player431 присоединился к игре
-[01:30:17] [Client thread/INFO]: [CHAT] Tier: 1
-[01:30:17] [Client thread/INFO]: [CHAT] Булыжник: 0
-[01:30:17] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:30:17] [Client thread/INFO]: [CHAT] Tier: 1
-[01:30:17] [Client thread/INFO]: [CHAT] Булыжник: 0
-[01:30:17] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:30:17] [Client thread/INFO]: [CHAT] Tier: 1
-[01:30:17] [Client thread/INFO]: [CHAT] Булыжник: 0
-[01:30:17] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:30:17] [Client thread/INFO]: [CHAT] Tier: 1
-[01:30:17] [Client thread/INFO]: [CHAT] Булыжник: 1
-[01:30:17] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:30:18] [Client thread/INFO]: [CHAT] Tier: 1
-[01:30:18] [Client thread/INFO]: [CHAT] Булыжник: 1
-[01:30:18] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:30:18] [Client thread/INFO]: [CHAT] Tier: 1
-[01:30:18] [Client thread/INFO]: [CHAT] Булыжник: 1
-[01:30:18] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:30:18] [Client thread/INFO]: [CHAT] Tier: 1
-[01:30:18] [Client thread/INFO]: [CHAT] Булыжник: 1
-[01:30:18] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:30:18] [Client thread/INFO]: [CHAT] Tier: 1
-[01:30:18] [Client thread/INFO]: [CHAT] Булыжник: 1
-[01:30:18] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:30:18] [Client thread/INFO]: [CHAT] Tier: 1
-[01:30:18] [Client thread/INFO]: [CHAT] Булыжник: 1
-[01:30:18] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:30:19] [Client thread/INFO]: [CHAT] Tier: 1
-[01:30:19] [Client thread/INFO]: [CHAT] Булыжник: 1
-[01:30:19] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:30:19] [Client thread/INFO]: [CHAT] Tier: 1
-[01:30:19] [Client thread/INFO]: [CHAT] Булыжник: 1
-[01:30:19] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:30:19] [Client thread/INFO]: [CHAT] Tier: 1
-[01:30:19] [Client thread/INFO]: [CHAT] Булыжник: 1
-[01:30:19] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:30:19] [Client thread/INFO]: [CHAT] Tier: 1
-[01:30:19] [Client thread/INFO]: [CHAT] Булыжник: 2
-[01:30:19] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:30:19] [Client thread/INFO]: [CHAT] Tier: 1
-[01:30:19] [Client thread/INFO]: [CHAT] Булыжник: 2
-[01:30:19] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:30:19] [Client thread/INFO]: [CHAT] Tier: 1
-[01:30:19] [Client thread/INFO]: [CHAT] Булыжник: 2
-[01:30:19] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:30:22] [Client thread/INFO]: [CHAT] Tier: 1
-[01:30:22] [Client thread/INFO]: [CHAT] Булыжник: 2
-[01:30:22] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:30:22] [Client thread/INFO]: [CHAT] Tier: 1
-[01:30:22] [Client thread/INFO]: [CHAT] Булыжник: 2
-[01:30:22] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:30:22] [Client thread/INFO]: [CHAT] Tier: 1
-[01:30:22] [Client thread/INFO]: [CHAT] Булыжник: 2
-[01:30:22] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:30:22] [Client thread/INFO]: [CHAT] Tier: 1
-[01:30:22] [Client thread/INFO]: [CHAT] Булыжник: 2
-[01:30:22] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:30:23] [Client thread/INFO]: [CHAT] Tier: 1
-[01:30:23] [Client thread/INFO]: [CHAT] Булыжник: 2
-[01:30:23] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:30:24] [Client thread/INFO]: [CHAT] Tier: 1
-[01:30:24] [Client thread/INFO]: [CHAT] Булыжник: 3
-[01:30:24] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:30:24] [Client thread/INFO]: [CHAT] Tier: 1
-[01:30:24] [Client thread/INFO]: [CHAT] Булыжник: 3
-[01:30:24] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:30:24] [Client thread/INFO]: [CHAT] Tier: 1
-[01:30:24] [Client thread/INFO]: [CHAT] Булыжник: 3
-[01:30:24] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:30:24] [Client thread/INFO]: [CHAT] Tier: 1
-[01:30:24] [Client thread/INFO]: [CHAT] Булыжник: 3
-[01:30:24] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:30:24] [Client thread/INFO]: [CHAT] Tier: 1
-[01:30:24] [Client thread/INFO]: [CHAT] Булыжник: 3
-[01:30:24] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:30:25] [Client thread/INFO]: [CHAT] Tier: 1
-[01:30:25] [Client thread/INFO]: [CHAT] Булыжник: 3
-[01:30:25] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:30:25] [Client thread/INFO]: [CHAT] Tier: 1
-[01:30:25] [Client thread/INFO]: [CHAT] Булыжник: 3
-[01:30:25] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:30:25] [Client thread/INFO]: [CHAT] Tier: 1
-[01:30:25] [Client thread/INFO]: [CHAT] Булыжник: 3
-[01:30:25] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:30:25] [Client thread/INFO]: [CHAT] Tier: 1
-[01:30:25] [Client thread/INFO]: [CHAT] Булыжник: 3
-[01:30:25] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:30:25] [Client thread/INFO]: [CHAT] Tier: 1
-[01:30:25] [Client thread/INFO]: [CHAT] Булыжник: 4
-[01:30:25] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:30:25] [Client thread/INFO]: [CHAT] Tier: 1
-[01:30:25] [Client thread/INFO]: [CHAT] Булыжник: 4
-[01:30:25] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:30:34] [Client thread/INFO]: [CHAT] Tier: 5
-[01:30:34] [Client thread/INFO]: [CHAT] Булыжник: 88
-[01:30:34] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
-[01:30:34] [Client thread/INFO]: [CHAT] Tier: 5
-[01:30:34] [Client thread/INFO]: [CHAT] Булыжник: 91
-[01:30:34] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
-[01:30:34] [Client thread/INFO]: [CHAT] Tier: 5
-[01:30:34] [Client thread/INFO]: [CHAT] Булыжник: 94
-[01:30:34] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
-[01:30:34] [Client thread/INFO]: [CHAT] Tier: 5
-[01:30:34] [Client thread/INFO]: [CHAT] Булыжник: 96
-[01:30:34] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
-[01:30:34] [Client thread/INFO]: [CHAT] Tier: 5
-[01:30:34] [Client thread/INFO]: [CHAT] Булыжник: 99
-[01:30:34] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
-[01:30:34] [Client thread/INFO]: [CHAT] Tier: 5
-[01:30:34] [Client thread/INFO]: [CHAT] Булыжник: 102
-[01:30:34] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
-[01:30:35] [Client thread/INFO]: [CHAT] Tier: 5
-[01:30:35] [Client thread/INFO]: [CHAT] Булыжник: 119
-[01:30:35] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
-[01:30:35] [Client thread/INFO]: [CHAT] Tier: 5
-[01:30:35] [Client thread/INFO]: [CHAT] Булыжник: 122
-[01:30:35] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
-[01:30:38] [Client thread/INFO]: [CHAT] Tier: Super
-[01:30:38] [Client thread/INFO]: [CHAT] Булыжник: 128
-[01:30:38] [Client thread/INFO]: [CHAT] Вместимость хранилища: 128
-[01:30:39] [Client thread/INFO]: [CHAT] Tier: Super
-[01:30:39] [Client thread/INFO]: [CHAT] Булыжник: 128
-[01:30:39] [Client thread/INFO]: [CHAT] Вместимость хранилища: 128
-[01:30:39] [Client thread/INFO]: [CHAT] Tier: Super
-[01:30:39] [Client thread/INFO]: [CHAT] Булыжник: 128
-[01:30:39] [Client thread/INFO]: [CHAT] Вместимость хранилища: 128
-[01:30:39] [Client thread/INFO]: [CHAT] Tier: Super
-[01:30:39] [Client thread/INFO]: [CHAT] Булыжник: 128
-[01:30:39] [Client thread/INFO]: [CHAT] Вместимость хранилища: 128
-[01:30:44] [Server thread/INFO]: Player431 заработал достижение [Проверить карманы]
-[01:30:44] [Client thread/INFO]: [CHAT] Player431 заработал достижение [Проверить карманы]
-[01:31:00] [Client thread/INFO]: [CHAT] Tier: 1
-[01:31:00] [Client thread/INFO]: [CHAT] Булыжник: 19
-[01:31:00] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:31:01] [Client thread/INFO]: [CHAT] Tier: 1
-[01:31:01] [Client thread/INFO]: [CHAT] Булыжник: 19
-[01:31:01] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:31:01] [Client thread/INFO]: [CHAT] Tier: 1
-[01:31:01] [Client thread/INFO]: [CHAT] Булыжник: 19
-[01:31:01] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:31:01] [Client thread/INFO]: [CHAT] Tier: 1
-[01:31:01] [Client thread/INFO]: [CHAT] Булыжник: 19
-[01:31:01] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:31:01] [Client thread/INFO]: [CHAT] Tier: 1
-[01:31:01] [Client thread/INFO]: [CHAT] Булыжник: 19
-[01:31:01] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:31:02] [Client thread/INFO]: [CHAT] Tier: 1
-[01:31:02] [Client thread/INFO]: [CHAT] Булыжник: 19
-[01:31:02] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:31:02] [Client thread/INFO]: [CHAT] Tier: 1
-[01:31:02] [Client thread/INFO]: [CHAT] Булыжник: 19
-[01:31:02] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:31:02] [Client thread/INFO]: [CHAT] Tier: 1
-[01:31:02] [Client thread/INFO]: [CHAT] Булыжник: 19
-[01:31:02] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:31:03] [Client thread/INFO]: [CHAT] Tier: 1
-[01:31:03] [Client thread/INFO]: [CHAT] Булыжник: 20
-[01:31:03] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:31:04] [Client thread/INFO]: [CHAT] Tier: 1
-[01:31:04] [Client thread/INFO]: [CHAT] Булыжник: 20
-[01:31:04] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:31:05] [Client thread/INFO]: [CHAT] Tier: 1
-[01:31:05] [Client thread/INFO]: [CHAT] Булыжник: 19
-[01:31:05] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:31:05] [Client thread/INFO]: [CHAT] Tier: 1
-[01:31:05] [Client thread/INFO]: [CHAT] Булыжник: 20
-[01:31:05] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:31:06] [Client thread/INFO]: [CHAT] Tier: 1
-[01:31:06] [Client thread/INFO]: [CHAT] Булыжник: 20
-[01:31:06] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:31:06] [Client thread/INFO]: [CHAT] Tier: 1
-[01:31:06] [Client thread/INFO]: [CHAT] Булыжник: 20
-[01:31:06] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:31:06] [Client thread/INFO]: [CHAT] Tier: 1
-[01:31:06] [Client thread/INFO]: [CHAT] Булыжник: 20
-[01:31:06] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:31:07] [Client thread/INFO]: [CHAT] Tier: 1
-[01:31:07] [Client thread/INFO]: [CHAT] Булыжник: 20
-[01:31:07] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:31:07] [Client thread/INFO]: [CHAT] Tier: 1
-[01:31:07] [Client thread/INFO]: [CHAT] Булыжник: 20
-[01:31:07] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:31:07] [Client thread/INFO]: [CHAT] Tier: 1
-[01:31:07] [Client thread/INFO]: [CHAT] Булыжник: 20
-[01:31:07] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:31:07] [Client thread/INFO]: [CHAT] Tier: 1
-[01:31:07] [Client thread/INFO]: [CHAT] Булыжник: 20
-[01:31:07] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:31:07] [Client thread/INFO]: [CHAT] Tier: 1
-[01:31:07] [Client thread/INFO]: [CHAT] Булыжник: 21
-[01:31:07] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:31:08] [Client thread/INFO]: [CHAT] Tier: 1
-[01:31:08] [Client thread/INFO]: [CHAT] Булыжник: 21
-[01:31:08] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:31:08] [Client thread/INFO]: [CHAT] Tier: 1
-[01:31:08] [Client thread/INFO]: [CHAT] Булыжник: 20
-[01:31:08] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:31:08] [Client thread/INFO]: [CHAT] Tier: 1
-[01:31:08] [Client thread/INFO]: [CHAT] Булыжник: 20
-[01:31:08] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:31:08] [Client thread/INFO]: [CHAT] Tier: 1
-[01:31:08] [Client thread/INFO]: [CHAT] Булыжник: 20
-[01:31:08] [Client thread/INFO]: [CHAT] Вместимость хранилища: 1000
-[01:31:16] [Client thread/INFO]: [CHAT] Tier: 5
-[01:31:16] [Client thread/INFO]: [CHAT] Булыжник: 1338
-[01:31:16] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
-[01:31:16] [Client thread/INFO]: [CHAT] Tier: Super
-[01:31:16] [Client thread/INFO]: [CHAT] Булыжник: 0
-[01:31:16] [Client thread/INFO]: [CHAT] Вместимость хранилища: 128
-[01:31:20] [Client thread/INFO]: [CHAT] Tier: 5
-[01:31:20] [Client thread/INFO]: [CHAT] Булыжник: 1422
-[01:31:20] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
-[01:31:22] [Client thread/INFO]: [CHAT] Tier: 5
-[01:31:22] [Client thread/INFO]: [CHAT] Булыжник: 1464
-[01:31:22] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
-[01:31:22] [Client thread/INFO]: [CHAT] Tier: 5
-[01:31:22] [Client thread/INFO]: [CHAT] Булыжник: 1468
-[01:31:22] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
-[01:31:22] [Client thread/INFO]: [CHAT] Tier: 5
-[01:31:22] [Client thread/INFO]: [CHAT] Булыжник: 1471
-[01:31:22] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
-[01:31:22] [Client thread/INFO]: [CHAT] Tier: 5
-[01:31:22] [Client thread/INFO]: [CHAT] Булыжник: 1474
-[01:31:22] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
-[01:31:22] [Client thread/INFO]: [CHAT] Tier: 5
-[01:31:22] [Client thread/INFO]: [CHAT] Булыжник: 1476
-[01:31:22] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
-[01:31:23] [Client thread/INFO]: [CHAT] Tier: 5
-[01:31:23] [Client thread/INFO]: [CHAT] Булыжник: 1481
-[01:31:23] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
-[01:31:23] [Client thread/INFO]: [CHAT] Tier: 5
-[01:31:23] [Client thread/INFO]: [CHAT] Булыжник: 1484
-[01:31:23] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
-[01:31:23] [Client thread/INFO]: [CHAT] Tier: 5
-[01:31:23] [Client thread/INFO]: [CHAT] Булыжник: 1487
-[01:31:23] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
-[01:31:43] [Client thread/INFO]: Stopping!
-[01:31:43] [Server thread/INFO]: Stopping server
-[01:31:43] [Server thread/INFO]: Saving players
-[01:31:43] [Server thread/INFO]: Saving worlds
-[01:31:43] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[01:31:43] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[01:31:43] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[23:24:49] [main/INFO]: Setting user: Player471
+[23:24:52] [Client thread/INFO]: LWJGL Version: 2.9.1
+[23:25:03] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Cobbler, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:Storage Drawers, FMLFileResourcePack:Thermal Expansion, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:Waila
+[23:25:08] [Sound Library Loader/INFO]: Sound engine started
+[23:25:09] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[23:25:09] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[23:25:14] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Cobbler, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:Storage Drawers, FMLFileResourcePack:Thermal Expansion, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:Waila
+[23:25:15] [Client thread/INFO]: Created: 1024x512 textures/blocks-atlas
+[23:25:15] [Client thread/INFO]: Created: 512x512 textures/items-atlas
+[23:25:16] [Sound Library Loader/INFO]: Sound engine started
+[23:25:20] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[23:25:20] [Server thread/INFO]: Generating keypair
+[23:25:20] [Server thread/INFO]: Preparing start region for level 0
+[23:25:21] [Server thread/WARN]: Skipping BlockEntity with id tile_blockCobbler
+[23:25:21] [Server thread/WARN]: Skipping BlockEntity with id tile_blockCobbler
+[23:25:21] [Server thread/WARN]: Skipping BlockEntity with id tile_blockCobbler
+[23:25:21] [Server thread/WARN]: Skipping BlockEntity with id tile_blockCobbler
+[23:25:21] [Server thread/INFO]: Changing view distance to 5, from 10
+[23:25:22] [Server thread/INFO]: Player471[local:E:d41406e2] logged in with entity id 252 at (163.75241879771062, 82.0, 241.96436313321067)
+[23:25:22] [Server thread/INFO]: Player471 присоединился к игре
+[23:25:26] [Server thread/INFO]: Player471 заработал достижение [Проверить карманы]
+[23:25:27] [Client thread/INFO]: [CHAT] Player471 заработал достижение [Проверить карманы]
+[23:26:00] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:00] [Client thread/INFO]: [CHAT] Булыжник: 9
+[23:26:00] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:00] [Client thread/INFO]: [CHAT] Tier: Super
+[23:26:00] [Client thread/INFO]: [CHAT] Булыжник: 128
+[23:26:00] [Client thread/INFO]: [CHAT] Вместимость хранилища: 128
+[23:26:07] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:07] [Client thread/INFO]: [CHAT] Булыжник: 72
+[23:26:07] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:07] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:07] [Client thread/INFO]: [CHAT] Булыжник: 75
+[23:26:07] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:07] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:07] [Client thread/INFO]: [CHAT] Булыжник: 78
+[23:26:07] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:07] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:07] [Client thread/INFO]: [CHAT] Булыжник: 82
+[23:26:07] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:07] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:07] [Client thread/INFO]: [CHAT] Булыжник: 85
+[23:26:07] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:07] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:07] [Client thread/INFO]: [CHAT] Булыжник: 89
+[23:26:07] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:08] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:08] [Client thread/INFO]: [CHAT] Булыжник: 92
+[23:26:08] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:08] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:08] [Client thread/INFO]: [CHAT] Булыжник: 96
+[23:26:08] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:08] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:08] [Client thread/INFO]: [CHAT] Булыжник: 99
+[23:26:08] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:08] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:08] [Client thread/INFO]: [CHAT] Булыжник: 102
+[23:26:08] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:08] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:08] [Client thread/INFO]: [CHAT] Булыжник: 105
+[23:26:08] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:08] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:08] [Client thread/INFO]: [CHAT] Булыжник: 105
+[23:26:08] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:09] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:09] [Client thread/INFO]: [CHAT] Булыжник: 108
+[23:26:09] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:09] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:09] [Client thread/INFO]: [CHAT] Булыжник: 111
+[23:26:09] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:09] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:09] [Client thread/INFO]: [CHAT] Булыжник: 114
+[23:26:09] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:09] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:09] [Client thread/INFO]: [CHAT] Булыжник: 117
+[23:26:09] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:09] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:09] [Client thread/INFO]: [CHAT] Булыжник: 120
+[23:26:09] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:09] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:09] [Client thread/INFO]: [CHAT] Булыжник: 123
+[23:26:09] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:10] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:10] [Client thread/INFO]: [CHAT] Булыжник: 126
+[23:26:10] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:11] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:11] [Client thread/INFO]: [CHAT] Булыжник: 106
+[23:26:11] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:11] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:11] [Client thread/INFO]: [CHAT] Булыжник: 110
+[23:26:11] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:11] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:11] [Client thread/INFO]: [CHAT] Булыжник: 113
+[23:26:11] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:14] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:14] [Client thread/INFO]: [CHAT] Булыжник: 102
+[23:26:14] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:14] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:14] [Client thread/INFO]: [CHAT] Булыжник: 106
+[23:26:14] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:14] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:14] [Client thread/INFO]: [CHAT] Булыжник: 109
+[23:26:14] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:14] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:14] [Client thread/INFO]: [CHAT] Булыжник: 112
+[23:26:14] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:14] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:14] [Client thread/INFO]: [CHAT] Булыжник: 116
+[23:26:14] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:14] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:14] [Client thread/INFO]: [CHAT] Булыжник: 119
+[23:26:14] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:15] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:15] [Client thread/INFO]: [CHAT] Булыжник: 123
+[23:26:15] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:15] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:15] [Client thread/INFO]: [CHAT] Булыжник: 127
+[23:26:15] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:15] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:15] [Client thread/INFO]: [CHAT] Булыжник: 131
+[23:26:15] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:15] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:15] [Client thread/INFO]: [CHAT] Булыжник: 134
+[23:26:15] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:15] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:15] [Client thread/INFO]: [CHAT] Булыжник: 138
+[23:26:15] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:16] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:16] [Client thread/INFO]: [CHAT] Булыжник: 142
+[23:26:16] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:16] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:16] [Client thread/INFO]: [CHAT] Булыжник: 145
+[23:26:16] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:16] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:16] [Client thread/INFO]: [CHAT] Булыжник: 149
+[23:26:16] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:16] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:16] [Client thread/INFO]: [CHAT] Булыжник: 152
+[23:26:16] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:16] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:16] [Client thread/INFO]: [CHAT] Булыжник: 155
+[23:26:16] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:16] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:16] [Client thread/INFO]: [CHAT] Булыжник: 158
+[23:26:16] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:17] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:17] [Client thread/INFO]: [CHAT] Булыжник: 161
+[23:26:17] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:17] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:17] [Client thread/INFO]: [CHAT] Булыжник: 164
+[23:26:17] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:17] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:17] [Client thread/INFO]: [CHAT] Булыжник: 168
+[23:26:17] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:21] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:21] [Client thread/INFO]: [CHAT] Булыжник: 251
+[23:26:21] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:24] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:24] [Client thread/INFO]: [CHAT] Булыжник: 302
+[23:26:24] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:24] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:24] [Client thread/INFO]: [CHAT] Булыжник: 306
+[23:26:24] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:24] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:24] [Client thread/INFO]: [CHAT] Булыжник: 309
+[23:26:24] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:24] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:24] [Client thread/INFO]: [CHAT] Булыжник: 313
+[23:26:24] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:24] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:24] [Client thread/INFO]: [CHAT] Булыжник: 316
+[23:26:24] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:24] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:24] [Client thread/INFO]: [CHAT] Булыжник: 319
+[23:26:24] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:25] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:25] [Client thread/INFO]: [CHAT] Булыжник: 322
+[23:26:25] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:25] [Client thread/INFO]: [CHAT] Tier: 5
+[23:26:25] [Client thread/INFO]: [CHAT] Булыжник: 325
+[23:26:25] [Client thread/INFO]: [CHAT] Вместимость хранилища: 100000
+[23:26:25] [Client thread/INFO]: [CHAT] Tier: Super
+[23:26:25] [Client thread/INFO]: [CHAT] Булыжник: 128
+[23:26:25] [Client thread/INFO]: [CHAT] Вместимость хранилища: 128
+[23:26:26] [Client thread/INFO]: [CHAT] Tier: Super
+[23:26:26] [Client thread/INFO]: [CHAT] Булыжник: 128
+[23:26:26] [Client thread/INFO]: [CHAT] Вместимость хранилища: 128
+[23:26:26] [Client thread/INFO]: [CHAT] Tier: Super
+[23:26:26] [Client thread/INFO]: [CHAT] Булыжник: 128
+[23:26:26] [Client thread/INFO]: [CHAT] Вместимость хранилища: 128
+[23:26:26] [Client thread/INFO]: [CHAT] Tier: Super
+[23:26:26] [Client thread/INFO]: [CHAT] Булыжник: 128
+[23:26:26] [Client thread/INFO]: [CHAT] Вместимость хранилища: 128
+[23:26:26] [Client thread/INFO]: [CHAT] Tier: Super
+[23:26:26] [Client thread/INFO]: [CHAT] Булыжник: 128
+[23:26:26] [Client thread/INFO]: [CHAT] Вместимость хранилища: 128
+[23:26:26] [Client thread/INFO]: [CHAT] Tier: Super
+[23:26:26] [Client thread/INFO]: [CHAT] Булыжник: 128
+[23:26:26] [Client thread/INFO]: [CHAT] Вместимость хранилища: 128
+[23:26:27] [Client thread/INFO]: [CHAT] Tier: Super
+[23:26:27] [Client thread/INFO]: [CHAT] Булыжник: 128
+[23:26:27] [Client thread/INFO]: [CHAT] Вместимость хранилища: 128
+[23:26:27] [Client thread/INFO]: [CHAT] Tier: Super
+[23:26:27] [Client thread/INFO]: [CHAT] Булыжник: 128
+[23:26:27] [Client thread/INFO]: [CHAT] Вместимость хранилища: 128
+[23:26:27] [Client thread/INFO]: [CHAT] Tier: Super
+[23:26:27] [Client thread/INFO]: [CHAT] Булыжник: 128
+[23:26:27] [Client thread/INFO]: [CHAT] Вместимость хранилища: 128
+[23:27:42] [Client thread/INFO]: Stopping!
+[23:27:42] [Server thread/INFO]: Stopping server
+[23:27:42] [Server thread/INFO]: Saving players
+[23:27:42] [Server thread/INFO]: Saving worlds
+[23:27:42] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[23:27:42] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[23:27:42] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[23:27:42] [Client Shutdown Thread/INFO]: Stopping server
+[23:27:42] [Client Shutdown Thread/INFO]: Saving players

@@ -11,13 +11,16 @@ import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.registry.GameRegistry;
 import net.minecraft.creativetab.CreativeTabs;
+import net.minecraft.init.Blocks;
 import net.minecraft.init.Items;
 import net.minecraft.item.Item;
+import net.minecraft.item.ItemStack;
 
 
 @Mod(
         modid = Variables.MODID,
-        version = Variables.VERSION
+        version = Variables.VERSION,
+        name = Variables.MODNAME
 )
 
 public class CobblerMod {
@@ -31,7 +34,7 @@ public class CobblerMod {
     public static final CreativeTabs COBBLER = new CreativeTabs("cobblerGroup") {
         @Override
         public Item getTabIconItem() {
-            return GameRegistry.findItem("cobblermod", "blockCobbler0");
+            return GameRegistry.findItem(Variables.MODID, "tile.blockCobbler");
         }
     };
     //CREATE CREATIVE TAB END
